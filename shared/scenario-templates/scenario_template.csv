@@ -1,0 +1,5 @@
+scenario_name,description,initial_stock,inflow,outflow,delay,shock,learning_rate,interpretation_note
+baseline,Baseline system behavior,50,5,3.5,1,0,0.04,Reference scenario
+high_pressure,Greater disruption pressure,50,5,4.5,2,2,0.04,System under strain
+resilience_investment,Higher learning and recovery,50,5.5,3.5,1,1,0.08,Capacity-building scenario
+delayed_response,Slow correction and delayed feedback,50,4.5,4,8,1.5,0.03,Risk of oscillation

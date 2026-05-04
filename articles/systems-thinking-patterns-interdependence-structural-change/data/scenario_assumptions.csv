@@ -1,0 +1,5 @@
+scenario,initial_capacity,baseline_inflow,baseline_outflow,disruption_pressure,learning_rate,recovery_rate
+baseline,60,4.0,3.2,1.0,0.04,0.05
+high_pressure,60,4.0,3.2,3.0,0.04,0.05
+resilience_investment,60,4.5,3.0,2.0,0.07,0.08
+delayed_response,60,3.8,3.4,2.5,0.03,0.03

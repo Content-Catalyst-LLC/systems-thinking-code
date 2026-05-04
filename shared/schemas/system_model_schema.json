@@ -1,0 +1,18 @@
+{
+  "schema_name": "system_model_schema",
+  "description": "Metadata schema for systems-thinking models.",
+  "fields": [
+    {"name": "system_id", "type": "integer"},
+    {"name": "system_name", "type": "string"},
+    {"name": "boundary_note", "type": "string"},
+    {"name": "variable_name", "type": "string"},
+    {"name": "variable_type", "type": "stock|flow|auxiliary|external_pressure"},
+    {"name": "relationship_source", "type": "string"},
+    {"name": "relationship_target", "type": "string"},
+    {"name": "polarity", "type": "+|-"},
+    {"name": "delay_type", "type": "none|short|medium|long"},
+    {"name": "scenario_name", "type": "string"},
+    {"name": "assumptions", "type": "string"},
+    {"name": "interpretation_note", "type": "string"}
+  ]
+}
