@@ -1,0 +1,9 @@
+source,target,polarity,delay,relationship_note
+public_trust,service_demand,negative,medium,Higher trust can reduce crisis-driven demand
+institutional_capacity,response_delay,negative,short,Higher capacity reduces delay
+service_demand,response_delay,positive,short,Higher demand increases delay
+response_delay,public_trust,negative,long,Long delays erode trust
+maintenance_backlog,institutional_capacity,negative,long,Backlog weakens capacity over time
+resource_flow,institutional_capacity,positive,medium,Resources strengthen capacity
+stress_load,resilience_buffer,negative,medium,Stress depletes resilience
+resilience_buffer,institutional_capacity,positive,medium,Resilience supports effective response

@@ -1,0 +1,6 @@
+scenario_id,scenario_name,resource_multiplier,demand_multiplier,delay_multiplier,shock_period,shock_size
+S001,Baseline,1.00,1.00,1.00,0,0
+S002,Resource Investment,1.25,1.00,0.90,0,0
+S003,Demand Shock,1.00,1.35,1.20,6,20
+S004,Delayed Maintenance,0.95,1.10,1.30,4,15
+S005,Resilience Strategy,1.15,0.95,0.85,6,10
