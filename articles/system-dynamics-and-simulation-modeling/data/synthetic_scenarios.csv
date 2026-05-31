@@ -1,0 +1,7 @@
+scenario_id,scenario_name,policy_strength,implementation_delay,feedback_delay,demand_growth_rate,capacity_investment_rate,notes
+S001,Baseline continuation,0.00,0,2,0.012,0.00,No new intervention
+S002,Early capacity investment,0.55,2,1,0.012,0.08,Invest before severe backlog growth
+S003,Delayed correction,0.65,8,3,0.012,0.08,Strong action after delay
+S004,High demand stress case,0.55,2,1,0.025,0.08,Higher demand growth
+S005,Low resource case,0.30,4,2,0.012,0.03,Constrained implementation
+S006,Combined structural reform,0.70,2,1,0.008,0.10,Capacity plus demand reduction and feedback improvement

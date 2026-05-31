@@ -1,0 +1,11 @@
+variable_id,variable_name,variable_type,unit,description
+V001,service_backlog,stock,cases,Accumulated unresolved service requests
+V002,staff_capacity,stock,effective_staff,Effective workforce capacity after onboarding and attrition
+V003,public_trust,stock,index_0_100,Accumulated public trust in system reliability
+V004,monthly_demand,flow,cases_per_month,Incoming service demand
+V005,case_completion_rate,flow,cases_per_month,Rate of service completion
+V006,turnover_rate,flow,staff_per_month,Rate at which staff capacity is lost
+V007,hiring_rate,flow,staff_per_month,Rate at which new staff are added
+V008,implementation_delay,parameter,months,Delay between policy adoption and effective implementation
+V009,feedback_delay,parameter,months,Delay in recognizing system condition
+V010,policy_strength,parameter,index_0_1,Relative strength of intervention

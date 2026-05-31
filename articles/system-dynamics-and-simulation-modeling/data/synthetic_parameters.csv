@@ -1,0 +1,10 @@
+parameter_name,baseline_value,min_value,max_value,unit,description
+initial_backlog,1200,500,2500,cases,Initial unresolved cases
+initial_staff_capacity,45,25,80,effective_staff,Initial staff capacity
+base_demand,420,300,650,cases_per_month,Starting monthly demand
+demand_growth_rate,0.012,0.000,0.030,per_month,Demand growth rate
+productivity_per_staff,8.0,5.0,12.0,cases_per_staff_month,Completion capacity per staff unit
+hiring_delay,3,1,8,months,Delay before hiring affects capacity
+feedback_delay,2,0,6,months,Delay before backlog pressure is perceived
+trust_loss_per_delay,0.015,0.000,0.050,index_per_delay,Trust erosion from backlog pressure
+policy_strength,0.35,0.0,1.0,index,Relative intervention strength

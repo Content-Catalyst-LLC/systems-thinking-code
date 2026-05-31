@@ -1,0 +1,7 @@
+run_id,scenario_id,run_date,model_version,time_horizon_months,status
+RUN001,S001,2026-05-31,v1.0,36,complete
+RUN002,S002,2026-05-31,v1.0,36,complete
+RUN003,S003,2026-05-31,v1.0,36,complete
+RUN004,S004,2026-05-31,v1.0,36,complete
+RUN005,S005,2026-05-31,v1.0,36,complete
+RUN006,S006,2026-05-31,v1.0,36,complete

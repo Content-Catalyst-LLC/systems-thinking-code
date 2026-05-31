@@ -1,0 +1,1 @@
+Generated outputs will appear in outputs/figures and outputs/tables after running the example scripts.
