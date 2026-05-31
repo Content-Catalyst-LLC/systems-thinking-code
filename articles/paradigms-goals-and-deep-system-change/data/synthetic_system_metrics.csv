@@ -1,0 +1,7 @@
+metric_id,metric_name,domain,metric_type,related_goal,warning
+M001,cases_processed,public_administration,flow,narrow_throughput,Can reward speed while hiding burden or error.
+M002,eligible_access_rate,public_administration,outcome,dignified_access,Must be disaggregated by group and barrier type.
+M003,administrative_burden_index,public_administration,stock,dignified_access,Often invisible unless directly measured.
+M004,staff_recovery_capacity,organization,stock,sustainable_capacity,Can be depleted while output remains high.
+M005,ecological_resilience_index,climate_policy,stock,ecological_stewardship,Long-term stock may change slowly.
+M006,development_revenue,urban_policy,flow,growth_revenue,Can hide displacement or ecological cost.

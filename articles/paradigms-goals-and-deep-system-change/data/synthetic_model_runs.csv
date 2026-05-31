@@ -1,0 +1,5 @@
+run_id,scenario_id,objective_id,paradigm_id,notes
+R001,S001,O001,P005,Narrow throughput model with limited boundary costs.
+R002,S002,O002,P006,Access and dignity model with burden and harm penalties.
+R003,S003,O003,P002,Resilience and repair model with expanded boundary costs.
+R004,S005,O004,P001,Growth-revenue model with partially externalized costs.

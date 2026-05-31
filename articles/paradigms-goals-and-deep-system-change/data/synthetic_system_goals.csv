@@ -1,0 +1,7 @@
+goal_id,system_domain,goal_name,goal_type,description
+G001,public_administration,dignified_access,explicit,Ensure eligible people can access services with minimal burden and strong accountability.
+G002,public_administration,risk_avoidance,implicit,Minimize institutional exposure to improper payments or reputational risk.
+G003,organization,sustainable_capacity,explicit,Protect human capacity while maintaining durable performance.
+G004,organization,maximum_output,implicit,Maximize near-term output even when capacity is depleted.
+G005,climate_policy,ecological_stewardship,explicit,Protect regenerative capacity and long-term ecological resilience.
+G006,urban_policy,growth_revenue,implicit,Prioritize development, expansion, and near-term revenue.

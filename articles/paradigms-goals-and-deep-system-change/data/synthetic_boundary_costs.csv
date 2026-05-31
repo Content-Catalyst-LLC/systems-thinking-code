@@ -1,0 +1,6 @@
+cost_id,scenario_id,cost_name,internal_cost,externalized_cost,affected_group,time_horizon_years
+C001,S001,processing_cost,120000,350000,applicants_and_caregivers,1
+C002,S002,implementation_cost,250000,90000,agency_staff,2
+C003,S003,deferred_maintenance,100000,780000,future_residents,10
+C004,S004,platform_efficiency_gain,50000,420000,users_with_low_appeal_access,3
+C005,S005,development_revenue_gain,200000,620000,displaced_households,5
