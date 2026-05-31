@@ -1,0 +1,9 @@
+stock_id,stock_name,level,unit,description
+S001,public_trust,community,index_0_100,Accumulated confidence that institutions are reliable and fair
+S002,administrative_burden,household,hours_per_month,Accumulated procedural effort required to access services
+S003,household_security,household,index_0_100,Accumulated income stability savings housing stability and care support
+S004,institutional_capacity,agency,effective_staff_units,Accumulated staffing knowledge systems and legitimacy
+S005,capability,individual,index_0_100,Accumulated ability to learn act participate and flourish
+S006,social_cohesion,community,index_0_100,Accumulated relationships mutual recognition and civic connection
+S007,debt_burden,household,dollars,Accumulated debt and future payment obligation
+S008,public_legitimacy,institution,index_0_100,Accumulated belief that authority is fair lawful and responsive

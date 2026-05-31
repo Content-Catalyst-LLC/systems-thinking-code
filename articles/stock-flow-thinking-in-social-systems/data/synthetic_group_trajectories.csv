@@ -1,0 +1,11 @@
+group_id,period,trust,administrative_burden,household_security,capability,notes
+G_LOW_ACCESS,0,42,18,38,45,Lower access baseline with high administrative burden
+G_LOW_ACCESS,1,43,19,39,46,Slight trust gain offset by friction
+G_LOW_ACCESS,2,43,21,38,46,Burden continues to rise
+G_LOW_ACCESS,3,45,20,40,48,Support flow begins
+G_LOW_ACCESS,4,48,17,43,51,Simplification and support reduce burden
+G_HIGH_ACCESS,0,68,7,67,71,Higher access baseline
+G_HIGH_ACCESS,1,70,7,69,72,Positive stock trajectory
+G_HIGH_ACCESS,2,72,6,71,74,Lower burden supports capability
+G_HIGH_ACCESS,3,73,6,73,76,Security improves
+G_HIGH_ACCESS,4,75,5,75,78,Trust and capability compound

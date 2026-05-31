@@ -1,0 +1,9 @@
+indicator_id,indicator_name,unit,baseline_value,description
+B001,forms_required,count,6,Number of separate forms or form sections
+B002,documentation_requests,count,4,Separate documentation requests
+B003,average_wait_days,days,24,Average wait time for decision
+B004,portal_failures_per_100_users,count,12,Digital access failures
+B005,appeal_steps,count,3,Steps required to appeal denial or error
+B006,caseworker_access,index_0_100,38,Accessibility of human support
+B007,language_access,index_0_100,44,Accessibility for non-English or multilingual users
+B008,discouraged_applicants,index_0_100,57,Estimated stock of eligible people discouraged from applying

@@ -1,0 +1,11 @@
+flow_id,stock_id,flow_name,direction,baseline_rate,unit,description
+F001,S001,reliable_service,inflow,3.2,index_points_per_month,Trust gained through reliable service
+F002,S001,unresolved_harm,outflow,2.6,index_points_per_month,Trust lost through delay exclusion and broken promises
+F003,S002,procedural_friction,inflow,5.5,hours_per_month,Burden added through forms delay and verification
+F004,S002,assistance_and_simplification,outflow,2.1,hours_per_month,Burden reduced through support and simplification
+F005,S003,income_support,inflow,4.0,index_points_per_month,Security gained through income benefits and stability
+F006,S003,cost_shock,outflow,3.7,index_points_per_month,Security lost through rent medical costs or job loss
+F007,S004,hiring_and_learning,inflow,2.8,staff_units_per_month,Capacity gained through hiring training and retention
+F008,S004,turnover_and_burnout,outflow,2.4,staff_units_per_month,Capacity lost through turnover and burnout
+F009,S005,education_health_support,inflow,3.5,index_points_per_month,Capability built through learning health and stability
+F010,S005,exclusion_and_stress,outflow,2.9,index_points_per_month,Capability drained by exclusion instability and stress
