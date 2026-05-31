@@ -1,0 +1,8 @@
+level_id,level_name,parent_level,description
+L001,component,process,Individual components or assets
+L002,process,organization,Workflows and operating processes
+L003,team,organization,Groups performing coordinated work
+L004,organization,network,Formal institution or agency
+L005,network,regional_system,Interorganizational dependency network
+L006,regional_system,socio_ecological_system,Regional infrastructure and service system
+L007,socio_ecological_system,,Human, technical, institutional, and ecological whole

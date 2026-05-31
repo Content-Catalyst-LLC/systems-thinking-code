@@ -1,0 +1,11 @@
+part_id,part_name,level,part_type,criticality,baseline_capacity
+P001,public_agency,organization,institutional,high,72
+P002,data_platform,technical_system,informational,high,68
+P003,frontline_team,team,social,high,64
+P004,maintenance_unit,team,operational,high,58
+P005,community_users,community,social,high,60
+P006,funding_stream,policy_environment,governance,high,55
+P007,regional_infrastructure,regional_system,technical,high,62
+P008,ecological_context,environment,ecological,high,50
+P009,contractor_network,network,operational,medium,57
+P010,oversight_body,governance,institutional,medium,66

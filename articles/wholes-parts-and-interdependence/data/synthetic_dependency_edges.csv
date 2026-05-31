@@ -1,0 +1,11 @@
+source,target,dependency_type,weight,delay,relationship_note
+frontline_team,data_platform,information,0.80,short,Frontline coordination depends on data access
+maintenance_unit,funding_stream,resource,0.90,medium,Maintenance depends on stable funding
+regional_infrastructure,maintenance_unit,operational,0.85,long,Infrastructure condition depends on maintenance capacity
+community_users,regional_infrastructure,service,0.95,short,Community wellbeing depends on infrastructure service
+public_agency,oversight_body,authority,0.60,medium,Agency behavior is shaped by oversight
+public_agency,funding_stream,resource,0.75,medium,Agency capacity depends on funding rules
+frontline_team,public_agency,organizational,0.70,short,Team capacity depends on agency priorities
+contractor_network,public_agency,operational,0.55,medium,Contractors depend on agency procurement
+regional_infrastructure,ecological_context,ecological,0.65,long,Infrastructure risk depends on ecological stress
+community_users,public_agency,legitimacy,0.70,long,Public trust depends on agency performance

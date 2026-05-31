@@ -1,0 +1,15 @@
+title: "Wholes, Parts, and Interdependence"
+slug: "wholes-parts-and-interdependence"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/wholes-parts-and-interdependence/"
+summary: "Companion repository scaffold for part-whole systems thinking, interdependence, dependency pathways, local optimization, failure propagation, and resilience diagnostics."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
