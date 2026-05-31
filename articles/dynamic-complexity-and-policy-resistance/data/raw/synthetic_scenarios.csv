@@ -1,0 +1,6 @@
+scenario_id,scenario_name,policy_strength,compensation_strength,implementation_lag,boundary_cost_weight
+S001,baseline symptomatic fix,0.65,0.55,3,0.20
+S002,capacity investment,0.80,0.25,6,0.40
+S003,narrow metric pressure,0.75,0.70,2,0.15
+S004,boundary-aware reform,0.70,0.30,5,0.75
+S005,adaptive governance,0.72,0.20,4,0.85

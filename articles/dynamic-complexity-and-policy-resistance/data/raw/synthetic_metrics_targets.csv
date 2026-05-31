@@ -1,0 +1,7 @@
+metric_id,metric_name,target_behavior,gaming_risk,system_health_proxy
+M001,cases_processed_per_week,increase processing speed,high,weak
+M002,average_commute_time,reduce reported congestion,medium,partial
+M003,verification_error_rate,reduce measured error,high,narrow
+M004,test_score_index,increase scores,high,partial
+M005,automation_completion_rate,increase throughput,medium,partial
+M006,preventive_maintenance_ratio,increase prevention,low,strong
