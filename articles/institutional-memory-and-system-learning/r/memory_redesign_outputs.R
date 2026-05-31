@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+runs <- read.csv(file.path(raw, "synthetic_model_runs.csv"))
+runs$learning_effectiveness <- rowMeans(runs[, c("projected_memory_score", "feedback_closure", "authority_connection")])
+write.csv(runs[, c("scenario", "projected_memory_score", "projected_repeat_error_risk", "learning_effectiveness")], file.path(out, "r_memory_redesign_outputs.csv"), row.names = FALSE)

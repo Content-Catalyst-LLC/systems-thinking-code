@@ -1,0 +1,8 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+doc <- read.csv(file.path(raw, "synthetic_documentation_quality.csv"))
+freshness <- pmax(0, 1 - pmin(doc$last_review_months, 24) / 24)
+doc$quality_score <- rowMeans(cbind(doc$completeness, doc$searchability, doc$ownership_defined, freshness, doc$decision_rationale, doc$context_preserved))
+write.csv(doc[, c("asset_id", "quality_score", "update_status")], file.path(out, "r_documentation_quality.csv"), row.names = FALSE)

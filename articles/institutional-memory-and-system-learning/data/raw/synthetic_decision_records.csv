@@ -1,0 +1,9 @@
+decision_id,period,domain,decision_type,alternatives_recorded,assumptions_recorded,risks_recorded,review_trigger_defined,used_in_later_decision
+D01,1,Public Programs,Eligibility Rule,1,1,1,0,0
+D02,1,Digital Systems,Platform Architecture,1,1,1,1,1
+D03,2,Civic Engagement,Consultation Design,0,1,1,0,0
+D04,2,Operations,Staffing Model,1,0,1,0,0
+D05,3,Quality and Safety,Incident Response,1,1,1,1,1
+D06,3,Knowledge Architecture,Repository Taxonomy,1,1,0,1,1
+D07,4,Public Programs,Administrative Simplification,1,1,1,1,1
+D08,4,Governance,Accountability Process,0,1,1,0,0

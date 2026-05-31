@@ -1,0 +1,9 @@
+learning_id,period,domain,event_type,lesson_captured,lesson_embedded,authority_connected,reuse_score
+L01,1,Public Programs,Postmortem,1,0,0,0.22
+L02,1,Digital Systems,Design Review,1,1,1,0.71
+L03,2,Civic Engagement,Community Review,1,0,0,0.28
+L04,2,Operations,Workflow Audit,1,0,1,0.36
+L05,3,Quality and Safety,Near Miss Review,1,1,1,0.82
+L06,3,Knowledge Architecture,Repository Redesign,1,1,1,0.76
+L07,4,Public Programs,Burden Reduction Pilot,1,1,1,0.84
+L08,4,Governance,Accountability Review,1,0,0,0.31

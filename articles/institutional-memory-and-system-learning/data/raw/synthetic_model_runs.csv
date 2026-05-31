@@ -1,0 +1,6 @@
+run_id,scenario,turnover_rate,documentation_quality,feedback_closure,authority_connection,projected_memory_score,projected_repeat_error_risk
+RUN01,status_quo,0.22,0.56,0.34,0.42,0.48,0.69
+RUN02,documentation_only,0.22,0.78,0.38,0.45,0.58,0.61
+RUN03,handoff_and_mentoring,0.14,0.70,0.45,0.52,0.66,0.52
+RUN04,feedback_closure_redesign,0.18,0.74,0.72,0.70,0.77,0.36
+RUN05,memory_authority_integration,0.16,0.82,0.80,0.84,0.86,0.24

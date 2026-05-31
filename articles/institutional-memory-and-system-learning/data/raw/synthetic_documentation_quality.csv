@@ -1,0 +1,9 @@
+asset_id,completeness,searchability,ownership_defined,last_review_months,decision_rationale,context_preserved,update_status
+M01,0.82,0.73,1,5,1,1,current
+M02,0.74,0.66,1,11,1,1,needs_review
+M03,0.58,0.49,0,18,0,1,stale
+M04,0.79,0.55,1,7,1,1,current
+M05,0.69,0.84,1,9,0,0,current
+M06,0.62,0.43,0,22,1,1,stale
+M07,0.76,0.68,1,8,1,1,current
+M08,0.51,0.39,0,20,0,1,stale

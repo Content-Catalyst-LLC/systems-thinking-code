@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+errors <- read.csv(file.path(raw, "synthetic_repeated_errors.csv"))
+errors$risk <- pmin(1, errors$preventability_score * (1 + errors$repeat_count * 0.12) * (1 - errors$lesson_consulted * 0.35))
+write.csv(errors[, c("error_id", "domain", "error_type", "risk")], file.path(out, "r_repeated_error_risk.csv"), row.names = FALSE)

@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+feedback <- read.csv(file.path(raw, "synthetic_feedback_signals.csv"))
+summary <- aggregate(cbind(acted_upon, loop_closed, context_preserved) ~ domain, data = feedback, FUN = mean)
+write.csv(summary, file.path(out, "r_feedback_closure_summary.csv"), row.names = FALSE)

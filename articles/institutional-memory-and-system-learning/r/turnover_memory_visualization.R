@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+turnover <- read.csv(file.path(raw, "synthetic_turnover_events.csv"))
+turnover$memory_loss_index <- (turnover$turnover_count * 0.12 + turnover$critical_role_departures * 0.18 + turnover$relationship_loss_score * 0.25) * (1 - turnover$handoff_quality * 0.65)
+write.csv(turnover[, c("period", "team", "memory_loss_index")], file.path(out, "r_turnover_memory_loss.csv"), row.names = FALSE)

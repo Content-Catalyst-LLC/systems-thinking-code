@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+assets <- read.csv(file.path(raw, "synthetic_memory_assets.csv"))
+assets$memory_score <- rowMeans(assets[, c("freshness_score", "accessibility_score", "context_score", "authority_link_score")])
+write.csv(assets[, c("asset_id", "asset_type", "domain", "memory_score")], file.path(out, "r_memory_retention_summary.csv"), row.names = FALSE)

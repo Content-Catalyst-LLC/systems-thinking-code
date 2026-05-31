@@ -1,0 +1,7 @@
+metric,baseline,redesign,change
+memory_score,0.48,0.86,0.38
+repeat_error_risk,0.69,0.24,-0.45
+feedback_closure,0.34,0.80,0.46
+documentation_quality,0.56,0.82,0.26
+authority_connection,0.42,0.84,0.42
+turnover_memory_loss,0.58,0.26,-0.32

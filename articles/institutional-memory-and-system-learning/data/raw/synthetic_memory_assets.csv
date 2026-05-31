@@ -1,0 +1,9 @@
+asset_id,asset_type,domain,owner_role,freshness_score,accessibility_score,context_score,authority_link_score
+M01,Decision Record,Public Programs,Policy Director,0.82,0.76,0.88,0.74
+M02,After Action Review,Emergency Response,Operations Lead,0.70,0.68,0.84,0.66
+M03,Community Feedback Log,Civic Engagement,Community Liaison,0.64,0.58,0.91,0.52
+M04,Technical Design Rationale,Digital Systems,Engineering Lead,0.77,0.62,0.86,0.61
+M05,Onboarding Playbook,Internal Operations,Knowledge Steward,0.73,0.81,0.69,0.57
+M06,Policy History Archive,Governance,Archivist,0.59,0.54,0.89,0.49
+M07,Failure Memory Register,Quality and Safety,Learning Lead,0.68,0.65,0.93,0.72
+M08,Relationship Continuity Record,Community Programs,Program Manager,0.61,0.50,0.87,0.43

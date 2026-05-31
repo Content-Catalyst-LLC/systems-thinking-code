@@ -1,0 +1,8 @@
+action_id,period,domain,action_type,memory_source,authority_connected,embedded_in_routine,expected_memory_gain
+A01,1,Public Programs,Decision Record Requirement,M01,1,0,0.18
+A02,2,Civic Engagement,Community Feedback Register,M03,0,0,0.12
+A03,2,Digital Systems,Design Rationale Template,M04,1,1,0.29
+A04,3,Quality and Safety,Near Miss Learning Loop,M07,1,1,0.34
+A05,3,Knowledge Architecture,Repository Taxonomy,M05,1,1,0.31
+A06,4,Public Programs,Burden Lesson Review Gate,M01,1,1,0.38
+A07,4,Governance,Commitment Tracking Ledger,M06,0,0,0.16
