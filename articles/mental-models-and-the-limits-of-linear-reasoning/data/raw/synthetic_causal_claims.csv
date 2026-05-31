@@ -1,0 +1,13 @@
+claim_id,model_id,cause,effect,polarity,delay,claim_type
+C01,M01,pressure,output,positive,short,linear
+C02,M01,pressure,error_rate,positive,medium,omitted_feedback
+C03,M02,workload,fatigue,positive,medium,feedback
+C04,M02,fatigue,rework,positive,medium,feedback
+C05,M02,rework,workload,positive,medium,reinforcing
+C06,M03,information,behavior_change,positive,short,linear
+C07,M04,trust,participation,positive,medium,feedback
+C08,M04,burden,participation,negative,medium,feedback
+C09,M05,lane_capacity,congestion,negative,short,linear
+C10,M06,lane_capacity,vehicle_demand,positive,medium,induced_demand
+C11,M08,automation,appeal_burden,positive,medium,burden_shift
+C12,M10,burden_reduction,eligible_access,positive,medium,structural

@@ -1,0 +1,11 @@
+model_id,model_name,domain,dominant_assumption,linear_score,feedback_score,boundary_score,power_awareness_score
+M01,Effort Pressure Model,organization,Performance rises when pressure rises,0.86,0.24,0.31,0.28
+M02,Capacity Feedback Model,organization,Performance depends on workload capacity recovery and rework,0.28,0.88,0.74,0.62
+M03,Information Deficit Model,public_health,People change behavior when information improves,0.82,0.32,0.37,0.34
+M04,Trust Access Context Model,public_health,Behavior depends on trust access cost history and capacity,0.30,0.84,0.81,0.78
+M05,Road Capacity Model,infrastructure,Congestion falls when lanes increase,0.88,0.26,0.40,0.29
+M06,Mobility System Model,infrastructure,Congestion depends on land use demand transit housing and access,0.25,0.90,0.86,0.70
+M07,Automation Efficiency Model,technology,Automation speeds a flawed process into efficiency,0.80,0.35,0.42,0.38
+M08,Sociotechnical Governance Model,technology,Automation changes burden accountability feedback and rights,0.31,0.87,0.83,0.84
+M09,Verification Control Model,public_admin,More documentation improves accountability,0.78,0.33,0.46,0.42
+M10,Burden and Dignity Model,public_admin,Accountability requires access appeal dignity and burden reduction,0.29,0.86,0.88,0.89

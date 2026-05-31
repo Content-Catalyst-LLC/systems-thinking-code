@@ -1,0 +1,9 @@
+loop_id,loop_name,domain,loop_type,description,delay_strength,learning_priority
+L01,Pressure-Rework Loop,organization,reinforcing,Pressure increases error and rework which increases workload and future pressure,0.72,high
+L02,Recovery-Capacity Loop,organization,balancing,Recovery rebuilds capacity and reduces overload,0.58,high
+L03,Trust-Participation Loop,public_health,reinforcing,Reliable service builds trust which increases participation and useful feedback,0.66,high
+L04,Messaging-Distrust Loop,public_health,reinforcing,Messaging without repair can deepen distrust and reduce future message effectiveness,0.70,high
+L05,Induced Demand Loop,infrastructure,reinforcing,Added road capacity lowers travel time which increases demand and restores congestion,0.81,high
+L06,Automation-Appeal Loop,technology,reinforcing,Automated decisions create errors and appeal burden which increases system workload,0.63,high
+L07,Documentation-Burden Loop,public_admin,reinforcing,Documentation rules increase burden and appeals which increase administrative workload,0.69,high
+L08,Dignity-Access Loop,public_admin,reinforcing,Accessible processes improve trust and completion which improves system feedback,0.55,medium

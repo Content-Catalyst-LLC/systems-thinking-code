@@ -1,0 +1,11 @@
+boundary_id,model_id,included_elements,excluded_elements,ethical_risk_score
+B01,M01,"output,targets,manager pressure","recovery,rework,staffing,care burden",0.82
+B02,M02,"output,workload,capacity,recovery,rework,turnover","informal power,household burden",0.46
+B03,M03,"message reach,awareness,intent","trust,access,cost,language,history",0.79
+B04,M04,"trust,access,cost,history,community voice","macro political economy",0.39
+B05,M05,"lanes,vehicle volume,travel time","land use,induced demand,emissions,transit",0.76
+B06,M06,"land use,transit,housing,access,vehicle demand","regional wealth dynamics",0.44
+B07,M07,"task speed,error rate,throughput","appeal burden,user rights,staff discretion",0.81
+B08,M08,"workflow,rights,appeals,data,burden,accountability","vendor political influence",0.52
+B09,M09,"documentation,error prevention,case review","eligible nonparticipation,language access,stress",0.85
+B10,M10,"burden,appeals,dignity,access,error correction","long-term budget politics",0.43

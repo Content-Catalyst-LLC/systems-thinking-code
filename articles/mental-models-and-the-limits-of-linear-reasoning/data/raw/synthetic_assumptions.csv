@@ -1,0 +1,12 @@
+assumption_id,model_id,assumption_text,confidence,disconfirming_signal,revision_priority
+A01,M01,Work pressure reliably increases output,0.78,rising error rework and turnover,high
+A02,M01,Low performance mainly reflects motivation,0.70,capacity constraints and unclear priorities,high
+A03,M02,Capacity is depleted when workload exceeds recovery,0.86,fatigue does not rise under load,medium
+A04,M03,Information is the main barrier to behavior change,0.74,high awareness but low participation,high
+A05,M04,Trust and access shape practical response to policy,0.88,high trust with persistent low participation,medium
+A06,M05,Traffic is mostly a capacity problem,0.76,induced demand after expansion,high
+A07,M06,Land use and demand respond to capacity changes,0.89,no demand response after capacity change,medium
+A08,M07,Automation reduces burden by default,0.72,appeals and user correction work increase,high
+A09,M08,Technology redistributes authority and contestability,0.84,no change in burden or authority after deployment,medium
+A10,M09,Documentation reduces misuse without meaningful access costs,0.69,rising eligible nonparticipation and appeals,high
+A11,M10,Administrative burden is a system outcome not only a user problem,0.91,burden unchanged after simplification,medium

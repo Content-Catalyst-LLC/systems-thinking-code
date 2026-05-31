@@ -1,0 +1,6 @@
+scenario,short_term_gain,delayed_harm,burden_visibility,structural_learning,overall_score
+linear_pressure_only,0.72,0.81,0.22,0.28,0.36
+feedback_aware_diagnosis,0.58,0.39,0.68,0.75,0.70
+boundary_critique_added,0.55,0.31,0.84,0.84,0.81
+participatory_system_model,0.52,0.26,0.91,0.91,0.88
+metric_only_model,0.64,0.70,0.35,0.39,0.44

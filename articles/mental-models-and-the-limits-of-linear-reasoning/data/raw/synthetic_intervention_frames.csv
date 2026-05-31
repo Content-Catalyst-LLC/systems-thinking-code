@@ -1,0 +1,11 @@
+frame_id,model_id,intervention_name,intervention_type,expected_short_term_effect,likely_system_response,redesign_score
+F01,M01,Increase Productivity Targets,pressure,output rises temporarily,fatigue rework turnover rise,0.24
+F02,M02,Redesign Workload and Recovery,structural,capacity stabilizes,rework and turnover decline,0.86
+F03,M03,Launch Awareness Campaign,communication,awareness rises,participation stalls if access and trust remain low,0.35
+F04,M04,Community Trust and Access Redesign,structural,participation rises gradually,feedback improves service fit,0.88
+F05,M05,Add Road Capacity,capacity_expansion,travel time falls briefly,vehicle demand and sprawl increase,0.29
+F06,M06,Access-Oriented Mobility Redesign,structural,mode options and access improve,demand pressure spreads across modes,0.82
+F07,M07,Automate Case Processing,technology,throughput rises,appeals and correction burden rise,0.40
+F08,M08,Sociotechnical Process Simplification,structural,error correction and user burden decline,accountability improves,0.87
+F09,M09,Tighten Documentation Requirements,enforcement,official error falls,eligible access and trust decline,0.32
+F10,M10,Burden-Reduced Accountability Design,structural,access improves while auditability remains,trust and completion rise,0.90

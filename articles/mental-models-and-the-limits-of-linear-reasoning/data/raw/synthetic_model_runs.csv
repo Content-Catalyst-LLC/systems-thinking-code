@@ -1,0 +1,6 @@
+run_id,scenario,linear_weight,feedback_weight,boundary_weight,power_weight,expected_learning_quality
+R01,linear_pressure_only,0.86,0.22,0.30,0.25,0.31
+R02,feedback_aware_diagnosis,0.35,0.88,0.72,0.60,0.78
+R03,boundary_critique_added,0.30,0.84,0.90,0.78,0.87
+R04,participatory_system_model,0.24,0.89,0.92,0.91,0.93
+R05,metric_only_model,0.75,0.38,0.42,0.33,0.44
