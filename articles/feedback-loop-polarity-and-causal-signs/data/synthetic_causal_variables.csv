@@ -1,0 +1,13 @@
+variable_id,variable_name,domain,description,unit_hint
+V001,Public trust,public health,Level of confidence that affected communities have in an institution,index_0_100
+V002,Cooperation,public health,Participation with guidance or service processes,index_0_100
+V003,Service performance,public health,Reliability and quality of institutional service delivery,index_0_100
+V004,Maintenance backlog,infrastructure,Accumulated unresolved maintenance work,count_or_cost
+V005,Failure risk,infrastructure,Probability or expected exposure to asset failure,index_0_100
+V006,Preventive maintenance,infrastructure,Level of proactive maintenance effort,index_0_100
+V007,Workload,organization,Volume of work relative to available capacity,index_0_100
+V008,Stress,organization,Worker strain associated with workload and pressure,index_0_100
+V009,Errors,organization,Operational errors or rework-producing defects,count
+V010,Staffing capacity,organization,Available staffing capacity for work demand,index_0_100
+V011,Response delay,service systems,Time between request and meaningful response,time_days
+V012,Policy complexity,governance,Administrative and procedural complexity of policy requirements,index_0_100

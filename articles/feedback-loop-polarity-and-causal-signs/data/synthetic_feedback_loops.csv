@@ -1,0 +1,5 @@
+loop_id,loop_name,edge_sequence,negative_edge_count,loop_polarity,interpretation
+L001,Trust-cooperation-performance loop,"E001|E002|E003",0,reinforcing,Trust supports cooperation and performance which can further build trust
+L002,Maintenance deterioration loop,"E004|E006|E007|E005",2,reinforcing,Backlog and emergency repair pressure can reinforce future deterioration when prevention is crowded out
+L003,Workload-stress-error loop,"E008|E009|E010",0,reinforcing,Workload can reinforce stress errors and additional workload
+L004,Staffing-delay correction loop,"E011",1,balancing,Additional capacity can counteract service delay when properly deployed

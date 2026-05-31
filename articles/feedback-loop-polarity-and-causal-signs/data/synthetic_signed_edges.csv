@@ -1,0 +1,13 @@
+edge_id,source_variable,target_variable,sign,delay,mechanism,confidence
+E001,Public trust,Cooperation,+,short,Higher trust tends to increase willingness to cooperate with institutions,medium
+E002,Cooperation,Service performance,+,medium,Greater cooperation can improve service reliability and implementation,medium
+E003,Service performance,Public trust,+,medium,Better performance can strengthen institutional trust over time,medium
+E004,Maintenance backlog,Failure risk,+,medium,More unresolved maintenance increases exposure to failure,high
+E005,Preventive maintenance,Maintenance backlog,-,medium,Preventive work reduces accumulated backlog over time,high
+E006,Failure risk,Emergency repair demand,+,short,Higher failure risk tends to increase emergency repair pressure,medium
+E007,Emergency repair demand,Preventive maintenance,-,medium,Emergency response can consume resources otherwise used for prevention,medium
+E008,Workload,Stress,+,short,Higher workload tends to increase worker stress,high
+E009,Stress,Errors,+,medium,Higher stress tends to increase mistakes and rework,medium
+E010,Errors,Workload,+,short,More errors increase rework and workload,medium
+E011,Staffing capacity,Response delay,-,medium,More staffing capacity tends to reduce delay,high
+E012,Policy complexity,Administrative burden,+,short,More complexity tends to increase burden on users and staff,medium

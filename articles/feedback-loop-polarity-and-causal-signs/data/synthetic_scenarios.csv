@@ -1,0 +1,5 @@
+scenario_id,scenario_name,description,changed_assumption
+S001,baseline,Current signed-edge assumptions remain unchanged,None
+S002,delayed_staffing,Staffing reduces delay only after long implementation lag,E011 delay changed from medium to long
+S003,policy_burden,Policy complexity strongly increases administrative burden,E012 confidence and strength increased
+S004,trust_repair,Service performance has stronger positive effect on trust,E003 strength increased

@@ -1,0 +1,9 @@
+indicator_id,indicator_name,variable_name,time_period,value
+I001,trust_index,Public trust,2026-Q1,58
+I002,trust_index,Public trust,2026-Q2,61
+I003,cooperation_index,Cooperation,2026-Q1,55
+I004,cooperation_index,Cooperation,2026-Q2,59
+I005,maintenance_backlog,Maintenance backlog,2026-Q1,120
+I006,maintenance_backlog,Maintenance backlog,2026-Q2,136
+I007,response_delay_days,Response delay,2026-Q1,18
+I008,response_delay_days,Response delay,2026-Q2,15
