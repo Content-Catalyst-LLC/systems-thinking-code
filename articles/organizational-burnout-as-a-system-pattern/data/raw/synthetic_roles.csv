@@ -1,0 +1,7 @@
+role_id,role_name,function,criticality,decision_authority,emotional_load,hidden_labor_share
+R01,Frontline Caseworker,Public Service,0.91,0.38,0.86,0.44
+R02,Clinical Coordinator,Healthcare,0.88,0.46,0.82,0.39
+R03,Support Engineer,Technology,0.84,0.52,0.58,0.35
+R04,Program Manager,Nonprofit,0.87,0.57,0.74,0.42
+R05,Teacher Advisor,Education,0.90,0.49,0.80,0.40
+R06,Research Operations Lead,Research,0.79,0.55,0.51,0.34

@@ -1,0 +1,5 @@
+root <- getwd(); if (basename(root) == "r") root <- dirname(root)
+scenarios <- read.csv(file.path(root, "data", "raw", "synthetic_redesign_scenarios.csv"))
+outputs <- read.csv(file.path(root, "data", "raw", "synthetic_outputs.csv"))
+joined <- merge(scenarios, outputs, by = "scenario_id")
+write.csv(joined[order(joined$projected_burnout_risk), ], file.path(root, "outputs", "tables", "r_redesign_scenario_outputs.csv"), row.names = FALSE)

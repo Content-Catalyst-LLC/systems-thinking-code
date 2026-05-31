@@ -1,0 +1,7 @@
+run_id,scenario_id,time_horizon,pressure_weight,recovery_weight,turnover_weight,memory_weight
+RUN001,S01,12,0.44,0.18,0.24,0.14
+RUN002,S02,12,0.40,0.22,0.24,0.14
+RUN003,S03,12,0.34,0.28,0.22,0.16
+RUN004,S04,12,0.32,0.25,0.22,0.21
+RUN005,S05,12,0.36,0.27,0.20,0.17
+RUN006,S06,12,0.29,0.31,0.20,0.20

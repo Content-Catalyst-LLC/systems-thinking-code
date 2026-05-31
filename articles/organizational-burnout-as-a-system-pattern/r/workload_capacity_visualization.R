@@ -1,0 +1,6 @@
+root <- normalizePath(file.path(getwd()), mustWork = FALSE)
+if (basename(root) == "r") root <- dirname(root)
+if (!dir.exists(file.path(root, "outputs", "tables"))) dir.create(file.path(root, "outputs", "tables"), recursive = TRUE)
+data <- read.csv(file.path(root, "data", "raw", "synthetic_workload_events.csv"))
+summary <- aggregate(cbind(visible_workload, rework_hours, capacity_index) ~ role_id, data, mean)
+write.csv(summary, file.path(root, "outputs", "tables", "r_workload_capacity_summary.csv"), row.names = FALSE)
