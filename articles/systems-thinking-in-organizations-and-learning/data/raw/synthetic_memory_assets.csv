@@ -1,0 +1,6 @@
+team_id,decision_records,updated_playbooks,onboarding_assets,postmortems_reused,key_person_dependency
+T01,14,6,4,3,0.72
+T02,18,8,5,5,0.60
+T03,22,9,6,6,0.57
+T04,11,5,3,2,0.76
+T05,10,4,3,2,0.80

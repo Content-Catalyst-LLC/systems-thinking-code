@@ -1,0 +1,6 @@
+team_id,team_name,function,baseline_capacity,starting_trust,starting_memory
+T01,Benefits Access,public_administration,82,0.64,0.58
+T02,Clinical Operations,healthcare,76,0.71,0.62
+T03,Platform Reliability,technology,88,0.69,0.73
+T04,Student Support,education,70,0.66,0.55
+T05,Community Programs,nonprofit,64,0.74,0.49
