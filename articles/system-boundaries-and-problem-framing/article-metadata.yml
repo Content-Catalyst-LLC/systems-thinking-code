@@ -1,0 +1,24 @@
+title: "System Boundaries and Problem Framing"
+slug: "system-boundaries-and-problem-framing"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/system-boundaries-and-problem-framing/"
+description: "Companion repository for a systems-thinking article on boundary critique, problem framing, stakeholder inclusion, externalities, scale, time horizon, and structural accountability."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+topics:
+  - systems thinking
+  - boundary critique
+  - problem framing
+  - externalities
+  - stakeholder inclusion
+  - cross-scale analysis
+  - governance
+  - responsible modeling

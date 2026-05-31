@@ -1,0 +1,5 @@
+scenario_id,scenario_name,boundary_id,frame_id,internal_cost_weight,external_cost_weight,stakeholder_weight,time_horizon_years
+SC001,Narrow Efficiency,B001,F001,1.00,0.10,0.10,1
+SC002,Institutional Reform,B002,F003,1.00,0.50,0.40,5
+SC003,Community Accountability,B003,F004,1.00,0.90,0.90,10
+SC004,Socio-Ecological Stewardship,B004,F005,1.00,1.00,0.80,30

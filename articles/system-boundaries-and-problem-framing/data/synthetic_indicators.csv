@@ -1,0 +1,5 @@
+boundary_id,measured_value,internal_cost,external_cost,stakeholder_inclusion_ratio,trust_score,resilience_score
+B001,220000,90000,280000,0.29,48,42
+B002,210000,120000,210000,0.43,55,51
+B003,195000,150000,130000,0.71,68,64
+B004,180000,170000,85000,0.86,74,72

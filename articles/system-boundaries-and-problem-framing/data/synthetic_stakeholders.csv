@@ -1,0 +1,8 @@
+stakeholder_id,name,affected,included,decision_authority,knowledge_type,burden_score
+S001,Agency leadership,yes,yes,high,administrative,2
+S002,Frontline workers,yes,partial,medium,operational,7
+S003,Affected residents,yes,no,low,lived_experience,9
+S004,Maintenance staff,yes,partial,low,technical_practical,8
+S005,Environmental advocates,yes,no,low,ecological_community,7
+S006,Future users,yes,no,none,intergenerational,8
+S007,Private vendors,partial,yes,medium,contractual_technical,3

@@ -1,0 +1,5 @@
+boundary_id,boundary_name,spatial_scope,time_horizon,level_of_analysis,description
+B001,Narrow Operational Boundary,facility,1_year,organization,Includes only internal operating costs and direct performance metrics
+B002,Institutional Boundary,agency_network,5_years,governance,Includes partner agencies funding capacity and accountability structures
+B003,Community Boundary,neighborhood_region,10_years,community,Includes affected residents frontline workers local institutions and access burdens
+B004,Socio-Ecological Boundary,watershed_region,30_years,socio_ecological,Includes ecological impacts externalities intergenerational risk and infrastructure life cycles

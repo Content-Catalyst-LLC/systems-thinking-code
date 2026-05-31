@@ -1,0 +1,6 @@
+externality_id,boundary_id,cost_category,internal_cost,external_cost,external_benefit,notes
+X001,B001,administrative_burden,10000,45000,0,Forms and delays shifted onto residents
+X002,B001,worker_burnout,15000,60000,0,Overload appears outside operating metric
+X003,B002,maintenance_deferral,50000,125000,0,Deferred repair creates future costs
+X004,B003,public_trust,20000,90000,10000,Trust effects spread beyond agency boundary
+X005,B004,ecological_damage,25000,160000,20000,Long-term ecological impacts included only in broad boundary
