@@ -1,0 +1,10 @@
+scenario,group,resilience,access,burden,cost_exposure
+baseline,overall,0.62,0.70,0.35,100
+baseline,low_buffer_households,0.50,0.55,0.62,130
+baseline,frontline_workers,0.55,0.65,0.58,120
+early_repair,overall,0.78,0.82,0.28,112
+early_repair,low_buffer_households,0.70,0.75,0.40,118
+burden_reduction,overall,0.74,0.86,0.22,105
+burden_reduction,low_buffer_households,0.70,0.80,0.32,109
+high_stress,overall,0.36,0.45,0.70,140
+high_stress,low_buffer_households,0.22,0.30,0.88,175

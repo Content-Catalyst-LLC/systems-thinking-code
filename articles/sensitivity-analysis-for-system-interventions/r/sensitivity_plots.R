@@ -1,0 +1,7 @@
+article_root <- if (basename(getwd()) == "r") normalizePath("..") else normalizePath(".")
+out_dir <- file.path(article_root, "outputs", "figures")
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+params <- read.csv(file.path(article_root, "data", "synthetic_sensitivity_parameters.csv"))
+png(file.path(out_dir, "parameter_range_widths.png"), width = 900, height = 600)
+barplot(params$max_value - params$min_value, names.arg = params$parameter, las = 2, main = "Synthetic Parameter Range Widths", ylab = "Range width")
+dev.off()

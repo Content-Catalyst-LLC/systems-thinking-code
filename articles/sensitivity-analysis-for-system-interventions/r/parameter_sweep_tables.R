@@ -1,0 +1,6 @@
+article_root <- if (basename(getwd()) == "r") normalizePath("..") else normalizePath(".")
+out_dir <- file.path(article_root, "outputs", "tables")
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+ranges <- read.csv(file.path(article_root, "data", "synthetic_parameter_ranges.csv"))
+summary <- data.frame(parameter = ranges$parameter, span = ranges$high - ranges$low)
+write.csv(summary, file.path(out_dir, "r_parameter_range_summary.csv"), row.names = FALSE)

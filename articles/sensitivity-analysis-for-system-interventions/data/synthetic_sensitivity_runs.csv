@@ -1,0 +1,8 @@
+run_id,scenario,parameter,varied_value,outcome_resilience,outcome_access,outcome_cost,group
+1,baseline,implementation_delay,6,0.62,0.70,100,overall
+2,baseline,implementation_delay,12,0.48,0.58,118,overall
+3,early_repair,repair_rate,0.14,0.78,0.82,112,overall
+4,high_stress,demand_growth,0.10,0.36,0.45,140,overall
+5,burden_reduction,harm_rate,0.03,0.74,0.86,105,overall
+6,baseline,implementation_delay,12,0.42,0.48,122,low_buffer_households
+7,burden_reduction,harm_rate,0.03,0.70,0.80,109,low_buffer_households

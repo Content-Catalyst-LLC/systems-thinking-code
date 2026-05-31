@@ -1,0 +1,8 @@
+parameter,description,baseline,min_value,max_value,unit
+implementation_delay,Months between policy approval and practical effect,6,1,18,months
+demand_growth,Annualized demand growth rate,0.04,0.00,0.12,rate
+repair_rate,Monthly repair or improvement flow,0.08,0.02,0.20,rate
+harm_rate,Monthly depletion or harm flow,0.05,0.01,0.15,rate
+trust_elasticity,Strength of trust response to service reliability,0.60,0.10,1.20,index
+capacity_buffer,Available spare capacity above baseline load,0.15,0.00,0.40,share
+threshold_level,Critical level where system failure risk accelerates,0.70,0.50,0.90,index

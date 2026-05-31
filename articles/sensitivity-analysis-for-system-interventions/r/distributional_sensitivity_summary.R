@@ -1,0 +1,6 @@
+article_root <- if (basename(getwd()) == "r") normalizePath("..") else normalizePath(".")
+out_dir <- file.path(article_root, "outputs", "tables")
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+d <- read.csv(file.path(article_root, "data", "synthetic_distributional_outputs.csv"))
+summary <- aggregate(cbind(resilience, access, burden, cost_exposure) ~ group, data = d, FUN = mean)
+write.csv(summary, file.path(out_dir, "r_distributional_sensitivity_summary.csv"), row.names = FALSE)

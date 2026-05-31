@@ -1,0 +1,6 @@
+policy,min_resilience,median_resilience,max_burden,robustness_rank
+baseline,0.40,0.62,0.72,4
+early_repair,0.62,0.78,0.45,1
+delayed_response,0.30,0.50,0.80,5
+burden_reduction,0.58,0.74,0.40,2
+capacity_buffering,0.54,0.70,0.50,3

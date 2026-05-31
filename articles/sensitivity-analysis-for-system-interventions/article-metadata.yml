@@ -1,0 +1,24 @@
+title: Sensitivity Analysis for System Interventions
+slug: sensitivity-analysis-for-system-interventions
+series: Systems Thinking
+repository: https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/sensitivity-analysis-for-system-interventions
+status: scaffold
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+keywords:
+  - systems thinking
+  - sensitivity analysis
+  - parameter sweeps
+  - Monte Carlo simulation
+  - robustness
+  - threshold analysis
+  - distributional sensitivity
+  - structural sensitivity

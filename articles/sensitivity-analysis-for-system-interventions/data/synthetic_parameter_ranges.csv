@@ -1,0 +1,7 @@
+parameter,low,medium,high,notes
+implementation_delay,3,6,12,Longer delay can destabilize balancing feedback.
+demand_growth,0.02,0.04,0.08,Higher demand tests system capacity.
+repair_rate,0.04,0.08,0.14,Higher repair rate rebuilds depleted stocks faster.
+harm_rate,0.03,0.05,0.10,Higher harm rate drains system resilience.
+trust_elasticity,0.30,0.60,0.90,Higher elasticity makes trust more responsive to service quality.
+capacity_buffer,0.05,0.15,0.30,Larger buffer improves robustness under stress.

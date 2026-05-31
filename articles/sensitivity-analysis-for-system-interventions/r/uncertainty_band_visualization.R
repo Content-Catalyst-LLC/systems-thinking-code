@@ -1,0 +1,7 @@
+article_root <- if (basename(getwd()) == "r") normalizePath("..") else normalizePath(".")
+out_dir <- file.path(article_root, "outputs", "figures")
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+runs <- read.csv(file.path(article_root, "data", "synthetic_sensitivity_runs.csv"))
+png(file.path(out_dir, "uncertainty_band_example.png"), width = 900, height = 600)
+plot(runs$outcome_resilience, type = "b", xlab = "Synthetic run", ylab = "Resilience", main = "Synthetic Resilience Variation Across Runs")
+dev.off()
