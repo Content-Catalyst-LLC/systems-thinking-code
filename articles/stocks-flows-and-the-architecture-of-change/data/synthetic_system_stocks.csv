@@ -1,0 +1,7 @@
+stock_id,stock_name,domain,initial_value,unit,description
+trust,Public trust,public_institutions,55,index_0_100,Accumulated confidence based on repeated institutional experience
+capacity,Workforce capacity,organizations,70,index_0_100,Accumulated staffing skill recovery and institutional memory
+backlog,Maintenance backlog,infrastructure,42,million_usd,Accumulated deferred repair need
+carbon,Atmospheric carbon,climate,421,ppm,Illustrative atmospheric concentration stock
+biodiversity,Biodiversity resilience,ecology,64,index_0_100,Accumulated ecological diversity and functional resilience
+fatigue,Workforce fatigue,organizations,35,index_0_100,Accumulated exhaustion from sustained workload pressure

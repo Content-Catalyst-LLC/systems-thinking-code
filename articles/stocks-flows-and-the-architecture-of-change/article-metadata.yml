@@ -1,0 +1,15 @@
+title: "Stocks, Flows, and the Architecture of Change"
+slug: "stocks-flows-and-the-architecture-of-change"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/stocks-flows-and-the-architecture-of-change/"
+summary: "Stock-flow analysis for accumulation, depletion, feedback-controlled flows, delayed perception, policy scenarios, and durable systems change."
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c

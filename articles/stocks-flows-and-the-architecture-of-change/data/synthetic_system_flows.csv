@@ -1,0 +1,13 @@
+flow_id,stock_id,flow_name,flow_type,baseline_rate,unit_per_period,description
+trust_building,trust,Reliable service and accountability,inflow,4,index_points,Trust-building experience per period
+trust_erosion,trust,Delay exclusion and unaddressed harm,outflow,5,index_points,Trust-eroding experience per period
+hiring,capacity,Hiring and onboarding,inflow,6,index_points,Capacity gain through staffing and learning
+turnover,capacity,Turnover and knowledge loss,outflow,4,index_points,Capacity loss through attrition
+repair,backlog,Preventive maintenance completed,outflow,7,million_usd,Backlog reduction through repair
+deterioration,backlog,Aging and climate stress,inflow,9,million_usd,Backlog growth from deterioration
+emissions,carbon,Annual emissions,inflow,2.4,ppm,Illustrative concentration increase
+absorption,carbon,Absorption and removal,outflow,1.1,ppm,Illustrative concentration reduction
+restoration,biodiversity,Habitat restoration,inflow,3,index_points,Ecological recovery flow
+degradation,biodiversity,Habitat loss and stress,outflow,4,index_points,Ecological depletion flow
+recovery,fatigue,Recovery time,outflow,3,index_points,Fatigue reduction from recovery
+workload_pressure,fatigue,Workload pressure,inflow,5,index_points,Fatigue accumulation from overload

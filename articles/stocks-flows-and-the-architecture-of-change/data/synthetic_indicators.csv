@@ -1,0 +1,7 @@
+indicator_id,stock_id,indicator_name,leading_or_lagging,description
+trust_complaints,trust,Complaint intensity,leading,May reveal trust erosion before formal trust metrics move
+capacity_turnover,capacity,Turnover rate,leading,Signals future capacity loss
+backlog_failures,backlog,Failure incidents,lagging,Visible consequence of accumulated maintenance backlog
+carbon_temperature,carbon,Temperature anomaly,lagging,Delayed effect of accumulated concentration
+biodiversity_species,biodiversity,Species richness,lagging,Outcome signal of ecological resilience
+fatigue_sick_leave,fatigue,Sick leave,leading,Early signal of fatigue accumulation

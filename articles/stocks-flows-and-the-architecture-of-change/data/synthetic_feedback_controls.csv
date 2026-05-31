@@ -1,0 +1,9 @@
+control_id,flow_id,controlled_by,polarity,delay_periods,description
+c1,trust_building,service_quality,positive,1,Higher service quality increases trust-building inflow after delay
+c2,trust_erosion,service_delay,positive,0,Higher delay increases trust erosion
+c3,hiring,workload_gap,positive,2,Higher workload gap increases hiring after approval and onboarding delay
+c4,turnover,fatigue,positive,1,Higher fatigue increases turnover after delay
+c5,repair,political_pressure,positive,1,Higher pressure can increase repair funding
+c6,deterioration,asset_age,positive,0,Older assets increase deterioration
+c7,restoration,conservation_investment,positive,2,Investment increases restoration after ecological delay
+c8,degradation,land_conversion,positive,0,Land conversion increases degradation

@@ -1,0 +1,6 @@
+scenario_id,scenario_name,description
+baseline,Baseline,Current inflow and outflow rates continue
+prevention,Prevention,Reduce harmful outflows before visible crisis
+repair,Repair,Increase restorative inflows after stock depletion
+balanced,Balanced,Increase restorative inflows and reduce harmful outflows together
+late_correction,Late correction,Delay intervention until stock crosses a warning threshold
