@@ -1,0 +1,7 @@
+scenario_id,scenario_name,domain,growth_rate,feedback_delay,correction_strength,buffer_restoration
+S001,early_correction,ecology,0.06,2,0.45,0.04
+S002,delayed_limit_response,ecology,0.08,8,0.35,0.02
+S003,overwork_without_recovery,organization,0.09,6,0.20,0.01
+S004,maintenance_prevention,infrastructure,0.05,3,0.50,0.05
+S005,late_crisis_repair,infrastructure,0.08,10,0.65,0.02
+S006,adaptive_governance,technology,0.06,3,0.40,0.04

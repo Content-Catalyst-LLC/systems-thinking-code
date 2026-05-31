@@ -1,0 +1,6 @@
+stock_id,stock_name,domain,initial_level,regeneration_rate,critical_threshold,measurement_unit
+ST001,watershed_resilience,ecology,0.78,0.025,0.35,index
+ST002,workforce_capacity,organization,0.70,0.030,0.40,index
+ST003,infrastructure_condition,infrastructure,0.66,0.018,0.38,index
+ST004,public_trust,institutions,0.62,0.020,0.36,index
+ST005,governance_capacity,technology,0.58,0.022,0.34,index
