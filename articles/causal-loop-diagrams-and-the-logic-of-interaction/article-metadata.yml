@@ -1,0 +1,7 @@
+title: "Causal Loop Diagrams and the Logic of Interaction"
+slug: "causal-loop-diagrams-and-the-logic-of-interaction"
+series: "Systems Thinking"
+repository: "systems-thinking-code"
+article_folder: "articles/causal-loop-diagrams-and-the-logic-of-interaction"
+status: "scaffold"
+summary: "Companion scaffold for causal loop diagrams, signed causal graphs, feedback-loop detection, loop polarity, delay annotation, stakeholder map comparison, and behavior-over-time linkage."

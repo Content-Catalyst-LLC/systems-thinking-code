@@ -1,0 +1,6 @@
+stakeholder_group,variable_focus,causal_assumption,polarity,confidence
+Agency leadership,Service Performance to Public Trust,Better measured performance improves public trust,positive,medium
+Frontline staff,Workload to Errors,Higher workload increases errors and rework,positive,high
+Residents,Administrative Burden to Program Access,Higher burden reduces practical access,negative,high
+Infrastructure engineers,Maintenance Backlog to Failure Risk,Deferred maintenance increases failure risk,positive,high
+Ecologists,Disturbance Damage to Ecological Resilience,Damage reduces future resilience,negative,high

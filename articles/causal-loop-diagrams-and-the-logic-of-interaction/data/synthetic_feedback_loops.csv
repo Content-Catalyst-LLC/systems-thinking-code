@@ -1,0 +1,5 @@
+loop_id,loop_name,edge_sequence,expected_polarity,interpretation
+L001,Trust-Cooperation-Performance,"E001|E002|E003",reinforcing,Trust cooperation and performance strengthen one another over time
+L002,Workload-Stress-Rework,"E004|E005|E006|E007",reinforcing,Work pressure generates stress errors rework and more workload
+L003,Maintenance Backlog and Failure Risk,"E010",reinforcing_partial,Backlog-to-risk relation requires additional emergency repair edges for full loop
+L004,Ecological Resilience and Damage,"E013|E014",reinforcing,Lower resilience increases damage and damage further reduces resilience

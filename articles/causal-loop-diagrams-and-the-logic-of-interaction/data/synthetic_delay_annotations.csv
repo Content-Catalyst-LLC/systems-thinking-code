@@ -1,0 +1,6 @@
+edge_id,delay_type,delay_steps,why_delay_matters
+E003,perception_delay,2,Public trust changes after repeated evidence rather than immediately
+E008,implementation_delay,1,Staffing capacity reduces delay after hiring and onboarding
+E009,experience_delay,2,People update trust after experiencing repeated delays
+E011,material_delay,1,Maintenance affects backlog after work is completed
+E014,recovery_delay,2,Ecological damage reduces resilience over time

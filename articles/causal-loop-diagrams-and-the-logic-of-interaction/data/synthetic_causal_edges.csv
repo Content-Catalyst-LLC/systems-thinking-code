@@ -1,0 +1,15 @@
+edge_id,source_variable,target_variable,polarity,delay_steps,mechanism,evidence_note
+E001,Public Trust,Cooperation,positive,1,Higher trust increases voluntary cooperation,Synthetic illustrative edge
+E002,Cooperation,Service Performance,positive,1,Cooperation improves implementation conditions,Synthetic illustrative edge
+E003,Service Performance,Public Trust,positive,2,Reliable performance rebuilds trust after delay,Synthetic illustrative edge
+E004,Workload,Stress,positive,0,Higher workload increases pressure on staff,Synthetic illustrative edge
+E005,Stress,Errors,positive,1,Higher stress increases error probability,Synthetic illustrative edge
+E006,Errors,Rework,positive,0,Errors generate rework,Synthetic illustrative edge
+E007,Rework,Workload,positive,0,Rework increases total workload,Synthetic illustrative edge
+E008,Staffing Capacity,Response Delay,negative,1,More staff capacity reduces delay,Synthetic illustrative edge
+E009,Response Delay,Public Trust,negative,2,Longer delays erode trust over time,Synthetic illustrative edge
+E010,Maintenance Backlog,Failure Risk,positive,1,Backlog raises infrastructure failure risk,Synthetic illustrative edge
+E011,Preventive Maintenance,Maintenance Backlog,negative,1,Preventive work reduces backlog,Synthetic illustrative edge
+E012,Administrative Burden,Program Access,negative,0,Higher burden reduces effective access,Synthetic illustrative edge
+E013,Ecological Resilience,Disturbance Damage,negative,1,Greater resilience lowers damage,Synthetic illustrative edge
+E014,Disturbance Damage,Ecological Resilience,negative,2,Damage reduces future resilience,Synthetic illustrative edge

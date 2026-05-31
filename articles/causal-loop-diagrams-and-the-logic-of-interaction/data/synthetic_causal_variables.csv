@@ -1,0 +1,17 @@
+variable_id,variable_name,domain,variable_type,description,unit_or_scale
+V001,Public Trust,public administration,stock,Accumulated confidence that an institution will act reliably and fairly,index_0_100
+V002,Cooperation,public administration,flow_behavior,Willingness to participate or comply voluntarily,index_0_100
+V003,Service Performance,public administration,outcome,Quality and timeliness of institutional service delivery,index_0_100
+V004,Workload,organization,stock_pressure,Work demand facing staff,case_units
+V005,Stress,organization,condition,Average stress pressure in the workforce,index_0_100
+V006,Errors,organization,flow_outcome,Operational mistakes or rework-triggering failures,error_count
+V007,Rework,organization,flow,Additional work created by errors or incomplete processing,hours
+V008,Staffing Capacity,organization,stock,Available capacity to process work,staff_capacity_units
+V009,Response Delay,public administration,outcome,Time between request and service response,days
+V010,Maintenance Backlog,infrastructure,stock,Accumulated deferred maintenance tasks,asset_work_units
+V011,Failure Risk,infrastructure,risk,Probability of asset failure,index_0_100
+V012,Preventive Maintenance,infrastructure,flow,Maintenance effort performed before failure,work_units
+V013,Administrative Burden,public administration,condition,Time and effort required to access a program,index_0_100
+V014,Program Access,public administration,outcome,Effective access among eligible users,index_0_100
+V015,Ecological Resilience,ecology,stock,System capacity to absorb disturbance and recover,index_0_100
+V016,Disturbance Damage,ecology,outcome,Damage from climate or ecological disturbance,index_0_100
