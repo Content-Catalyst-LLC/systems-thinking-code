@@ -1,0 +1,8 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+t <- read.csv(file.path(raw, "synthetic_trust_indicators.csv"))
+t$gain_driver <- rowMeans(t[, c("reliability", "fairness", "accountability")])
+t$loss_driver <- rowMeans(t[, c("harm", "burden", "opacity")])
+write.csv(t[, c("period", "domain", "trust_score", "gain_driver", "loss_driver")], file.path(out, "r_public_trust_summary.csv"), row.names = FALSE)

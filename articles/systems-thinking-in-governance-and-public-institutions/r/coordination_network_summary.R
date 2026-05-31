@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+edges <- read.csv(file.path(raw, "synthetic_coordination_edges.csv"))
+edges$relationship_strength <- rowMeans(edges[, c("frequency", "trust", "shared_data", "shared_authority")])
+write.csv(edges[, c("source", "target", "domain", "relationship_strength")], file.path(out, "r_coordination_edges.csv"), row.names = FALSE)

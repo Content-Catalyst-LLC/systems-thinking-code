@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+b <- read.csv(file.path(raw, "synthetic_administrative_burden.csv"))
+b$burden_index <- (b$learning_cost * 0.22 + b$compliance_cost * 0.24 + b$psychological_cost * 0.20 + b$digital_burden * 0.17 + b$appeal_burden * 0.17) * (1 - b$support_available * 0.25)
+write.csv(b[, c("case_id", "program", "group", "burden_index")], file.path(out, "r_administrative_burden.csv"), row.names = FALSE)

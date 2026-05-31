@@ -1,0 +1,9 @@
+policy_id,period,domain,intervention_type,target_outcome,expected_effect,burden_risk,feedback_plan,learning_review
+P01,1,Social Services,Eligibility Verification,Program Integrity,0.62,0.78,0,0
+P02,1,Transportation,Road Capacity,Travel Time,0.55,0.42,1,0
+P03,2,Health,Community Outreach,Vaccination Access,0.70,0.35,1,1
+P04,2,Housing,Digital Application,Processing Speed,0.64,0.81,0,0
+P05,3,Education,Accountability Metric,Learning Outcomes,0.50,0.66,0,0
+P06,3,Resilience,Preparedness Funding,Crisis Readiness,0.76,0.28,1,1
+P07,4,Environment,Inspection Targeting,Compliance,0.67,0.48,1,1
+P08,4,Digital Government,Service Portal,Access,0.68,0.72,1,0

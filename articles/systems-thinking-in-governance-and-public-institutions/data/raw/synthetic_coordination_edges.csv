@@ -1,0 +1,10 @@
+source,target,domain,relationship_type,frequency,trust,shared_data,shared_authority
+Social Services,Housing,Integrated Services,Referral,0.62,0.47,0,0
+Social Services,Health,Integrated Services,Referral,0.58,0.55,0,0
+Housing,Transportation,Urban Systems,Planning,0.41,0.43,0,0
+Transportation,Environment,Urban Systems,Impact Review,0.50,0.49,1,0
+Health,Emergency Management,Public Health Emergency,Operations,0.76,0.68,1,1
+Emergency Management,Digital Services,Crisis Response,Data Coordination,0.71,0.63,1,1
+Education,Health,Student Support,Case Coordination,0.52,0.50,0,0
+Environment,Housing,Environmental Justice,Inspection Referral,0.45,0.41,0,0
+Digital Services,Social Services,Service Access,Platform Support,0.66,0.54,1,0

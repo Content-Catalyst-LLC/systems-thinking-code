@@ -1,0 +1,9 @@
+signal_id,period,source_group,domain,signal_type,severity,context_preserved,acted_upon,loop_closed
+F01,1,Applicants,Social Services,Administrative Burden,0.84,1,0,0
+F02,1,Residents,Transportation,Induced Demand Concern,0.58,0,0,0
+F03,2,Community Clinics,Health,Trust Barrier,0.75,1,1,0
+F04,2,Tenants,Housing,Digital Exclusion,0.87,1,0,0
+F05,3,Teachers,Education,Metric Narrowing,0.73,1,0,0
+F06,3,Emergency Staff,Resilience,Capacity Gap,0.69,1,1,1
+F07,4,Community Groups,Environment,Unequal Exposure,0.80,1,1,0
+F08,4,Frontline Staff,Digital Government,Appeal Burden,0.76,1,0,0

@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+pv <- read.csv(file.path(raw, "synthetic_public_value_metrics.csv"))
+pv$public_value_score <- rowMeans(pv[, c("equity", "access", "service_quality", "trust", "resilience", "sustainability", "dignity")])
+write.csv(pv[, c("metric_id", "domain", "public_value_score")], file.path(out, "r_public_value_scores.csv"), row.names = FALSE)

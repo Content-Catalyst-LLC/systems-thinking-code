@@ -1,0 +1,7 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+raw <- file.path(root, "data", "raw")
+out <- file.path(root, "outputs", "tables")
+dir.create(out, recursive = TRUE, showWarnings = FALSE)
+inst <- read.csv(file.path(raw, "synthetic_public_institutions.csv"))
+inst$governance_health_score <- rowMeans(inst[, c("capacity_score", "trust_score", "coordination_score", "memory_score")])
+write.csv(inst[, c("institution_id", "domain", "governance_health_score")], file.path(out, "r_governance_system_baseline.csv"), row.names = FALSE)

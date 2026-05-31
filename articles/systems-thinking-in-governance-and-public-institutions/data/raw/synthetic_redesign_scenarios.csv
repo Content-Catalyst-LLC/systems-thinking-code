@@ -1,0 +1,7 @@
+scenario_id,scenario,burden_reduction,trust_gain,capacity_gain,coordination_gain,memory_gain,public_value_gain
+S01,status_quo,0.00,0.00,0.00,0.00,0.00,0.00
+S02,communications_only,0.04,0.08,0.01,0.02,0.00,0.05
+S03,burden_reduction,0.32,0.18,0.08,0.10,0.05,0.24
+S04,capacity_building,0.18,0.16,0.34,0.18,0.12,0.29
+S05,coordination_redesign,0.21,0.20,0.22,0.36,0.16,0.33
+S06,participatory_learning_governance,0.28,0.31,0.24,0.29,0.34,0.42

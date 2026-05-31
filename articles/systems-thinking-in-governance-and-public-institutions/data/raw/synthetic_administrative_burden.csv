@@ -1,0 +1,9 @@
+case_id,program,group,learning_cost,compliance_cost,psychological_cost,digital_burden,appeal_burden,support_available
+B01,Benefits,Low Income Residents,0.78,0.82,0.69,0.61,0.70,0.35
+B02,Housing,Tenants,0.72,0.86,0.74,0.77,0.68,0.28
+B03,Permits,Small Business,0.55,0.62,0.44,0.39,0.51,0.46
+B04,Healthcare Access,Uninsured Residents,0.69,0.76,0.71,0.54,0.63,0.41
+B05,Education Services,Families,0.57,0.63,0.52,0.48,0.45,0.53
+B06,Environmental Complaints,Residents,0.61,0.58,0.66,0.42,0.72,0.33
+B07,Digital Portal,Older Adults,0.80,0.73,0.68,0.88,0.64,0.26
+B08,Emergency Aid,Disaster Affected,0.66,0.71,0.82,0.59,0.77,0.39
