@@ -1,0 +1,8 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+input <- file.path(root, "data", "raw", "synthetic_feedback_signals.csv")
+output <- file.path(root, "outputs", "tables", "r_feedback_awareness_summary.csv")
+dir.create(dirname(output), recursive = TRUE, showWarnings = FALSE)
+d <- read.csv(input)
+d$usable_feedback_index <- with(d, raw_feedback * signal_quality * timeliness * authority_connection)
+summary <- aggregate(usable_feedback_index ~ unit_id + unit_name, d, mean)
+write.csv(summary, output, row.names = FALSE)

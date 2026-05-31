@@ -1,0 +1,7 @@
+channel_id,channel_name,formality,signal_richness,retaliation_risk,decision_proximity,closure_quality
+C01,Frontline Escalation,informal,0.86,0.48,0.62,0.40
+C02,User Complaints,formal,0.72,0.22,0.44,0.34
+C03,Retrospective,formal,0.78,0.36,0.58,0.49
+C04,Anonymous Survey,formal,0.54,0.18,0.31,0.26
+C05,Community Listening Session,hybrid,0.81,0.25,0.52,0.38
+C06,Operational Dashboard,formal,0.47,0.10,0.67,0.55
