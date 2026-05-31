@@ -1,0 +1,6 @@
+run_id,scenario,intervention_id,trust_change,burden_change,capacity_change,resilience_change,notes
+M001,baseline_none,none,-0.10,0.12,-0.08,-0.05,Continuation of current structure
+M002,burden_reduction,I001,0.08,-0.30,0.04,0.00,Access improves through simplification
+M003,feedback_repair,I002,0.22,-0.12,0.06,0.02,Trust improves through feedback and repair
+M004,maintenance_prevention,I003,0.03,0.00,0.02,0.18,Backlog and ecological risk decline slowly
+M005,combined_deep_leverage,I001+I002+I005,0.31,-0.42,0.16,0.04,Structural redesign produces broad improvement

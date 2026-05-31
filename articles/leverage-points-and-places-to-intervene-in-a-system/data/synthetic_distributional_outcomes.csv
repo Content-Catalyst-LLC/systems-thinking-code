@@ -1,0 +1,6 @@
+group_id,group_name,baseline_burden,post_intervention_burden,baseline_access,post_intervention_access
+G001,High-buffer households,0.35,0.25,0.86,0.90
+G002,Low-buffer households,0.78,0.42,0.52,0.74
+G003,Disabled applicants,0.82,0.45,0.48,0.72
+G004,Limited-English users,0.80,0.40,0.46,0.76
+G005,Frontline staff,0.68,0.50,0.70,0.79

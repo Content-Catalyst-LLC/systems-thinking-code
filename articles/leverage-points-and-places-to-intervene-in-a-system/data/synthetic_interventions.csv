@@ -1,0 +1,7 @@
+intervention_id,intervention_name,leverage_id,cost_index,implementation_delay_months,expected_strength
+I001,Plain-language access redesign,L001,2,4,0.70
+I002,Community feedback and repair council,L002,3,6,0.80
+I003,Preventive asset renewal program,L003,5,12,0.75
+I004,Retention and onboarding redesign,L004,4,8,0.65
+I005,Outcome metric redesign,L005,2,5,0.85
+I006,Watershed and habitat restoration,L006,6,24,0.72

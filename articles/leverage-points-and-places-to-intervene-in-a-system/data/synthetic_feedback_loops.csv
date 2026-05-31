@@ -1,0 +1,5 @@
+loop_id,loop_name,loop_type,variables,description
+R001,Trust cooperation performance,reinforcing,"Public Trust;Cooperation;Service Performance",Trust increases cooperation which improves performance and builds trust
+R002,Burnout workload decline,reinforcing,"Workload;Stress;Turnover;Workforce Capacity",Workload increases stress and turnover which reduces capacity and raises workload
+B001,Preventive maintenance correction,balancing,"Failure Risk;Maintenance Funding;Maintenance Backlog",Failure risk triggers funding that reduces backlog when timely
+B002,Burden access correction,balancing,"Administrative Burden;Access;Rule Simplification",High burden triggers simplification if feedback reaches authority

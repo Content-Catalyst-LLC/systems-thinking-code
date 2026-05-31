@@ -1,0 +1,9 @@
+variable_id,variable_name,system_domain,variable_type,description
+V001,Public Trust,public_administration,stock,Accumulated belief that an institution acts reliably and fairly
+V002,Administrative Burden,public_administration,stock,Accumulated paperwork delay confusion and procedural friction
+V003,Maintenance Backlog,infrastructure,stock,Accumulated deferred repair and asset deterioration
+V004,Workforce Capacity,organizations,stock,Effective staffing knowledge recovery and operational capacity
+V005,Ecological Resilience,ecology,stock,Capacity of an ecosystem to absorb disturbance and regenerate
+V006,Information Delay,governance,delay,Time between system change and decision-maker awareness
+V007,Rule Complexity,public_policy,rule,Procedural complexity that shapes burden and access
+V008,System Goal Alignment,governance,goal,Degree to which metrics and rules match public purpose

@@ -1,0 +1,7 @@
+leverage_id,leverage_name,leverage_level,target_variable,expected_depth,ethical_flag
+L001,Reduce administrative burden,rule,Administrative Burden,deep,protect access and dignity
+L002,Create affected-community feedback loop,information_flow,Public Trust,deep,shared authority required
+L003,Fund preventive maintenance,stock_flow,Maintenance Backlog,medium,protect future users
+L004,Shorten hiring and onboarding delay,delay,Workforce Capacity,medium,avoid overload transfer
+L005,Change performance metrics from speed to dignity,goal,System Goal Alignment,deep,avoid metric gaming
+L006,Restore ecological buffers,stock_flow,Ecological Resilience,deep,intergenerational responsibility
