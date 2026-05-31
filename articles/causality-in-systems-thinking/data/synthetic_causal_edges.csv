@@ -1,0 +1,10 @@
+source,target,polarity,delay,causal_role,relationship_note
+resource_flow,institutional_capacity,positive,medium,enabling_condition,Resources strengthen response capacity
+institutional_capacity,response_delay,negative,short,buffering_factor,Higher capacity reduces delay
+service_demand,response_delay,positive,short,amplifying_factor,Higher demand increases delay
+response_delay,public_trust,negative,long,structural_cause,Long delays erode trust
+public_trust,policy_pressure,negative,medium,buffering_factor,Higher trust can reduce crisis pressure
+policy_pressure,resource_flow,positive,medium,feedback_effect,Pressure can increase resources after delay
+maintenance_backlog,institutional_capacity,negative,long,structural_cause,Backlog weakens capacity over time
+stress_load,adaptive_capacity,negative,medium,amplifying_factor,Stress depletes adaptive capacity
+adaptive_capacity,institutional_capacity,positive,medium,buffering_factor,Adaptation supports response capacity

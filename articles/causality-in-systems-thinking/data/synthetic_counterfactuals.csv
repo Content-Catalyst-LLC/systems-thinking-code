@@ -1,0 +1,6 @@
+counterfactual_id,name,resource_multiplier,demand_multiplier,delay_multiplier,backlog_reduction,threshold_level
+CF001,Baseline,1.00,1.00,1.00,0,75
+CF002,Early Resource Investment,1.30,1.00,0.90,10,75
+CF003,Demand Shock Without Capacity,1.00,1.30,1.15,0,75
+CF004,Backlog Repair Strategy,1.10,1.00,0.95,25,75
+CF005,Integrated Systems Reform,1.25,0.95,0.85,30,80

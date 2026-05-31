@@ -1,0 +1,6 @@
+scenario_id,scenario_name,trigger_period,trigger_size,capacity_investment,trust_repair,adaptive_investment
+S001,Baseline,0,0,0,0,0
+S002,Trigger Only,5,15,0,0,0
+S003,Capacity Investment,5,15,12,0,4
+S004,Trust Repair,5,15,6,10,5
+S005,Structural Reform,5,10,14,12,12

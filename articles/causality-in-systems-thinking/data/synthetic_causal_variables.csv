@@ -1,0 +1,10 @@
+variable_id,name,description,unit,initial_value
+CV001,public_trust,Accumulated legitimacy and confidence in institutions,index_0_100,64
+CV002,institutional_capacity,Ability to respond effectively to demand,index_0_100,58
+CV003,service_demand,Demand placed on the system,cases_per_period,70
+CV004,response_delay,Average delay between need and response,days,12
+CV005,maintenance_backlog,Accumulated deferred maintenance,work_units,100
+CV006,resource_flow,Available resources entering the system,resource_units,48
+CV007,stress_load,Accumulated system pressure,index_0_100,52
+CV008,adaptive_capacity,Ability to change under pressure,index_0_100,44
+CV009,policy_pressure,External demand for corrective action,index_0_100,38
