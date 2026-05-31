@@ -1,0 +1,5 @@
+loop_id,loop_name,current_variable,target_variable,correction_variable,description
+B001,Delay Correction,response_delay,target_delay,institutional_capacity,Capacity investment reduces the gap between actual delay and target delay
+B002,Stress Regulation,stress_load,target_stress,recovery_capacity,Recovery resources reduce stress toward a manageable range
+B003,Backlog Control,maintenance_backlog,target_backlog,preventive_maintenance,Preventive maintenance reduces backlog toward a target level
+B004,Quality Assurance,service_quality,target_quality,process_improvement,Improvement efforts correct gaps in quality

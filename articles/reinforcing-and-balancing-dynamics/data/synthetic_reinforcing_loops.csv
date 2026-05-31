@@ -1,0 +1,5 @@
+loop_id,loop_name,variable_a,variable_b,relationship,description
+R001,Trust and Cooperation,public_trust,service_quality,positive,Trust improves cooperation and service quality reinforces trust
+R002,Backlog Deterioration,maintenance_backlog,response_delay,positive,Backlog increases delay and delay can increase backlog
+R003,Overwork Spiral,workload,stress_load,positive,Workload increases stress and stress can increase errors and workload
+R004,Capacity Building,institutional_capacity,service_quality,positive,Capacity improves quality and quality supports legitimacy and capacity

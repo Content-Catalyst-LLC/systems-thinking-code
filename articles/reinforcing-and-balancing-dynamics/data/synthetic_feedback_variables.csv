@@ -1,0 +1,9 @@
+variable_id,name,description,initial_value,unit
+V001,public_trust,Accumulated confidence in institutions,62,index_0_100
+V002,institutional_capacity,Ability to respond to needs,55,index_0_100
+V003,response_delay,Average delay between need and response,14,days
+V004,maintenance_backlog,Accumulated deferred maintenance,120,work_units
+V005,workload,Total operating pressure on staff and systems,70,index_0_100
+V006,stress_load,Accumulated stress in the system,58,index_0_100
+V007,resilience_buffer,Available adaptive capacity,40,index_0_100
+V008,service_quality,Observed quality of system performance,60,index_0_100

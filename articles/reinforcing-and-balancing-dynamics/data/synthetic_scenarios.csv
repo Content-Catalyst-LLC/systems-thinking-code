@@ -1,0 +1,6 @@
+scenario_id,scenario_name,growth_rate,correction_strength,delay,carrying_capacity
+S001,Baseline,0.08,0.20,1,100
+S002,High Reinforcement,0.14,0.18,1,100
+S003,Strong Balancing,0.08,0.35,1,100
+S004,Delayed Correction,0.08,0.30,4,100
+S005,Lower Capacity Limit,0.08,0.20,2,75
