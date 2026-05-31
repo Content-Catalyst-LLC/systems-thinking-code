@@ -1,0 +1,11 @@
+actor_id,actor_name,actor_group,domain,initial_advantage,initial_capacity,need_score,network_connections
+A001,Established Institution,high_advantage,research,82,88,22,140
+A002,Regional Public Agency,mid_advantage,public_administration,55,61,58,66
+A003,Community Organization,low_advantage,public_administration,28,36,86,24
+A004,Prestige School,high_advantage,education,79,84,31,115
+A005,Underfunded School,low_advantage,education,24,32,91,18
+A006,Large Platform Creator,high_advantage,digital_systems,86,77,20,190
+A007,New Independent Creator,low_advantage,digital_systems,22,29,64,9
+A008,Well-Capitalized Firm,high_advantage,economics,90,82,18,160
+A009,Small Local Firm,low_advantage,economics,35,41,72,31
+A010,Disinvested Neighborhood,low_advantage,infrastructure,20,27,95,14

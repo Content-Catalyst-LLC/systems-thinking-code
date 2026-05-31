@@ -1,0 +1,9 @@
+actor_id,period,advantage_index,capacity_index,visibility_index,credibility_index,opportunity_index
+A001,0,82,88,88,92,86
+A003,0,28,36,26,38,31
+A005,0,24,32,22,33,25
+A008,0,90,82,84,86,91
+A001,1,87,91,91,94,90
+A003,1,30,38,27,39,32
+A005,1,26,33,23,34,26
+A008,1,94,86,88,89,94

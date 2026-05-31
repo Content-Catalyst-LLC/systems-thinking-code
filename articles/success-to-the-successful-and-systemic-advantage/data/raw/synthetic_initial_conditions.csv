@@ -1,0 +1,11 @@
+actor_id,starting_resources,starting_visibility,starting_credibility,starting_opportunity,context_constraint
+A001,900000,88,92,86,low
+A002,420000,57,61,55,medium
+A003,90000,26,38,31,high
+A004,780000,81,87,82,low
+A005,75000,22,33,25,high
+A006,650000,93,76,89,low
+A007,18000,15,27,19,medium
+A008,1200000,84,86,91,low
+A009,115000,37,42,35,medium
+A010,60000,18,31,22,high

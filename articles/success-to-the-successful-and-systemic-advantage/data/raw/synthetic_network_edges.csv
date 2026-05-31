@@ -1,0 +1,9 @@
+source,target,edge_type,weight
+A001,A002,collaboration,0.70
+A001,A008,funding_network,0.82
+A004,A001,prestige_network,0.76
+A006,A008,platform_visibility,0.88
+A003,A010,community_network,0.64
+A005,A003,local_support,0.53
+A007,A003,independent_visibility,0.41
+A009,A010,local_economy,0.47

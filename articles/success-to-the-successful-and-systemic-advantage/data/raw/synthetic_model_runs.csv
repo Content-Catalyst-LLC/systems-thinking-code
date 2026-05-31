@@ -1,0 +1,5 @@
+run_id,scenario,periods,total_resources,feedback_strength,network_amplification,random_seed
+run_001,performance_only,12,1200000,0.72,0.60,42
+run_002,need_adjusted,12,1200000,0.48,0.45,42
+run_003,capacity_building,12,1200000,0.35,0.35,42
+run_004,visibility_rotation,12,1200000,0.42,0.25,42

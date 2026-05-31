@@ -1,0 +1,9 @@
+scenario,actor_id,period,performance_score,need_score,resource_award,allocation_rule
+performance_only,A001,1,88,22,225000,prior_success
+performance_only,A003,1,39,86,70000,prior_success
+performance_only,A005,1,34,91,65000,prior_success
+performance_only,A008,1,91,18,245000,prior_success
+need_adjusted,A001,1,88,22,150000,performance_need_potential
+need_adjusted,A003,1,39,86,165000,performance_need_potential
+need_adjusted,A005,1,34,91,175000,performance_need_potential
+need_adjusted,A008,1,91,18,155000,performance_need_potential
