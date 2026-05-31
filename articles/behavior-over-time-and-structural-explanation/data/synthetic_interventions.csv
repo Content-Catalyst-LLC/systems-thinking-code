@@ -1,0 +1,5 @@
+intervention_id,scenario_id,intervention_type,target_variable,start_year,intensity
+I001,S002,preventive_investment,preventive_capacity,2021,0.30
+I002,S003,temporary_backlog_push,service_delay_index,2022,0.20
+I003,S004,feedback_redesign,feedback_delay,2021,0.35
+I004,S005,capacity_rebuild,workforce_capacity,2021,0.25

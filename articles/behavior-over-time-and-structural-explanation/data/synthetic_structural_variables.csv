@@ -1,0 +1,8 @@
+variable_id,name,category,description
+V001,maintenance_backlog,stock,Accumulated deferred maintenance obligations
+V002,service_delay_index,indicator,Composite measure of user-facing service delay
+V003,public_trust,stock,Accumulated legitimacy and confidence in the system
+V004,workload_index,indicator,Relative workload pressure on staff
+V005,turnover_rate,flow,Annual workforce exit rate
+V006,preventive_capacity,capacity,Resources available for early intervention and maintenance
+V007,feedback_delay,delay,Time lag between problem occurrence and decision response

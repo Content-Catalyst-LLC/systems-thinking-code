@@ -1,0 +1,11 @@
+event_id,date,system_area,event_type,severity,location,affected_group
+E001,2021-01-15,infrastructure,service_delay,2,North District,commuters
+E002,2021-03-19,infrastructure,maintenance_failure,3,North District,residents
+E003,2021-06-22,organization,deadline_miss,2,Operations,staff
+E004,2021-09-08,public_trust,complaint_spike,3,Citywide,residents
+E005,2022-02-12,infrastructure,service_delay,3,North District,commuters
+E006,2022-05-30,organization,turnover_event,4,Operations,staff
+E007,2022-08-14,public_trust,complaint_spike,4,Citywide,residents
+E008,2023-01-21,infrastructure,maintenance_failure,4,North District,residents
+E009,2023-04-17,organization,deadline_miss,3,Operations,staff
+E010,2023-10-02,public_trust,legitimacy_crisis,5,Citywide,residents

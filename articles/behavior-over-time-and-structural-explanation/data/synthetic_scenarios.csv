@@ -1,0 +1,6 @@
+scenario_id,name,description
+S001,baseline,Current structure continues without major intervention
+S002,early_prevention,Preventive capacity increases before crisis threshold
+S003,symptom_relief,Temporary service-delay reduction without changing structure
+S004,feedback_improvement,Reporting and decision delays are reduced
+S005,capacity_rebuild,Workforce and maintenance capacity are rebuilt over time

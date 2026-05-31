@@ -1,0 +1,9 @@
+source,target,polarity,mechanism
+maintenance_backlog,service_delay_index,positive,Deferred maintenance increases service interruptions and delay
+service_delay_index,public_trust,negative,Longer delays reduce confidence and legitimacy
+public_trust,cooperation,positive,Higher trust improves cooperation with system processes
+workload_index,turnover_rate,positive,Higher workload increases exit risk
+turnover_rate,workforce_capacity,negative,Higher turnover reduces experienced capacity
+workforce_capacity,service_delay_index,negative,Higher capacity reduces service delays
+feedback_delay,maintenance_backlog,positive,Delayed response allows backlog to accumulate
+preventive_capacity,maintenance_backlog,negative,Preventive capacity reduces accumulated backlog

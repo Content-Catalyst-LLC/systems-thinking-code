@@ -1,0 +1,8 @@
+year,maintenance_backlog,service_delay_index,public_trust,workload_index,turnover_rate,reported_events
+2018,20,12,82,48,0.08,4
+2019,25,14,79,53,0.09,5
+2020,33,18,74,61,0.11,7
+2021,45,25,68,70,0.14,10
+2022,61,34,59,82,0.19,14
+2023,83,49,47,91,0.26,20
+2024,102,57,41,88,0.24,22
