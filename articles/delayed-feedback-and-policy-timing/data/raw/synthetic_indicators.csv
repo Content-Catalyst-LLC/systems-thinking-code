@@ -1,0 +1,11 @@
+month,domain,leading_indicator,lagging_indicator,stock_level,policy_pressure
+0,infrastructure,0.42,0.18,0.72,0.30
+6,infrastructure,0.48,0.22,0.74,0.34
+12,infrastructure,0.55,0.30,0.70,0.42
+18,infrastructure,0.66,0.41,0.62,0.51
+24,infrastructure,0.74,0.55,0.51,0.57
+0,public_health,0.50,0.25,0.48,0.29
+6,public_health,0.61,0.29,0.56,0.35
+12,public_health,0.70,0.43,0.66,0.43
+18,public_health,0.76,0.58,0.72,0.48
+24,public_health,0.81,0.69,0.78,0.50

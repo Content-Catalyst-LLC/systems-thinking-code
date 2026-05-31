@@ -1,0 +1,6 @@
+policy_id,policy_name,domain,adoption_month,implementation_start_month,expected_effect_lag_months,target_stock,policy_intensity
+P001,Preventive Maintenance Fund,infrastructure,0,2,18,maintenance_backlog,0.72
+P002,Public Health Early Warning Network,public_health,0,1,9,surveillance_capacity,0.68
+P003,Workload Recovery Standard,organizations,0,3,12,workforce_fatigue,0.61
+P004,Watershed Restoration Program,ecology,0,6,36,watershed_resilience,0.56
+P005,AI Post-Deployment Audit Rule,technology_governance,0,4,10,unresolved_model_risk,0.64

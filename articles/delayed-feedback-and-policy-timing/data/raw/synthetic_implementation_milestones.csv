@@ -1,0 +1,12 @@
+policy_id,milestone_month,milestone_name,status,completion_ratio
+P001,2,fund_authorized,complete,1.00
+P001,8,asset_condition_inventory,complete,1.00
+P001,14,preventive_repair_wave,in_progress,0.63
+P002,1,surveillance_protocol_approved,complete,1.00
+P002,6,data_integration_launch,in_progress,0.74
+P003,3,workload_standard_adopted,complete,1.00
+P003,9,manager_training,in_progress,0.58
+P004,6,watershed_assessment,complete,1.00
+P004,18,restoration_contracts,in_progress,0.44
+P005,4,audit_requirement_adopted,complete,1.00
+P005,11,appeals_and_monitoring_system,in_progress,0.51

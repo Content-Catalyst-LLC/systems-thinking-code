@@ -1,0 +1,6 @@
+lag_id,policy_id,effect_lag_months,information_lag_months,decision_lag_months,implementation_lag_months,recovery_lag_months
+L001,P001,18,6,4,10,48
+L002,P002,9,2,2,6,18
+L003,P003,12,3,3,5,24
+L004,P004,36,12,8,18,96
+L005,P005,10,4,5,7,20

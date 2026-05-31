@@ -1,0 +1,5 @@
+scenario_id,scenario_name,intervention_timing,monitoring_frequency_months,correction_strength,description
+S001,Early adaptive intervention,early,3,0.30,Early intervention with frequent monitoring and moderate correction.
+S002,Late crisis response,late,12,0.75,Delayed action after harm becomes visible, with strong correction.
+S003,Short-cycle overcorrection,reactive,1,0.90,Frequent but excessive reaction to noisy indicators.
+S004,Precautionary staged policy,staged,6,0.45,Moderate early safeguards with planned review and adjustment.
