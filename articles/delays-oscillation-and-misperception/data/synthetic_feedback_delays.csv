@@ -1,0 +1,7 @@
+relationship_id,source,target,delay_periods,polarity,note
+FD001,service_demand,response_delay,1,positive,Higher demand increases delay quickly
+FD002,response_delay,public_trust,3,negative,Long delay erodes trust after lag
+FD003,maintenance_backlog,risk_stock,4,positive,Backlog increases hidden risk slowly
+FD004,workforce_fatigue,system_capacity,2,negative,Fatigue weakens capacity after lag
+FD005,system_capacity,response_delay,1,negative,Higher capacity reduces delay
+FD006,public_trust,cooperation,2,positive,Trust affects cooperation after social lag

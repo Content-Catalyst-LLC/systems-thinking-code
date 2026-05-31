@@ -1,0 +1,9 @@
+variable_id,name,description,unit,initial_value
+D001,response_delay,Time between signal and institutional response,days,12
+D002,implementation_delay,Time between decision and visible effect,days,30
+D003,perception_gap,Difference between actual and perceived system state,index_0_100,18
+D004,maintenance_backlog,Accumulated deferred maintenance,work_units,120
+D005,public_trust,Accumulated public confidence,index_0_100,64
+D006,workforce_fatigue,Accumulated fatigue and strain,index_0_100,38
+D007,system_capacity,Ability to absorb demand,index_0_100,58
+D008,risk_stock,Accumulated hidden risk,index_0_100,42

@@ -1,0 +1,6 @@
+scenario_id,scenario_name,delay_multiplier,capacity_investment,shock_period,shock_size
+S001,Baseline,1.00,0.00,0,0
+S002,Shorter Feedback Delay,0.60,0.00,0,0
+S003,Delayed Correction,1.50,0.00,6,18
+S004,Early Capacity Investment,0.80,8.00,0,0
+S005,Late Crisis Repair,1.25,4.00,8,25
