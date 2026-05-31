@@ -1,0 +1,8 @@
+source_entity,target_entity,relationship_type,polarity,strength,delay
+Governance System,Public Agency,policy_constraint,positive,0.70,medium
+Public Agency,Service Team,resource_allocation,positive,0.65,short
+Service Team,Frontline Worker,workload_pressure,negative,0.58,short
+Regional Infrastructure Network,Resident Household,service_dependency,positive,0.80,short
+Socio-Ecological Region,Regional Infrastructure Network,climate_stress,negative,0.75,long
+Resident Household,Governance System,public_feedback,positive,0.40,long
+Frontline Worker,Public Agency,implementation_feedback,positive,0.45,medium

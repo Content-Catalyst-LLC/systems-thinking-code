@@ -1,0 +1,8 @@
+entity_id,entity_name,level_id,parent_entity_id,baseline_capacity,risk_exposure
+E001,Frontline Worker,L1,E004,58,62
+E002,Resident Household,L2,E006,52,70
+E003,Service Team,L2,E004,61,55
+E004,Public Agency,L3,E005,64,48
+E005,Governance System,L4,E006,57,50
+E006,Regional Infrastructure Network,L5,E007,54,68
+E007,Socio-Ecological Region,L6,,49,72

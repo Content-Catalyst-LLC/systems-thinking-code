@@ -1,0 +1,15 @@
+title: "Systems Thinking and Levels of Analysis"
+slug: "systems-thinking-and-levels-of-analysis"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/systems-thinking-and-levels-of-analysis/"
+status: "scaffold"
+code_stack:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
