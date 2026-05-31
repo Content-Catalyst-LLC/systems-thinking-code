@@ -1,0 +1,5 @@
+run_id,scenario,repair_investment,symptomatic_reliance,final_problem_pressure,final_capacity,final_dependency
+1,relief_only,5,60,104,38,1.58
+2,relief_plus_repair,45,30,58,78,0.38
+3,delayed_repair,20,50,82,55,0.91
+4,rapid_capacity_building,60,20,45,90,0.22

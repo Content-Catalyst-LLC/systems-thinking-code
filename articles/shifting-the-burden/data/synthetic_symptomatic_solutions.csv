@@ -1,0 +1,11 @@
+period,solution_name,intensity,short_term_relief,hidden_side_effect
+0,automation_layer,15,7,3
+1,automation_layer,20,9,4
+2,automation_layer,23,10,5
+3,automation_layer,28,13,7
+4,automation_layer,32,15,9
+5,automation_layer,37,17,11
+6,automation_layer,41,19,13
+7,automation_layer,46,22,16
+8,automation_layer,50,24,18
+9,automation_layer,55,27,21

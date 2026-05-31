@@ -1,0 +1,11 @@
+scenario,metric,value
+relief_only,problem_pressure_change,42
+relief_only,capacity_change,-17
+relief_only,dependency_change,1.31
+relief_plus_repair,problem_pressure_change,-4
+relief_plus_repair,capacity_change,23
+relief_plus_repair,dependency_change,0.11
+delayed_repair,problem_pressure_change,20
+delayed_repair,capacity_change,0
+rapid_capacity_building,problem_pressure_change,-17
+rapid_capacity_building,capacity_change,35

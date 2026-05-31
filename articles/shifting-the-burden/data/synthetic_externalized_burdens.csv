@@ -1,0 +1,16 @@
+period,group,burden_type,burden_score
+0,applicants,administrative_time,40
+0,caseworkers,rework_pressure,35
+0,community_orgs,navigation_support,32
+1,applicants,administrative_time,45
+1,caseworkers,rework_pressure,39
+1,community_orgs,navigation_support,36
+2,applicants,administrative_time,51
+2,caseworkers,rework_pressure,43
+2,community_orgs,navigation_support,41
+3,applicants,administrative_time,58
+3,caseworkers,rework_pressure,49
+3,community_orgs,navigation_support,47
+4,applicants,administrative_time,63
+4,caseworkers,rework_pressure,54
+4,community_orgs,navigation_support,53

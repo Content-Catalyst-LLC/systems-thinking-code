@@ -1,0 +1,17 @@
+title: "Shifting the Burden"
+slug: "shifting-the-burden"
+series: "Systems Thinking"
+repository: "systems-thinking-code"
+article_path: "articles/shifting-the-burden"
+status: "companion-code scaffold"
+description: "Synthetic-data workflows and multi-language examples for modeling symptomatic relief, fundamental repair, dependency growth, capacity erosion, externalized burden, and relief-plus-repair scenarios."
+keywords:
+  - systems thinking
+  - shifting the burden
+  - system archetypes
+  - symptomatic solutions
+  - fundamental solutions
+  - dependency loop
+  - capacity erosion
+  - structural repair
+responsible_use: "Educational and research demonstration only. Do not use for individual-level assessment, surveillance, eligibility decisions, employment decisions, automated public-benefits decisions, or clinical decisions."
