@@ -1,0 +1,9 @@
+source,target,polarity,delay,relationship_note
+maintenance_backlog,response_delay,positive,medium,Backlog increases delay
+response_delay,public_trust,negative,long,Long delay erodes trust
+public_trust,event_frequency,negative,long,Lower trust can increase crisis-driven events and complaints
+workload_pressure,institutional_capacity,negative,medium,Pressure reduces capacity through fatigue and turnover
+institutional_capacity,response_delay,negative,short,Capacity reduces delay
+structural_risk,event_frequency,positive,medium,Latent risk increases event recurrence
+resilience_buffer,structural_risk,negative,medium,Resilience reduces latent risk
+response_delay,maintenance_backlog,positive,long,Delayed response can worsen backlog through compounding failures

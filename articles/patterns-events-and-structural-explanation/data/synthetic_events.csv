@@ -1,0 +1,13 @@
+event_id,period,location,system_area,event_type,severity,affected_group,condition_note
+E001,1,North District,infrastructure,service_delay,2,residents,moderate backlog and normal demand
+E002,2,North District,infrastructure,service_delay,3,residents,backlog increasing and staffing constrained
+E003,3,West District,public_health,heat_stress,2,older_adults,high temperature and limited cooling access
+E004,4,North District,infrastructure,service_delay,3,residents,maintenance delay continued
+E005,5,Central Office,organization,missed_deadline,2,staff,cross-team dependency delay
+E006,6,West District,public_health,heat_stress,4,older_adults,heat wave and transport barriers
+E007,7,Central Office,organization,missed_deadline,3,staff,unclear decision rights
+E008,8,South District,education,absenteeism_spike,3,students,transportation disruption
+E009,9,North District,infrastructure,service_delay,4,residents,backlog and demand shock
+E010,10,Central Office,organization,burnout_report,4,staff,high workload and low recovery time
+E011,11,South District,education,absenteeism_spike,3,students,health and transit barriers
+E012,12,West District,public_health,heat_stress,4,older_adults,repeat extreme heat exposure

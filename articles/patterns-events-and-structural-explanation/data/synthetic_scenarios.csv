@@ -1,0 +1,6 @@
+scenario_id,scenario_name,capacity_multiplier,backlog_multiplier,trust_repair_rate,shock_period,shock_size
+S001,Baseline,1.00,1.00,0.20,0,0
+S002,Capacity Investment,1.25,0.95,0.30,0,0
+S003,Backlog Neglect,0.95,1.25,0.10,5,15
+S004,Trust Repair Strategy,1.10,1.00,0.55,0,0
+S005,Compound Shock,0.90,1.20,0.15,6,25

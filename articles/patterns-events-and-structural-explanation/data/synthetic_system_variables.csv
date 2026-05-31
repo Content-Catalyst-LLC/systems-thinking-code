@@ -1,0 +1,9 @@
+variable_id,name,description,unit,initial_value
+V001,event_frequency,Number of relevant events per period,count,1
+V002,public_trust,Accumulated legitimacy and confidence in institutions,index_0_100,62
+V003,institutional_capacity,Ability to respond effectively to system needs,index_0_100,55
+V004,response_delay,Average delay between need and response,days,14
+V005,maintenance_backlog,Accumulated deferred maintenance,work_units,120
+V006,workload_pressure,Accumulated organizational pressure,index_0_100,58
+V007,resilience_buffer,Capacity to absorb disturbance,index_0_100,40
+V008,structural_risk,Latent risk produced by system arrangements,index_0_100,52
