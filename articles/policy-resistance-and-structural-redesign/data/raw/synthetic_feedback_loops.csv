@@ -1,0 +1,7 @@
+loop_id,loop_name,loop_type,core_variables,policy_risk
+L001,backlog pressure loop,reinforcing,"backlog;workload;errors;rework",quotas can increase errors and rework
+L002,induced demand loop,reinforcing,"road capacity;travel convenience;vehicle miles;congestion",road expansion can restore congestion
+L003,administrative burden loop,reinforcing,"verification burden;access loss;appeals;staff workload",tightening can create new workload
+L004,metric gaming loop,reinforcing,"score pressure;narrow optimization;reported performance;funding",metrics can replace mission
+L005,automation dependency loop,reinforcing,"automation use;staff reliance;manual skill loss;oversight weakness",efficiency can reduce correction capacity
+L006,maintenance prevention loop,balancing,"maintenance investment;asset condition;failure risk;emergency spending",prevention reduces long-term emergency pressure

@@ -1,0 +1,7 @@
+intervention_id,intervention_name,domain,intended_outcome,start_month,policy_strength,implementation_lag_months
+P001,processing quotas,public administration,reduce backlog,1,0.70,2
+P002,road capacity expansion,infrastructure,reduce congestion,1,0.80,6
+P003,verification tightening,public benefits,reduce error,2,0.65,3
+P004,performance scorecard,education,improve accountability,3,0.75,2
+P005,automation rollout,technology governance,increase efficiency,4,0.70,4
+P006,preventive maintenance fund,infrastructure,reduce failures,5,0.85,8

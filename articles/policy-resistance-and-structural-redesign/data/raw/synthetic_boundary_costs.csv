@@ -1,0 +1,7 @@
+cost_id,source_policy,cost_shifted_to,cost_type,delay_months,relative_magnitude
+C001,processing quotas,frontline staff,fatigue and turnover,4,0.70
+C002,road expansion,neighborhoods,air pollution and land-use lock-in,18,0.80
+C003,verification tightening,eligible applicants,access burden,2,0.75
+C004,performance scorecard,students and teachers,curricular narrowing,8,0.60
+C005,automation rollout,affected users,appeal burden,6,0.65
+C006,maintenance fund,current budget,upfront cost,1,0.45

@@ -1,0 +1,7 @@
+actor_group,response_type,response_strength,likely_effect,notes
+frontline staff,workaround,0.60,partial compliance with hidden burden,staff adapt to workload pressure
+commuters,behavioral rebound,0.75,more driving after capacity expansion,induced demand
+benefit applicants,disengagement,0.55,eligible access falls when burden rises,administrative burden
+school administrators,metric optimization,0.70,reported score improves but learning narrows,Goodhart-style effect
+caseworkers,automation reliance,0.65,manual review declines as tools dominate,oversight risk
+maintenance teams,preventive scheduling,0.80,failure risk declines after lag,capacity-building response
