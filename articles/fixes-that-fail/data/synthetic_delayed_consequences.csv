@@ -1,0 +1,9 @@
+period,fix_id,delayed_consequence,consequence_level,affected_stock,distributional_note
+0,F1,fatigue_and_rework,0.05,workforce_capacity,frontline staff absorb hidden cost
+1,F1,fatigue_and_rework,0.10,workforce_capacity,frontline staff absorb hidden cost
+2,F1,fatigue_and_rework,0.20,workforce_capacity,rework begins increasing backlog
+3,F1,fatigue_and_rework,0.31,workforce_capacity,turnover risk increases
+4,F4,appeal_burden,0.18,public_trust,users absorb contestation labor
+5,F4,appeal_burden,0.26,public_trust,excluded users face higher burden
+6,F2,asset_failure_risk,0.33,infrastructure_condition,future residents inherit higher risk
+7,F5,debt_service_pressure,0.29,household_or_public_security,future budgets lose flexibility

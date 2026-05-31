@@ -1,0 +1,6 @@
+fix_id,fix_name,target_symptom,immediate_effect,side_effect_delay,side_effect_strength,notes
+F1,overtime_surge,case_backlog,0.34,2,0.22,reduces backlog while increasing fatigue and error risk
+F2,deferred_maintenance,budget_pressure,0.28,4,0.35,reduces short-term cost while increasing future failure risk
+F3,messaging_campaign,public_criticism,0.21,1,0.18,lowers criticism briefly but does not repair trust
+F4,automated_processing,processing_delay,0.30,2,0.24,increases throughput while raising appeal and error burden if not governed
+F5,short_term_borrowing,budget_gap,0.32,3,0.27,reduces immediate gap while increasing future debt service

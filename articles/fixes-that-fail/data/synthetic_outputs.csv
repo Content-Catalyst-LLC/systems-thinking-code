@@ -1,0 +1,5 @@
+scenario,final_symptom_level,minimum_capacity,maximum_delayed_consequence,interpretation
+quick_fix_only,116,0.55,0.39,relief is followed by recurrence as capacity depletes
+relief_plus_capacity_repair,61,0.96,0.08,repair investment prevents dependency on the fix
+prevention_first,54,1.03,0.05,prevention reduces visible pressure and delayed harm
+high_pressure_no_repair,148,0.42,0.51,the fix becomes a driver of future failure

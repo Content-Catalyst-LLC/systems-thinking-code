@@ -1,0 +1,11 @@
+run_id,scenario,period,symptom_level,capacity_stock,delayed_consequence,dependency_ratio
+1,quick_fix_only,0,100,1.00,0.00,0.70
+1,quick_fix_only,1,78,0.90,0.04,0.82
+1,quick_fix_only,2,71,0.78,0.14,1.02
+1,quick_fix_only,3,88,0.66,0.26,1.31
+1,quick_fix_only,4,116,0.55,0.39,1.71
+2,relief_plus_capacity_repair,0,100,1.00,0.00,0.45
+2,relief_plus_capacity_repair,1,84,0.97,0.03,0.48
+2,relief_plus_capacity_repair,2,73,0.96,0.07,0.48
+2,relief_plus_capacity_repair,3,66,0.98,0.08,0.45
+2,relief_plus_capacity_repair,4,61,1.02,0.07,0.40

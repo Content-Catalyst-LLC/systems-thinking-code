@@ -1,0 +1,9 @@
+period,system,problem_symptom,symptom_level,demand_index,visible_pressure
+0,public_agency,case_backlog,100,100,0.60
+1,public_agency,case_backlog,118,112,0.68
+2,public_agency,case_backlog,130,126,0.74
+3,public_agency,case_backlog,116,139,0.62
+4,public_agency,case_backlog,122,151,0.66
+5,public_agency,case_backlog,146,162,0.79
+6,public_agency,case_backlog,171,174,0.88
+7,public_agency,case_backlog,194,186,0.94
