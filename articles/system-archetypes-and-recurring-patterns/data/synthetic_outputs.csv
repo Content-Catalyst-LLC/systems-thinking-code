@@ -1,0 +1,6 @@
+output_id,run_id,metric_name,metric_value,interpretation
+O1,R1,relapse_index,0.74,Problem returns under repeated quick fixes
+O2,R2,repair_effect,0.62,Fundamental repair improves capacity and trust
+O3,R3,commons_stability,0.81,Governance stabilizes shared resource stock
+O4,R1,goal_erosion_risk,0.58,Standards decline as performance pressure rises
+O5,R2,capacity_recovery,0.70,Structural investment rebuilds fundamental capacity

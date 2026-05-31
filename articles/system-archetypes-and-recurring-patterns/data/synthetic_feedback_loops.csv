@@ -1,0 +1,11 @@
+loop_id,archetype_id,loop_name,loop_type,description
+L1,A1,Growth Momentum,reinforcing,Success increases resources that increase further growth
+L2,A1,Capacity Limit,balancing,Growth activates a constraint that slows future growth
+L3,A2,Symptom Relief,balancing,Quick fix temporarily reduces the visible problem
+L4,A2,Delayed Consequence,reinforcing,Fix creates delayed harm that increases the problem
+L5,A3,Symptomatic Dependence,reinforcing,Short-term relief reduces pressure to build fundamental capacity
+L6,A4,Goal Adjustment,balancing,Lowering the goal reduces pressure from poor performance
+L7,A5,Mutual Escalation,reinforcing,Each actor responds to the other's perceived advantage
+L8,A6,Cumulative Advantage,reinforcing,Early success attracts resources that produce more success
+L9,A7,Commons Depletion,balancing,Shared stock declines as individual use rises
+L10,A9,Compensating Response,balancing,System response offsets intended intervention

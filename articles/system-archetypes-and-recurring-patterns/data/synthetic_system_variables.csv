@@ -1,0 +1,11 @@
+variable_id,variable_name,variable_type,unit,description
+V1,Backlog,stock,cases,Accumulated unresolved work
+V2,Workload,flow,cases_per_month,New work entering the system
+V3,Staff Capacity,stock,capacity_index,Effective available service capacity
+V4,Fatigue,stock,fatigue_index,Accumulated human depletion
+V5,Trust,stock,trust_index,Accumulated public or stakeholder trust
+V6,Maintenance Backlog,stock,asset_condition_index,Accumulated deferred maintenance
+V7,Commons Stock,stock,resource_index,Shared ecological or institutional resource
+V8,Goal Level,stock,standard_index,Performance expectation or desired standard
+V9,Symptomatic Fix,policy,intervention_intensity,Short-term pressure relief
+V10,Fundamental Repair,policy,repair_intensity,Structural capacity-building intervention

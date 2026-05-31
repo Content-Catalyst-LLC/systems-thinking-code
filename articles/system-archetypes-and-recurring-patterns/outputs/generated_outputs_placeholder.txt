@@ -1,0 +1,1 @@
+Generated output files will appear in outputs/figures and outputs/tables after running the examples.

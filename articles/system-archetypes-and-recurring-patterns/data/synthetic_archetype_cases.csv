@@ -1,0 +1,9 @@
+case_id,domain,archetype_id,case_name,visible_symptom,structural_hypothesis
+C1,Public Administration,A2,Overtime Backlog Relief,Backlog returns after overtime,Fatigue and rework create delayed consequences
+C2,Infrastructure,A8,Deferred Maintenance Spiral,Failures rise despite emergency repair,Investment lags demand and deterioration
+C3,Education,A4,Lowered Learning Expectations,Standards decline gradually,Performance gap is closed by lowering goals
+C4,Organizations,A3,Contractor Dependence,Internal capacity weakens,External support displaces fundamental capacity
+C5,Climate and Ecology,A7,Shared Watershed Depletion,Water quality declines,Individual use depletes shared ecological stock
+C6,Technology Governance,A9,Automation Offset,Automation improves speed but increases appeals,Hidden burden offsets throughput gains
+C7,Economic Systems,A6,Resource Compounding,Well-resourced actors pull further ahead,Resources flow toward prior success
+C8,Public Health,A1,Program Scaling Constraint,Program growth stalls after early success,Trust and local capacity become limiting constraints

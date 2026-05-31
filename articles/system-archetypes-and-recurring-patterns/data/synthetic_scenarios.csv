@@ -1,0 +1,7 @@
+scenario_id,scenario_name,archetype_id,intervention_focus,assumption_note
+S1,Baseline Continuation,A2,none,Quick fixes continue without structural repair
+S2,Fundamental Repair,A3,capacity_building,Fundamental solution receives sustained investment
+S3,Goal Protection,A4,goal_and_capacity,Standards are protected while capacity is improved
+S4,Commons Governance,A7,rule_change,Shared resource use is governed through limits and feedback
+S5,Capacity Investment,A8,preventive_investment,Capacity expands before service quality declines
+S6,Compensating Feedback Check,A9,policy_design,System response is monitored and intervention adapted
