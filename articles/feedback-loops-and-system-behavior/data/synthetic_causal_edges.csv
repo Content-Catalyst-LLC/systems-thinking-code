@@ -1,0 +1,12 @@
+edge_id,source,target,polarity,delay,relationship_note
+E001,public_trust,cooperation,positive,short,Higher trust tends to increase cooperation
+E002,cooperation,service_quality,positive,medium,Cooperation can improve service outcomes
+E003,service_quality,public_trust,positive,long,Better service quality strengthens trust over time
+E004,service_demand,workload,positive,short,Higher demand increases workload
+E005,workload,response_delay,positive,short,Higher workload increases delay
+E006,response_delay,service_demand,positive,medium,Long delays can increase repeat contacts and demand pressure
+E007,maintenance_backlog,system_capacity,negative,long,Backlog reduces effective capacity
+E008,system_capacity,response_delay,negative,short,Capacity reduces delay
+E009,response_delay,public_trust,negative,long,Delay erodes public trust
+E010,stress_load,resilience_buffer,negative,medium,Stress depletes resilience
+E011,resilience_buffer,system_capacity,positive,medium,Resilience supports effective capacity

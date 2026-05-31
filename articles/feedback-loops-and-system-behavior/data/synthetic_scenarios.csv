@@ -1,0 +1,6 @@
+scenario_id,scenario_name,demand_multiplier,capacity_multiplier,delay_factor,investment_rate,shock_period,shock_size
+S001,Baseline,1.00,1.00,1.00,0.00,0,0
+S002,Capacity Investment,1.00,1.20,0.85,0.10,0,0
+S003,Demand Shock,1.30,1.00,1.15,0.00,6,20
+S004,Delayed Correction,1.10,1.00,1.35,0.04,5,10
+S005,Resilience Strategy,0.95,1.15,0.80,0.12,6,8

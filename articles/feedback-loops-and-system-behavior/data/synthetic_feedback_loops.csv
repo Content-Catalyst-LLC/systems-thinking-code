@@ -1,0 +1,6 @@
+loop_id,loop_name,loop_type,variables,description
+R001,Trust Cooperation Quality Loop,reinforcing,"public_trust;cooperation;service_quality",Trust supports cooperation, cooperation improves quality, quality builds trust
+R002,Demand Workload Delay Loop,reinforcing,"service_demand;workload;response_delay",Demand increases workload, workload increases delay, delay can increase repeat demand
+B001,Capacity Delay Correction Loop,balancing,"system_capacity;response_delay;service_demand",Capacity reduces delay and can reduce demand pressure
+R003,Backlog Capacity Erosion Loop,reinforcing,"maintenance_backlog;system_capacity;response_delay;public_trust",Backlog weakens capacity, increasing delay and trust erosion
+B002,Resilience Stress Buffer Loop,balancing,"stress_load;resilience_buffer;system_capacity",Resilience buffers stress and helps maintain capacity

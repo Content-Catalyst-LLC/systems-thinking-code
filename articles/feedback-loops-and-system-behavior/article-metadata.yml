@@ -1,0 +1,15 @@
+title: "Feedback Loops and System Behavior"
+slug: "feedback-loops-and-system-behavior"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/feedback-loops-and-system-behavior/"
+summary: "Companion code and synthetic datasets for modeling reinforcing loops, balancing loops, delay, overshoot, oscillation, policy resistance, and behavior-over-time patterns."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
