@@ -1,0 +1,6 @@
+scenario_id,scenario_name,description,time_horizon_years
+baseline,Baseline Continuation,Current structure and trends continue.,10
+early_prevention,Early Prevention,Preventive investment begins immediately.,10
+delayed_response,Delayed Response,Intervention begins only after visible stress.,10
+capacity_investment,Capacity Investment,Capacity expansion and feedback improvement are prioritized.,10
+stress_case,Stress Test,Demand shock and funding pressure test system resilience.,10

@@ -1,0 +1,7 @@
+scenario_id,group,year,access_index,burden_index,risk_index
+baseline,Group A,10,0.72,0.42,0.31
+baseline,Group B,10,0.58,0.67,0.49
+early_prevention,Group A,10,0.83,0.3,0.24
+early_prevention,Group B,10,0.76,0.42,0.3
+stress_case,Group A,10,0.62,0.55,0.44
+stress_case,Group B,10,0.43,0.82,0.68

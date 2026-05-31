@@ -1,0 +1,5 @@
+stress_id,description,severity
+demand_surge,Demand rises faster than expected.,0.7
+funding_cut,Funding and staffing capacity fall.,0.55
+trust_loss,Public trust and cooperation decline.,0.6
+infrastructure_failure,A key system component fails.,0.75

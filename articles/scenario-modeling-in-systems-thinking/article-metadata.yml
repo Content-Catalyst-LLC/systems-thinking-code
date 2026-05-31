@@ -1,0 +1,25 @@
+title: "Scenario Modeling in Systems Thinking"
+slug: "scenario-modeling-in-systems-thinking"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/scenario-modeling-in-systems-thinking/"
+status: "scaffold"
+data: "synthetic demonstration data"
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C++
+  - Fortran
+  - C
+topics:
+  - scenario modeling
+  - systems thinking
+  - baseline scenarios
+  - counterfactuals
+  - intervention pathways
+  - stress testing
+  - distributional outcomes
+  - robustness assessment

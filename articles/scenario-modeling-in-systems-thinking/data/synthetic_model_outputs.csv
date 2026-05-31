@@ -1,0 +1,10 @@
+scenario_id,year,system_capacity,system_demand,trust_stock,risk_stock
+baseline,0,100,95,70,30
+baseline,5,105,110,65,38
+baseline,10,111,128,60,49
+early_prevention,0,100,95,70,30
+early_prevention,5,119,107,77,25
+early_prevention,10,137,122,86,21
+stress_case,0,100,95,70,30
+stress_case,5,100,126,55,52
+stress_case,10,103,159,41,73

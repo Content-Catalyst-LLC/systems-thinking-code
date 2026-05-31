@@ -1,0 +1,6 @@
+intervention_id,scenario_id,start_year,capacity_boost,burden_reduction,repair_flow
+none,baseline,0,0.0,0.0,0.0
+prevention,early_prevention,1,0.05,0.08,0.06
+late_repair,delayed_response,5,0.04,0.03,0.04
+capacity_program,capacity_investment,1,0.09,0.04,0.05
+emergency_response,stress_case,3,0.03,0.01,0.02
