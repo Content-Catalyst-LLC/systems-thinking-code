@@ -1,0 +1,6 @@
+action_id,resource_id,action_name,annual_cost,expected_recovery_rate,distributional_priority,implementation_delay
+A1,R1,habitat_restoration_and_catch_limits,120000,0.18,coastal_communities,2
+A2,R2,accountability_and_service_repair,90000,0.12,affected_publics,1
+A3,R3,workload_redesign_and_recovery_time,75000,0.16,frontline_workers,1
+A4,R4,transit_investment_and_demand_management,300000,0.10,low_access_neighborhoods,3
+A5,R5,information_quality_and_moderation_support,110000,0.13,public_information_users,2

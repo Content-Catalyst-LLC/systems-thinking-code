@@ -1,0 +1,11 @@
+indicator_id,resource_id,indicator_name,baseline_value,warning_threshold,critical_threshold,direction
+M1,R1,catch_per_unit_effort,1.00,0.72,0.45,declining_is_bad
+M2,R1,recruitment_index,0.95,0.70,0.40,declining_is_bad
+M3,R2,complaint_resolution_trust,0.78,0.58,0.40,declining_is_bad
+M4,R2,public_cooperation_rate,0.74,0.55,0.38,declining_is_bad
+M5,R3,overtime_intensity,0.35,0.55,0.75,rising_is_bad
+M6,R3,turnover_risk,0.20,0.38,0.55,rising_is_bad
+M7,R4,congestion_index,0.42,0.62,0.80,rising_is_bad
+M8,R4,maintenance_backlog,0.30,0.52,0.72,rising_is_bad
+M9,R5,misinformation_pressure,0.28,0.48,0.66,rising_is_bad
+M10,R5,source_credibility_index,0.82,0.62,0.45,declining_is_bad

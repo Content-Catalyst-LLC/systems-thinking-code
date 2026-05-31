@@ -1,0 +1,11 @@
+run_id,resource_id,scenario,years,final_stock,min_stock,total_benefit,total_depletion_cost,commons_status
+RUN1,R1,open_access,25,280,260,7420,5900,critical
+RUN2,R1,cooperative_quota,25,920,790,6100,2100,stable
+RUN3,R2,weak_accountability,25,38,36,5120,4800,critical
+RUN4,R2,trust_repair,25,74,68,4300,1600,recovering
+RUN5,R3,overload_norm,25,44,42,6200,5100,critical
+RUN6,R3,workload_governance,25,112,94,5200,1700,stable
+RUN7,R4,unpriced_congestion,25,240,230,8800,7200,critical
+RUN8,R4,demand_management,25,515,480,7600,2700,stable
+RUN9,R5,engagement_maximization,25,34,32,6900,5600,critical
+RUN10,R5,information_stewardship,25,78,70,5700,1900,recovering

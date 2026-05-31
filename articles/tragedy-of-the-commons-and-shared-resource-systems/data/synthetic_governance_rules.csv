@@ -1,0 +1,11 @@
+rule_id,resource_id,scenario,quota_multiplier,monitoring_strength,sanction_strength,restoration_investment,participation_score
+G1,R1,open_access,1.35,0.15,0.05,8,0.20
+G2,R1,cooperative_quota,0.78,0.70,0.45,28,0.78
+G3,R2,weak_accountability,1.25,0.20,0.08,5,0.25
+G4,R2,trust_repair,0.84,0.65,0.35,22,0.72
+G5,R3,overload_norm,1.30,0.25,0.05,6,0.30
+G6,R3,workload_governance,0.80,0.68,0.32,24,0.75
+G7,R4,unpriced_congestion,1.20,0.30,0.08,15,0.32
+G8,R4,demand_management,0.86,0.72,0.40,35,0.70
+G9,R5,engagement_maximization,1.32,0.18,0.05,7,0.22
+G10,R5,information_stewardship,0.82,0.70,0.36,26,0.74

@@ -1,0 +1,6 @@
+resource_id,resource_name,resource_type,initial_stock,carrying_capacity,regeneration_rate,critical_threshold,unit
+R1,Coastal fishery,ecological,1000,1400,0.22,350,stock_index
+R2,Public trust,institutional,85,100,0.08,45,trust_index
+R3,Shared workforce capacity,organizational,120,150,0.12,55,capacity_points
+R4,Urban road capacity,infrastructure,600,700,0.04,250,capacity_index
+R5,Information quality,informational,90,100,0.06,40,quality_index

@@ -1,0 +1,11 @@
+user_id,user_group,resource_id,baseline_use,private_benefit_per_unit,private_cost_per_unit,governance_compliance,relative_power
+U1,Small-scale users,R1,28,4.2,1.8,0.86,0.35
+U2,Commercial users,R1,95,5.5,2.0,0.62,0.90
+U3,Public institutions,R2,5,8.0,1.0,0.72,0.85
+U4,Political actors,R2,8,10.0,1.2,0.45,0.95
+U5,Project teams,R3,20,6.5,1.5,0.68,0.65
+U6,Executive priorities,R3,34,9.5,1.0,0.52,0.92
+U7,Private vehicles,R4,120,2.8,0.6,0.50,0.55
+U8,Freight and logistics,R4,90,6.2,1.2,0.58,0.88
+U9,Content producers,R5,30,7.5,0.8,0.48,0.70
+U10,Public knowledge contributors,R5,12,3.5,1.0,0.82,0.40

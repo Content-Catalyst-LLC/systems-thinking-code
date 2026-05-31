@@ -1,0 +1,13 @@
+impact_id,resource_id,user_group,benefit_share,depletion_burden_share,voice_in_governance,vulnerability_score
+D1,R1,Small-scale users,0.30,0.45,0.48,0.72
+D2,R1,Commercial users,0.70,0.35,0.82,0.34
+D3,R1,Future users,0.00,0.20,0.05,0.90
+D4,R2,Public institutions,0.35,0.20,0.78,0.30
+D5,R2,Affected publics,0.20,0.55,0.35,0.76
+D6,R2,Future publics,0.00,0.25,0.05,0.88
+D7,R3,Executive priorities,0.58,0.15,0.80,0.25
+D8,R3,Frontline workers,0.42,0.65,0.42,0.78
+D9,R4,High-income commuters,0.46,0.25,0.72,0.32
+D10,R4,Transit-dependent residents,0.22,0.45,0.38,0.70
+D11,R5,Attention-capture platforms,0.62,0.18,0.75,0.28
+D12,R5,Public knowledge users,0.38,0.62,0.40,0.74
