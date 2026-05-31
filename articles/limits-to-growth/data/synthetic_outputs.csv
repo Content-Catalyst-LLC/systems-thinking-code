@@ -1,0 +1,6 @@
+scenario,final_scale,minimum_quality,remaining_resource,overshoot_flag,distributional_risk
+baseline,252,0.49,233,true,high
+early_capacity,286,0.73,420,false,moderate
+delayed_capacity,268,0.54,288,true,high
+throughput_pressure,221,0.32,98,true,severe
+steady_state_shift,178,0.86,610,false,low

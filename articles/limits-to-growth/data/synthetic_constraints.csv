@@ -1,0 +1,6 @@
+constraint_id,constraint_name,constraint_type,initial_capacity,warning_indicator,ethical_question
+C1,Workforce capacity,human,180,burnout and turnover,Who absorbs growth pressure when staffing lags?
+C2,Infrastructure condition,technical,210,maintenance backlog,Who bears failure risk from deferred repair?
+C3,Public trust,social,0.85,participation decline,Whose experience defines legitimacy?
+C4,Ecological resilience,ecological,300,resource depletion,What future harm is created by present throughput?
+C5,Governance maturity,institutional,0.70,audit and appeal backlog,Is scale outpacing accountability?

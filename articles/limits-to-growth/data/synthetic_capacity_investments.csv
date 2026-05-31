@@ -1,0 +1,13 @@
+scenario,year,investment_level,implementation_delay,expected_capacity_gain
+baseline,0,20,2,8
+baseline,1,21,2,9
+baseline,2,20,2,8
+early_capacity,0,45,1,24
+early_capacity,1,50,1,28
+early_capacity,2,55,1,32
+delayed_capacity,4,60,3,25
+delayed_capacity,5,65,3,28
+delayed_capacity,6,70,3,30
+steady_state_shift,0,30,1,15
+steady_state_shift,1,30,1,15
+steady_state_shift,2,30,1,15

@@ -1,0 +1,6 @@
+run_id,scenario,model,notes
+R001,baseline,constrained_growth_model,Continuation with emerging capacity limit
+R002,early_capacity,capacity_investment_scenarios,Constraint relief before service quality decline
+R003,delayed_capacity,delayed_constraint_feedback,Correction after overshoot warning
+R004,throughput_pressure,overshoot_diagnostics,More pressure on reinforcing growth loop
+R005,steady_state_shift,resource_depletion_simulation,Reduced throughput with regeneration focus

@@ -1,0 +1,6 @@
+scenario,description,growth_rate,constraint_capacity,delay,regeneration_rate,policy_note
+baseline,Current growth continues with modest capacity investment,0.13,260,3,0.04,Continuation pathway
+early_capacity,Capacity is expanded before quality declines,0.11,340,1,0.06,Relieves constraint early
+delayed_capacity,Capacity investment begins after visible stress,0.13,300,4,0.04,Delayed correction risk
+throughput_pressure,Leaders push harder on growth despite constraint,0.18,250,3,0.03,Failure response
+steady_state_shift,System changes goal from scale to durable quality,0.05,280,1,0.08,Goal change and regeneration
