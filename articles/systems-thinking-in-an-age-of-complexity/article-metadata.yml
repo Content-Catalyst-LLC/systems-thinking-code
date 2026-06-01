@@ -1,0 +1,30 @@
+title: "Systems Thinking in an Age of Complexity"
+slug: "systems-thinking-in-an-age-of-complexity"
+series: "Systems Thinking"
+repository_path: "articles/systems-thinking-in-an-age-of-complexity"
+default_python_workflow: "python/run_all_age_complexity_workflows.py"
+default_r_workflow: "r/run_all_age_complexity_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_complexity_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - systems thinking
+  - complexity
+  - feedback
+  - resilience
+  - learning capacity
+  - accountability
+  - boundary inclusion
+  - transformation
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational public policy, infrastructure, AI, or institutional governance tool."

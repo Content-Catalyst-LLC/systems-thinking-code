@@ -1,0 +1,6 @@
+pattern_id,pattern_name,loop_type,intensity,delay_periods,amplification_risk_score,diagnostic,notes
+fp001,distrust_service_failure,reinforcing,0.78,6,87.0,high feedback amplification risk,service failures reduce trust and lower cooperation
+fp002,maintenance_backlog,risk_accumulation,0.74,12,92.0,high feedback amplification risk,deferred maintenance reduces current cost while increasing future failure
+fp003,learning_feedback,balancing,0.66,4,72.0,moderate feedback risk,high-quality feedback supports correction and adaptation
+fp004,platform_attention_amplification,reinforcing,0.82,1,83.5,high feedback amplification risk,ranking feedback can amplify emotionally charged content
+fp005,repair_trust_loop,reinforcing_positive,0.7,5,77.5,moderate feedback risk,visible repair increases trust and improves future cooperation

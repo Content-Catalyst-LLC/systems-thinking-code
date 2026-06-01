@@ -1,0 +1,6 @@
+indicator_id,indicator_name,baseline_score,target_score,accountability_gap,priority_class,notes
+a001,boundary_inclusion,38.0,82.0,44.0,high priority,how fully consequences and affected groups are included
+a002,affected_voice,34.0,80.0,46.0,high priority,ability of affected people to shape system diagnosis and redesign
+a003,contestability,30.0,78.0,48.0,high priority,ability to challenge decisions and system errors
+a004,repair_capacity,28.0,82.0,54.0,high priority,ability to acknowledge and correct harm after it appears
+a005,public_oversight,36.0,80.0,44.0,high priority,quality of independent oversight and institutional accountability

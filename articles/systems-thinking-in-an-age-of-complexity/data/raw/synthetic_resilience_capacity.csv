@@ -1,0 +1,6 @@
+domain,redundancy,modularity,learning_capacity,response_variety,trust,diagnostic
+public_health,0.58,0.46,0.62,0.60,0.54,needs stronger prevention trust and care-capacity redundancy
+urban_infrastructure,0.44,0.40,0.50,0.46,0.48,maintenance backlog and interdependency risk remain high
+ai_platform_governance,0.30,0.38,0.42,0.36,0.34,response variety insufficient for accelerated feedback harms
+climate_adaptation,0.52,0.58,0.66,0.64,0.56,adaptive capacity improving but equity gaps remain
+institutional_learning,0.48,0.54,0.72,0.62,0.60,stronger memory and cross-boundary learning needed

@@ -1,0 +1,5 @@
+scenario,interdependence,feedback_intensity,delay_pressure,adaptation_rate,uncertainty,redundancy,modularity,learning_capacity,trust,response_variety,boundary_inclusion,accountability,harm_exposure,ethical_leverage
+Fragmented reaction,0.82,0.76,0.74,0.34,0.80,0.24,0.28,0.26,0.30,0.30,0.24,0.26,0.78,0.18
+Optimized brittle system,0.76,0.70,0.62,0.46,0.68,0.28,0.34,0.42,0.42,0.42,0.36,0.38,0.62,0.30
+Adaptive learning system,0.70,0.62,0.52,0.66,0.60,0.58,0.60,0.68,0.62,0.68,0.64,0.66,0.42,0.58
+Accountable transformation pathway,0.68,0.58,0.46,0.78,0.56,0.72,0.72,0.80,0.74,0.80,0.82,0.82,0.30,0.84

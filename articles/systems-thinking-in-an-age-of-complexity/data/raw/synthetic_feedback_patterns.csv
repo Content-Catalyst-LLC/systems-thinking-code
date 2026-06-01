@@ -1,0 +1,6 @@
+pattern_id,pattern_name,loop_type,intensity,delay_periods,notes
+fp001,distrust_service_failure,reinforcing,0.78,6,service failures reduce trust and lower cooperation
+fp002,maintenance_backlog,risk_accumulation,0.74,12,deferred maintenance reduces current cost while increasing future failure
+fp003,learning_feedback,balancing,0.66,4,high-quality feedback supports correction and adaptation
+fp004,platform_attention_amplification,reinforcing,0.82,1,ranking feedback can amplify emotionally charged content
+fp005,repair_trust_loop,reinforcing_positive,0.70,5,visible repair increases trust and improves future cooperation

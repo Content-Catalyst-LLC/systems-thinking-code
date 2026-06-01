@@ -1,0 +1,6 @@
+group_id,group_name,exposure_score,protection_score,cumulative_burden,notes
+h001,frontline_community,84,36,76,high exposure to climate infrastructure or environmental risk
+h002,protected_group,42,74,28,lower exposure and stronger institutional protection
+h003,low_voice_workers,76,40,62,exposure to workload surveillance and low decision voice
+h004,future_generations,88,12,78,delayed harm with no direct present representation
+h005,ecological_systems,90,18,82,living-system degradation not fully counted in institutional metrics

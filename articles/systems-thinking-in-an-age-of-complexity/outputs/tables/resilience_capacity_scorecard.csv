@@ -1,0 +1,6 @@
+domain,resilience_capacity_score,redundancy,modularity,learning_capacity,response_variety,trust,diagnostic,priority_class
+public_health,56.6,0.58,0.46,0.62,0.60,0.54,needs stronger prevention trust and care-capacity redundancy,strengthen and monitor
+urban_infrastructure,45.8,0.44,0.40,0.50,0.46,0.48,maintenance backlog and interdependency risk remain high,high redesign priority
+ai_platform_governance,36.28,0.30,0.38,0.42,0.36,0.34,response variety insufficient for accelerated feedback harms,high redesign priority
+climate_adaptation,59.72,0.52,0.58,0.66,0.64,0.56,adaptive capacity improving but equity gaps remain,strengthen and monitor
+institutional_learning,59.84,0.48,0.54,0.72,0.62,0.60,stronger memory and cross-boundary learning needed,strengthen and monitor
