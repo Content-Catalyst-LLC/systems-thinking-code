@@ -1,0 +1,6 @@
+policy_id,policy_name,policy_type,expected_effect,likely_delay,likely_compensating_feedback,notes
+p001,reactive service expansion,symptom_relief,medium,medium,high,adds corrective action without changing structure
+p002,capacity investment,structural_leverage,high,long,medium,improves service capacity after delay
+p003,information redesign,feedback_improvement,medium,short,low,reduces perception delay and stale correction
+p004,participatory learning,governance_learning,high,medium,low,improves legitimacy and adaptive capacity
+p005,delay reduction,operational_redesign,medium,short,medium,shortens gap between signal and response

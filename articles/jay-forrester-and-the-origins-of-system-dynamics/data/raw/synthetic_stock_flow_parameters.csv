@@ -1,0 +1,5 @@
+scenario,initial_backlog,initial_capacity,desired_backlog,demand_growth,correction_strength,delay_periods,investment_fraction,learning_strength,compensating_feedback,participatory_quality
+Reactive management,58,46,25,0.82,0.34,6,0.24,0.18,0.70,0.16
+Delayed correction,58,46,25,0.76,0.58,10,0.34,0.24,0.62,0.24
+Structural leverage,58,46,25,0.60,0.42,4,0.68,0.58,0.30,0.56
+Participatory learning,58,46,25,0.56,0.38,3,0.64,0.78,0.22,0.82

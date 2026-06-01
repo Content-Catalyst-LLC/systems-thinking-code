@@ -1,0 +1,30 @@
+title: "Jay Forrester and the Origins of System Dynamics"
+slug: "jay-forrester-and-the-origins-of-system-dynamics"
+series: "Systems Thinking"
+repository_path: "articles/jay-forrester-and-the-origins-of-system-dynamics"
+default_python_workflow: "python/run_all_forrester_system_dynamics_workflows.py"
+default_r_workflow: "r/run_all_forrester_system_dynamics_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_system_dynamics_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - Jay Forrester
+  - system dynamics
+  - stocks and flows
+  - feedback loops
+  - delays
+  - policy resistance
+  - simulation
+  - institutional learning
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational policy model."

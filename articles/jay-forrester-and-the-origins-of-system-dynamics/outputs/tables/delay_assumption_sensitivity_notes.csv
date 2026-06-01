@@ -1,0 +1,6 @@
+delay_id,delay_type,delay_periods,affected_stock_or_flow,sensitivity_class,risk_if_ignored
+d001,perception_delay,6,corrective_action,moderate,overcorrection and oscillation
+d002,implementation_delay,8,investment_flow,moderate,declaring failure too early
+d003,learning_delay,10,institutional_learning_stock,high,slow adaptation and repeated mistakes
+d004,trust_repair_delay,12,trust_stock,high,public cooperation remains weak after service improves
+d005,capacity_build_delay,9,capacity_stock,high,backlog persists despite policy commitment

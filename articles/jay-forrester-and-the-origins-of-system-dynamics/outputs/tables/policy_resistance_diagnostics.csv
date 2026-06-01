@@ -1,0 +1,5 @@
+scenario,average_resistance_index,peak_resistance_index,average_corrective_action,resistance_to_correction_ratio,diagnostic
+Delayed correction,1.28,5.483,4.59,0.279,resistance comparatively manageable
+Participatory learning,0.13,1.416,1.309,0.099,resistance comparatively manageable
+Reactive management,0.56,3.643,1.777,0.315,resistance comparatively manageable
+Structural leverage,0.228,2.046,1.685,0.135,resistance comparatively manageable

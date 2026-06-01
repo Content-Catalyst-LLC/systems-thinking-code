@@ -1,0 +1,6 @@
+loop_id,loop_name,loop_type,description,policy_risk
+R1,backlog emergency spiral,reinforcing,backlog increases failures which increase emergency costs and reduce preventive capacity,high
+B1,corrective service loop,balancing,perceived backlog triggers corrective action that increases service flow,medium
+R2,trust cooperation loop,reinforcing,reliable service builds trust and cooperation which improves system performance,medium
+B2,resource constraint loop,balancing,high corrective action triggers compensating resistance and budget limits,high
+R3,learning capacity loop,reinforcing,participatory feedback improves institutional learning and future decision quality,low

@@ -1,0 +1,6 @@
+loop_id,loop_name,loop_type,policy_risk,recommended_leverage_focus
+R1,backlog emergency spiral,reinforcing,high,change growth driver or constraint
+B1,corrective service loop,balancing,medium,"change target, information quality, delay, or response strength"
+R2,trust cooperation loop,reinforcing,medium,change growth driver or constraint
+B2,resource constraint loop,balancing,high,"change target, information quality, delay, or response strength"
+R3,learning capacity loop,reinforcing,low,change growth driver or constraint
