@@ -1,0 +1,17 @@
+Network dependency and cascade-risk executive summary
+==========================================================
+
+Top critical nodes:
+- #1 power_grid (infrastructure): criticality 9.7125
+- #2 telecom_network (digital): criticality 9.3983
+- #3 fuel_terminal (supply_chain): criticality 3.207
+- #4 transit_hub (transport): criticality 3.202
+- #5 payment_system (financial): criticality 3.1292
+
+Cascade scenarios:
+- targeted_power: failed nodes=1, cascade depth=0, diagnostic=contained disruption
+- targeted_cloud: failed nodes=1, cascade depth=0, diagnostic=contained disruption
+- targeted_transit: failed nodes=1, cascade depth=0, diagnostic=contained disruption
+- targeted_supplier: failed nodes=1, cascade depth=0, diagnostic=contained disruption
+- targeted_telecom: failed nodes=1, cascade depth=0, diagnostic=contained disruption
+- random_two: failed nodes=2, cascade depth=0, diagnostic=contained disruption

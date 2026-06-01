@@ -1,0 +1,7 @@
+scenario,initial_failures,final_failed_count,final_service_loss_index,cascade_depth,diagnostic
+targeted_power,power_grid,1,0.42,0,contained disruption
+targeted_cloud,cloud_platform,1,0.4,0,contained disruption
+targeted_transit,transit_hub,1,0.6,0,contained disruption
+targeted_supplier,regional_supplier,1,0.55,0,contained disruption
+targeted_telecom,telecom_network,1,0.52,0,contained disruption
+random_two,community_clinic;hospital,2,0.75,0,contained disruption

@@ -1,0 +1,17 @@
+rank,node_id,category,criticality_index,degree_score,dependency_exposure_score,bridge_approximation_score,priority
+1,power_grid,infrastructure,9.7125,11,2.6735,0.0,critical review
+2,telecom_network,digital,9.3983,14,2.2975,0.1429,critical review
+3,fuel_terminal,supply_chain,3.207,5,0.749,0.0,critical review
+4,transit_hub,transport,3.202,7,0.641,0.0095,critical review
+5,payment_system,financial,3.1292,7,0.625,0.0571,critical review
+6,regional_supplier,supply_chain,2.629,5,0.56,0.0095,monitor
+7,water_utility,infrastructure,2.4075,5,0.5145,0.0,monitor
+8,hospital,public_health,2.198,6,0.331,0.019,monitor
+9,cloud_platform,digital,2.0325,5,0.4195,0.0,monitor
+10,data_center,digital,1.986,5,0.39,0.0,monitor
+11,local_government,institutional,1.6155,4,0.2625,0.0,monitor
+12,food_distribution,supply_chain,1.386,5,0.124,0.0,monitor
+13,community_clinic,public_health,0.936,4,0.0,0.0,monitor
+14,emergency_services,public_safety,0.84,4,0.0,0.0,monitor
+15,school_network,institutional,0.834,4,0.0,0.0,monitor
+16,housing_services,institutional,0.774,3,0.0,0.0,monitor

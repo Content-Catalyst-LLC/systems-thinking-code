@@ -1,0 +1,9 @@
+"category","criticality_index","dependency_exposure_score","bridge_approximation_score"
+"digital",4.47226666666667,1.03566666666667,0.0476333333333333
+"financial",3.1292,0.625,0.0571
+"infrastructure",6.06,1.594,0
+"institutional",1.0745,0.0875,0
+"public_health",1.567,0.1655,0.0095
+"public_safety",0.84,0,0
+"supply_chain",2.40733333333333,0.477666666666667,0.00316666666666667
+"transport",3.202,0.641,0.0095

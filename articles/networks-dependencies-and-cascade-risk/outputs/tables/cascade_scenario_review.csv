@@ -1,0 +1,7 @@
+scenario,initial_failures,cascade_depth,final_failed_count,final_service_loss_index,requires_executive_review
+random_two,community_clinic;hospital,0,2,0.75,False
+targeted_cloud,cloud_platform,0,1,0.4,False
+targeted_power,power_grid,0,1,0.42,False
+targeted_supplier,regional_supplier,0,1,0.55,False
+targeted_telecom,telecom_network,0,1,0.52,False
+targeted_transit,transit_hub,0,1,0.6,False

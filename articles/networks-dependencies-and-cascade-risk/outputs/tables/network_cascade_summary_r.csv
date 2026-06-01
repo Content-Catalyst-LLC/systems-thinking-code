@@ -1,0 +1,7 @@
+"step","failed_nodes","failed_count","service_loss_index","scenario","initial_failures","diagnostic"
+0,"community_clinic;hospital",2,0.75,"random_two","community_clinic;hospital","contained disruption"
+0,"cloud_platform",1,0.4,"targeted_cloud","cloud_platform","contained disruption"
+0,"power_grid",1,0.42,"targeted_power","power_grid","contained disruption"
+0,"regional_supplier",1,0.55,"targeted_supplier","regional_supplier","contained disruption"
+0,"telecom_network",1,0.52,"targeted_telecom","telecom_network","contained disruption"
+0,"transit_hub",1,0.6,"targeted_transit","transit_hub","contained disruption"

@@ -1,0 +1,17 @@
+node_id,category,bridge_approximation_score,dependency_exposure_score,bridge_flag,exposure_flag,diagnostic
+power_grid,infrastructure,0.0,2.6735,False,True,dependency exposure priority
+water_utility,infrastructure,0.0,0.5145,False,False,routine monitoring
+hospital,public_health,0.019,0.331,True,False,bridge priority
+transit_hub,transport,0.0095,0.641,False,True,dependency exposure priority
+data_center,digital,0.0,0.39,False,False,routine monitoring
+cloud_platform,digital,0.0,0.4195,False,False,routine monitoring
+food_distribution,supply_chain,0.0,0.124,False,False,routine monitoring
+fuel_terminal,supply_chain,0.0,0.749,False,True,dependency exposure priority
+emergency_services,public_safety,0.0,0.0,False,False,routine monitoring
+telecom_network,digital,0.1429,2.2975,True,True,bridge and exposure priority
+community_clinic,public_health,0.0,0.0,False,False,routine monitoring
+local_government,institutional,0.0,0.2625,False,False,routine monitoring
+school_network,institutional,0.0,0.0,False,False,routine monitoring
+housing_services,institutional,0.0,0.0,False,False,routine monitoring
+payment_system,financial,0.0571,0.625,True,True,bridge and exposure priority
+regional_supplier,supply_chain,0.0095,0.56,False,False,routine monitoring
