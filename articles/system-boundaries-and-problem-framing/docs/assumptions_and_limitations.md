@@ -1,14 +1,5 @@
 # Assumptions and Limitations
 
-These examples use synthetic data and simplified structures.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
 
-Limitations:
-
-- stakeholder data is illustrative, not empirical
-- externality weights are assumed
-- scenario outcomes are not calibrated to real-world systems
-- boundary choices are simplified for demonstration
-- qualitative harms cannot be fully represented numerically
-- model outputs are prompts for inquiry, not final decisions
-
-Boundary critique requires interpretation, stakeholder engagement, and domain knowledge.
+Results should be treated as scenario diagnostics, not predictions.

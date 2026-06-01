@@ -1,3 +1,3 @@
 # Responsible Use
 
-This scaffold is for synthetic-data research, systems thinking education, organizational learning, and reproducible workflows. Do not use it for individual employee monitoring, psychological assessment, automated employment decisions, compensation, discipline, or termination.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

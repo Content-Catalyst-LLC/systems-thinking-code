@@ -1,3 +1,3 @@
 # Responsible Use
 
-This document supports the article scaffold for Systems Thinking and Sustainability. It frames sustainability analysis around ecological limits, social foundations, stocks, flows, feedback loops, delays, thresholds, resilience, equity, governance, institutional learning, and responsible public-interest interpretation.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

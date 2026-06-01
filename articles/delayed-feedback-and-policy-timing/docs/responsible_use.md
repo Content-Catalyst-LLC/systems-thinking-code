@@ -1,3 +1,3 @@
 # Responsible Use
 
-This scaffold is for learning, research demonstration, and reproducible modeling. It is not a substitute for public consultation, domain-specific policy evaluation, legal review, or participatory governance. Use the examples to clarify timing assumptions, not to claim automatic policy authority.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

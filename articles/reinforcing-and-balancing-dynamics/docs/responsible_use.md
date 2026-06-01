@@ -1,5 +1,3 @@
 # Responsible Use
 
-Use these materials for learning, documentation, and reproducible systems-thinking examples.
-
-Do not use simplified feedback models as decision tools without domain validation, stakeholder review, uncertainty analysis, and ethical assessment.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

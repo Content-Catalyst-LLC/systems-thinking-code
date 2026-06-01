@@ -1,0 +1,3 @@
+Local article folder: /Users/tariqahmad/Downloads/systems-thinking-code/articles/success-to-the-successful-and-systemic-advantage
+GitHub article folder: https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/success-to-the-successful-and-systemic-advantage/
+WordPress GitHub block: /Users/tariqahmad/Downloads/systems-thinking-code/articles/success-to-the-successful-and-systemic-advantage/docs/github-embed-wordpress.html

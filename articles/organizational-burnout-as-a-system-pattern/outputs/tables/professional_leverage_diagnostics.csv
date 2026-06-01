@@ -1,4 +1,6 @@
-article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
-organizational-burnout-as-a-system-pattern,Capacity-building intervention vs baseline,20.013,-9.236,12.931,31.431,Useful intervention: improves outcomes without increasing modeled risk.
-organizational-burnout-as-a-system-pattern,Pressure-only intervention vs baseline,0.0,0.398,0.0,-6.206,Low or uncertain leverage: intervention does not clearly improve system behavior.
-organizational-burnout-as-a-system-pattern,Structural redesign vs baseline,48.886,-31.62,55.782,55.956,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."
+article_slug,scenario,outcome_gain_vs_baseline,risk_reduction_vs_baseline,trust_gain_vs_baseline,memory_gain_vs_baseline,interpretation
+organizational-burnout-as-a-system-pattern,Capacity and feedback investment,47.659,47.721,70.599,41.522,High leverage
+organizational-burnout-as-a-system-pattern,Current structure / baseline,0.0,0.0,0.0,0.0,Low leverage
+organizational-burnout-as-a-system-pattern,Delayed reform under rising pressure,24.654,23.499,28.584,13.116,High leverage
+organizational-burnout-as-a-system-pattern,Pressure-only intervention,0.0,0.0,0.0,-2.887,Low leverage
+organizational-burnout-as-a-system-pattern,Structural redesign and learning,58.407,58.429,96.916,64.92,High leverage

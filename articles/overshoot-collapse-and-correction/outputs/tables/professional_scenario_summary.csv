@@ -1,0 +1,6 @@
+article_slug,scenario,final_outcome_index,final_risk_index,final_stock_index,final_capacity_index,final_trust_index,final_memory_index,average_burden_index,minimum_stock_index,minimum_trust_index,peak_risk_index,average_outcome_index,years_high_risk,professional_diagnostic
+overshoot-collapse-and-correction,Capacity and feedback investment,47.287,52.693,0.0,96.847,66.489,74.679,10.792,0.0,44.599,68.272,40.327,0,Mixed trajectory: additional diagnosis and stakeholder evidence required.
+overshoot-collapse-and-correction,Current structure / baseline,3.981,100.0,0.0,20.643,0.0,36.103,58.399,0.0,0.0,100.0,18.955,26,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+overshoot-collapse-and-correction,Delayed reform under rising pressure,26.151,74.918,0.0,61.403,28.514,47.795,24.393,0.0,28.514,82.525,27.125,26,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+overshoot-collapse-and-correction,Pressure-only intervention,0.0,100.0,0.0,1.217,0.0,33.374,77.292,0.0,0.0,100.0,15.194,26,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+overshoot-collapse-and-correction,Structural redesign and learning,58.435,41.619,0.0,100.0,94.166,98.591,5.531,0.0,46.158,57.158,51.53,0,Mixed trajectory: additional diagnosis and stakeholder evidence required.

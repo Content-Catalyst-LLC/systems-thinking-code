@@ -1,0 +1,6 @@
+"scenario","final_outcome_index","final_risk_index","final_stock_index","final_capacity_index","final_trust_index","final_memory_index","average_burden_index","peak_risk_index","years_high_risk","years_low_trust","professional_diagnostic"
+"Current structure / baseline",6.522,98.527,0,27.464,0,37.115,50.2661290322581,98.527,24,28,"High-risk trajectory"
+"Pressure-only intervention",0,100,0,5.476,0,34.2,72.2282258064516,100,24,28,"High-risk trajectory"
+"Capacity and feedback investment",49.69,50.107,0,100,72.495,76.614,8.02893548387097,64.084,0,0,"Monitor burden, trust, capacity, and equity"
+"Structural redesign and learning",59.865,40.219,0,100,99.954,100,3.4908064516129,53.585,0,0,"Monitor burden, trust, capacity, and equity"
+"Delayed reform under rising pressure",29.031,71.748,0,65.997,35.558,49.154,19.5975161290323,78.876,25,28,"High-risk trajectory"

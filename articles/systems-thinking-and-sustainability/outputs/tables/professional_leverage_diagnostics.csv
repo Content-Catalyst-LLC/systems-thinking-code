@@ -1,4 +1,6 @@
-article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
-systems-thinking-and-sustainability,Capacity-building intervention vs baseline,19.291,-7.66,11.459,28.591,Useful intervention: improves outcomes without increasing modeled risk.
-systems-thinking-and-sustainability,Pressure-only intervention vs baseline,0.0,0.473,0.0,-5.714,Low or uncertain leverage: intervention does not clearly improve system behavior.
-systems-thinking-and-sustainability,Structural redesign vs baseline,44.888,-27.299,48.859,50.842,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."
+article_slug,scenario,outcome_gain_vs_baseline,risk_reduction_vs_baseline,trust_gain_vs_baseline,memory_gain_vs_baseline,interpretation
+systems-thinking-and-sustainability,Capacity and feedback investment,43.14,48.73,71.416,38.72,High leverage
+systems-thinking-and-sustainability,Current structure / baseline,0.0,0.0,0.0,0.0,Low leverage
+systems-thinking-and-sustainability,Delayed reform under rising pressure,22.84,27.444,34.382,11.786,High leverage
+systems-thinking-and-sustainability,Pressure-only intervention,-5.877,-0.159,0.0,-2.702,Counterproductive under assumptions
+systems-thinking-and-sustainability,Structural redesign and learning,53.75,59.358,98.941,62.619,High leverage

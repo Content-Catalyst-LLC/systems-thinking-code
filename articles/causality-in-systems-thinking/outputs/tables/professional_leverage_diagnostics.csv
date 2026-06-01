@@ -1,4 +1,6 @@
-article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
-causality-in-systems-thinking,Capacity-building intervention vs baseline,24.791,-13.302,18.691,30.614,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."
-causality-in-systems-thinking,Pressure-only intervention vs baseline,0.0,0.497,0.0,-6.038,Low or uncertain leverage: intervention does not clearly improve system behavior.
-causality-in-systems-thinking,Structural redesign vs baseline,51.992,-34.246,58.751,53.987,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."
+article_slug,scenario,outcome_gain_vs_baseline,risk_reduction_vs_baseline,trust_gain_vs_baseline,memory_gain_vs_baseline,interpretation
+causality-in-systems-thinking,Capacity and feedback investment,42.925,48.06,73.798,39.643,High leverage
+causality-in-systems-thinking,Current structure / baseline,0.0,0.0,0.0,0.0,Low leverage
+causality-in-systems-thinking,Delayed reform under rising pressure,22.692,26.9,37.212,12.136,High leverage
+causality-in-systems-thinking,Pressure-only intervention,-7.534,-2.744,0.0,-2.886,Counterproductive under assumptions
+causality-in-systems-thinking,Structural redesign and learning,52.158,57.032,100.0,59.606,High leverage

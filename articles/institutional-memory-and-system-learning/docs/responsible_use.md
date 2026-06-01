@@ -1,3 +1,3 @@
 # Responsible Use
 
-This scaffold is for synthetic-data research, systems thinking education, institutional learning, and reproducible workflows. Do not use it to blame individual workers or communities for institutional memory failure. Use it to support accountability, learning, knowledge stewardship, and repair.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

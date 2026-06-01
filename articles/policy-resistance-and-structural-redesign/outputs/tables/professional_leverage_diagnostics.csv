@@ -1,4 +1,6 @@
-article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
-policy-resistance-and-structural-redesign,Capacity-building intervention vs baseline,16.424,-7.436,3.775,29.791,Useful intervention: improves outcomes without increasing modeled risk.
-policy-resistance-and-structural-redesign,Pressure-only intervention vs baseline,0.0,0.416,0.0,-5.944,Low or uncertain leverage: intervention does not clearly improve system behavior.
-policy-resistance-and-structural-redesign,Structural redesign vs baseline,43.553,-28.228,43.821,53.162,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."
+article_slug,scenario,outcome_gain_vs_baseline,risk_reduction_vs_baseline,trust_gain_vs_baseline,memory_gain_vs_baseline,interpretation
+policy-resistance-and-structural-redesign,Capacity and feedback investment,45.038,47.036,66.772,39.613,High leverage
+policy-resistance-and-structural-redesign,Current structure / baseline,0.0,0.0,0.0,0.0,Low leverage
+policy-resistance-and-structural-redesign,Delayed reform under rising pressure,23.099,23.96,27.053,12.122,High leverage
+policy-resistance-and-structural-redesign,Pressure-only intervention,-2.274,0.0,0.0,-2.892,Low leverage
+policy-resistance-and-structural-redesign,Structural redesign and learning,56.561,58.647,95.808,64.001,High leverage

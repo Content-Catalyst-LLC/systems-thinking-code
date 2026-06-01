@@ -1,12 +1,5 @@
 # Assumptions and Limitations
 
-The repository uses synthetic datasets. Values are illustrative and should not be interpreted as empirical claims.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
 
-Limitations:
-
-- simple regeneration equations;
-- stylized user groups;
-- simplified governance scores;
-- no real-world enforcement model;
-- no individual-level decision support;
-- no predictive claims about actual commons systems.
+Results should be treated as scenario diagnostics, not predictions.

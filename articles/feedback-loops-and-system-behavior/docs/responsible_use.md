@@ -1,12 +1,3 @@
 # Responsible Use
 
-Feedback models can influence decisions, policy, resource allocation, performance management, and public interpretation.
-
-Use these materials responsibly:
-
-- Do not treat synthetic examples as empirical proof.
-- Do not use simplified models to justify harmful decisions.
-- Document assumptions and exclusions.
-- Include affected stakeholders where real decisions are involved.
-- Track delayed effects and distributional consequences.
-- Treat model output as a prompt for inquiry, not automatic authority.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

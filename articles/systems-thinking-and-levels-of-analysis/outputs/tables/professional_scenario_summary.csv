@@ -1,0 +1,6 @@
+article_slug,scenario,final_outcome_index,final_risk_index,final_stock_index,final_capacity_index,final_trust_index,final_memory_index,average_burden_index,minimum_stock_index,minimum_trust_index,peak_risk_index,average_outcome_index,years_high_risk,professional_diagnostic
+systems-thinking-and-levels-of-analysis,Capacity and feedback investment,49.69,50.107,0.0,100.0,72.495,76.614,8.029,0.0,47.494,64.084,43.934,0,Mixed trajectory: additional diagnosis and stakeholder evidence required.
+systems-thinking-and-levels-of-analysis,Current structure / baseline,6.522,98.527,0.0,27.464,0.0,37.115,50.266,0.0,0.0,98.527,21.664,24,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+systems-thinking-and-levels-of-analysis,Delayed reform under rising pressure,29.031,71.748,0.0,65.997,35.558,49.154,19.598,0.0,35.445,78.876,29.728,25,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+systems-thinking-and-levels-of-analysis,Pressure-only intervention,0.0,100.0,0.0,5.476,0.0,34.2,72.228,0.0,0.0,100.0,17.154,24,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+systems-thinking-and-levels-of-analysis,Structural redesign and learning,59.865,40.219,0.0,100.0,99.954,100.0,3.491,0.0,48.758,53.585,57.195,0,Mixed trajectory: additional diagnosis and stakeholder evidence required.

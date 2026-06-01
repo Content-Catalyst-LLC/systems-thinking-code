@@ -1,3 +1,5 @@
 # Assumptions and Limitations
 
-This document supports the article scaffold for Systems Thinking and Sustainability. It frames sustainability analysis around ecological limits, social foundations, stocks, flows, feedback loops, delays, thresholds, resilience, equity, governance, institutional learning, and responsible public-interest interpretation.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
+
+Results should be treated as scenario diagnostics, not predictions.

@@ -1,3 +1,3 @@
 # Responsible Use
 
-Do not use these examples to make automated decisions about people or communities. Stock-flow models can clarify accumulation and depletion, but they can also hide lived experience, power, history, and unequal exposure if used carelessly. Use them for learning, documentation, and accountable analysis.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

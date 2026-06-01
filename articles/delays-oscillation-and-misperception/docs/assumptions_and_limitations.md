@@ -1,5 +1,5 @@
 # Assumptions and Limitations
 
-These materials use simplified synthetic data and illustrative models.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
 
-They are designed for education, article support, and reproducible methods demonstration. They are not calibrated empirical models and should not be used for operational decision-making without domain validation, uncertainty analysis, stakeholder review, and empirical data.
+Results should be treated as scenario diagnostics, not predictions.

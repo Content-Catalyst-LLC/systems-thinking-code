@@ -1,0 +1,1 @@
+matplotlib not available; CSV outputs were still generated.

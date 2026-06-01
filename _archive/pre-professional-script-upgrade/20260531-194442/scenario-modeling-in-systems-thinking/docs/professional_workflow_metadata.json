@@ -1,0 +1,14 @@
+{
+  "article_slug": "scenario-modeling-in-systems-thinking",
+  "article_title": "Scenario Modeling In Systems Thinking",
+  "workflow_type": "professional systems-thinking diagnostic workflow",
+  "primary_stock_label": "system stock and dynamic capacity",
+  "pressure_label": "dynamic complexity pressure",
+  "burden_label": "model uncertainty and intervention burden",
+  "outcome_label": "system performance outcome",
+  "notes": [
+    "Synthetic data is generated for reproducible professional demonstration.",
+    "The workflow is intended for adaptation by analysts, researchers, public-sector teams, sustainability practitioners, and organizational systems professionals.",
+    "Replace synthetic assumptions with observed data, stakeholder evidence, and domain-specific validation before using for real decisions."
+  ]
+}

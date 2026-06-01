@@ -1,0 +1,156 @@
+article_slug,article_title,topic_family,year,scenario,policy_active,shock_event,system_stock_index,capacity_index,trust_index,memory_index,burden_index,equity_gap_index,risk_index,outcome_index,resilience_ratio,regeneration,pressure
+limits-to-growth,Limits to Growth,archetypes_feedback,0,Current structure / baseline,False,False,75.533,48.695,47.592,45.859,42.517,23.638,54.912,47.649,0.9442,2.0,4.7
+limits-to-growth,Limits to Growth,archetypes_feedback,1,Current structure / baseline,False,False,69.742,48.376,46.158,45.683,43.161,24.285,57.158,45.459,0.8718,1.888,5.855
+limits-to-growth,Limits to Growth,archetypes_feedback,2,Current structure / baseline,False,False,62.586,48.042,44.696,45.473,43.932,24.944,59.842,42.836,0.7823,1.744,7.01
+limits-to-growth,Limits to Growth,archetypes_feedback,3,Current structure / baseline,False,False,54.026,47.69,43.201,45.228,44.83,25.617,62.978,39.766,0.6753,1.565,8.165
+limits-to-growth,Limits to Growth,archetypes_feedback,4,Current structure / baseline,False,False,44.019,47.317,41.67,44.949,45.855,26.304,66.579,36.237,0.5502,1.351,9.32
+limits-to-growth,Limits to Growth,archetypes_feedback,5,Current structure / baseline,True,False,33.443,46.66,40.176,44.972,46.403,27.04,70.325,32.562,0.418,1.1,10.475
+limits-to-growth,Limits to Growth,archetypes_feedback,6,Current structure / baseline,True,False,21.38,45.988,38.649,44.966,47.02,27.786,74.539,28.422,0.2673,0.836,11.63
+limits-to-growth,Limits to Growth,archetypes_feedback,7,Current structure / baseline,True,False,7.79,45.298,37.089,44.931,47.706,28.545,79.235,23.804,0.0974,0.535,12.785
+limits-to-growth,Limits to Growth,archetypes_feedback,8,Current structure / baseline,True,False,0.0,44.589,35.492,44.868,48.461,29.317,82.215,20.904,0.0,0.195,13.94
+limits-to-growth,Limits to Growth,archetypes_feedback,9,Current structure / baseline,True,False,0.0,43.86,33.857,44.775,49.286,30.104,82.884,20.319,0.0,0.0,15.095
+limits-to-growth,Limits to Growth,archetypes_feedback,10,Current structure / baseline,True,False,0.0,43.109,32.181,44.654,50.18,30.907,83.579,19.711,0.0,0.0,16.25
+limits-to-growth,Limits to Growth,archetypes_feedback,11,Current structure / baseline,True,True,0.0,42.329,30.457,44.442,51.292,31.731,84.328,19.057,0.0,0.0,19.88
+limits-to-growth,Limits to Growth,archetypes_feedback,12,Current structure / baseline,True,False,0.0,41.524,28.687,44.263,52.324,32.573,85.08,18.398,0.0,0.0,18.56
+limits-to-growth,Limits to Growth,archetypes_feedback,13,Current structure / baseline,True,False,0.0,40.692,26.869,44.055,53.426,33.434,85.862,17.713,0.0,0.0,19.715
+limits-to-growth,Limits to Growth,archetypes_feedback,14,Current structure / baseline,True,False,0.0,39.83,25.0,43.818,54.597,34.317,86.675,17.001,0.0,0.0,20.87
+limits-to-growth,Limits to Growth,archetypes_feedback,15,Current structure / baseline,True,False,0.0,38.937,23.078,43.553,55.838,35.222,87.519,16.262,0.0,0.0,22.025
+limits-to-growth,Limits to Growth,archetypes_feedback,16,Current structure / baseline,True,False,0.0,38.011,21.101,43.258,57.148,36.151,88.395,15.494,0.0,0.0,23.18
+limits-to-growth,Limits to Growth,archetypes_feedback,17,Current structure / baseline,True,False,0.0,37.051,19.065,42.935,58.527,37.104,89.305,14.697,0.0,0.0,24.335
+limits-to-growth,Limits to Growth,archetypes_feedback,18,Current structure / baseline,True,False,0.0,36.055,16.969,42.583,59.975,38.084,90.249,13.869,0.0,0.0,25.49
+limits-to-growth,Limits to Growth,archetypes_feedback,19,Current structure / baseline,True,False,0.0,35.02,14.81,42.202,61.493,39.091,91.229,13.01,0.0,0.0,26.645
+limits-to-growth,Limits to Growth,archetypes_feedback,20,Current structure / baseline,True,False,0.0,33.946,12.585,41.792,63.08,40.126,92.246,12.118,0.0,0.0,27.8
+limits-to-growth,Limits to Growth,archetypes_feedback,21,Current structure / baseline,True,False,0.0,32.831,10.292,41.353,64.736,41.191,93.3,11.193,0.0,0.0,28.955
+limits-to-growth,Limits to Growth,archetypes_feedback,22,Current structure / baseline,True,False,0.0,31.672,7.927,40.885,66.462,42.288,94.393,10.233,0.0,0.0,30.11
+limits-to-growth,Limits to Growth,archetypes_feedback,23,Current structure / baseline,True,False,0.0,30.469,5.489,40.388,68.257,43.416,95.526,9.239,0.0,0.0,31.265
+limits-to-growth,Limits to Growth,archetypes_feedback,24,Current structure / baseline,True,False,0.0,29.219,2.975,39.863,70.121,44.578,96.699,8.208,0.0,0.0,32.42
+limits-to-growth,Limits to Growth,archetypes_feedback,25,Current structure / baseline,True,False,0.0,27.92,0.382,39.308,72.054,45.775,97.915,7.14,0.0,0.0,33.575
+limits-to-growth,Limits to Growth,archetypes_feedback,26,Current structure / baseline,True,False,0.0,26.572,0.0,38.725,74.057,47.008,98.715,6.493,0.0,0.0,34.73
+limits-to-growth,Limits to Growth,archetypes_feedback,27,Current structure / baseline,True,False,0.0,25.172,0.0,38.113,76.129,48.279,99.465,5.899,0.0,0.0,35.885
+limits-to-growth,Limits to Growth,archetypes_feedback,28,Current structure / baseline,True,False,0.0,23.718,0.0,37.472,78.271,49.588,100.0,5.283,0.0,0.0,37.04
+limits-to-growth,Limits to Growth,archetypes_feedback,29,Current structure / baseline,True,False,0.0,22.209,0.0,36.802,80.481,50.936,100.0,4.644,0.0,0.0,38.195
+limits-to-growth,Limits to Growth,archetypes_feedback,30,Current structure / baseline,True,False,0.0,20.643,0.0,36.103,82.761,52.326,100.0,3.981,0.0,0.0,39.35
+limits-to-growth,Limits to Growth,archetypes_feedback,0,Pressure-only intervention,False,False,75.533,48.695,47.592,45.859,42.517,23.638,54.912,47.649,0.9442,2.0,4.7
+limits-to-growth,Limits to Growth,archetypes_feedback,1,Pressure-only intervention,False,False,69.742,48.376,46.158,45.683,43.161,24.285,57.158,45.459,0.8718,1.888,5.855
+limits-to-growth,Limits to Growth,archetypes_feedback,2,Pressure-only intervention,False,False,62.586,48.042,44.696,45.473,43.932,24.944,59.842,42.836,0.7823,1.744,7.01
+limits-to-growth,Limits to Growth,archetypes_feedback,3,Pressure-only intervention,False,False,54.026,47.69,43.201,45.228,44.83,25.617,62.978,39.766,0.6753,1.565,8.165
+limits-to-growth,Limits to Growth,archetypes_feedback,4,Pressure-only intervention,False,False,44.019,47.317,41.67,44.949,45.855,26.304,66.579,36.237,0.5502,1.351,9.32
+limits-to-growth,Limits to Growth,archetypes_feedback,5,Pressure-only intervention,True,False,34.672,46.43,39.783,44.852,48.23,27.123,70.299,32.668,0.4334,1.1,10.056
+limits-to-growth,Limits to Growth,archetypes_feedback,6,Pressure-only intervention,True,False,23.82,45.48,37.805,44.728,50.766,27.986,74.529,28.598,0.2977,0.867,11.165
+limits-to-growth,Limits to Growth,archetypes_feedback,7,Pressure-only intervention,True,False,11.413,44.462,35.73,44.576,53.47,28.899,79.287,24.011,0.1427,0.595,12.274
+limits-to-growth,Limits to Growth,archetypes_feedback,8,Pressure-only intervention,True,False,0.0,43.373,33.552,44.397,56.349,29.863,83.811,19.668,0.0,0.285,13.382
+limits-to-growth,Limits to Growth,archetypes_feedback,9,Pressure-only intervention,True,False,0.0,42.206,31.265,44.189,59.409,30.882,84.978,18.693,0.0,0.0,14.491
+limits-to-growth,Limits to Growth,archetypes_feedback,10,Pressure-only intervention,True,False,0.0,40.959,28.863,43.954,62.659,31.96,86.217,17.657,0.0,0.0,15.6
+limits-to-growth,Limits to Growth,archetypes_feedback,11,Pressure-only intervention,True,True,0.0,39.622,26.333,43.632,66.247,33.103,87.556,16.538,0.0,0.0,19.085
+limits-to-growth,Limits to Growth,archetypes_feedback,12,Pressure-only intervention,True,False,0.0,38.193,23.673,43.342,69.903,34.311,88.951,15.372,0.0,0.0,17.818
+limits-to-growth,Limits to Growth,archetypes_feedback,13,Pressure-only intervention,True,False,0.0,36.668,20.875,43.024,73.772,35.589,90.429,14.136,0.0,0.0,18.926
+limits-to-growth,Limits to Growth,archetypes_feedback,14,Pressure-only intervention,True,False,0.0,35.04,17.932,42.678,77.862,36.94,91.993,12.828,0.0,0.0,20.035
+limits-to-growth,Limits to Growth,archetypes_feedback,15,Pressure-only intervention,True,False,0.0,33.305,14.835,42.304,82.182,38.37,93.649,11.443,0.0,0.0,21.144
+limits-to-growth,Limits to Growth,archetypes_feedback,16,Pressure-only intervention,True,False,0.0,31.455,11.575,41.903,86.741,39.881,95.4,9.978,0.0,0.0,22.253
+limits-to-growth,Limits to Growth,archetypes_feedback,17,Pressure-only intervention,True,False,0.0,29.486,8.143,41.474,91.55,41.479,97.252,8.429,0.0,0.0,23.362
+limits-to-growth,Limits to Growth,archetypes_feedback,18,Pressure-only intervention,True,False,0.0,27.389,4.531,41.017,96.617,43.168,99.209,6.791,0.0,0.0,24.47
+limits-to-growth,Limits to Growth,archetypes_feedback,19,Pressure-only intervention,True,False,0.0,25.208,0.787,40.532,100.0,44.918,100.0,5.202,0.0,0.0,25.579
+limits-to-growth,Limits to Growth,archetypes_feedback,20,Pressure-only intervention,True,False,0.0,23.027,0.0,40.02,100.0,46.668,100.0,4.403,0.0,0.0,26.688
+limits-to-growth,Limits to Growth,archetypes_feedback,21,Pressure-only intervention,True,False,0.0,20.846,0.0,39.48,100.0,48.418,100.0,3.756,0.0,0.0,27.797
+limits-to-growth,Limits to Growth,archetypes_feedback,22,Pressure-only intervention,True,False,0.0,18.665,0.0,38.913,100.0,50.168,100.0,3.104,0.0,0.0,28.906
+limits-to-growth,Limits to Growth,archetypes_feedback,23,Pressure-only intervention,True,False,0.0,16.484,0.0,38.317,100.0,51.918,100.0,2.447,0.0,0.0,30.014
+limits-to-growth,Limits to Growth,archetypes_feedback,24,Pressure-only intervention,True,False,0.0,14.303,0.0,37.694,100.0,53.668,100.0,1.785,0.0,0.0,31.123
+limits-to-growth,Limits to Growth,archetypes_feedback,25,Pressure-only intervention,True,False,0.0,12.122,0.0,37.043,100.0,55.418,100.0,1.118,0.0,0.0,32.232
+limits-to-growth,Limits to Growth,archetypes_feedback,26,Pressure-only intervention,True,False,0.0,9.941,0.0,36.365,100.0,57.168,100.0,0.446,0.0,0.0,33.341
+limits-to-growth,Limits to Growth,archetypes_feedback,27,Pressure-only intervention,True,False,0.0,7.76,0.0,35.659,100.0,58.918,100.0,0.0,0.0,0.0,34.45
+limits-to-growth,Limits to Growth,archetypes_feedback,28,Pressure-only intervention,True,False,0.0,5.579,0.0,34.925,100.0,60.668,100.0,0.0,0.0,0.0,35.558
+limits-to-growth,Limits to Growth,archetypes_feedback,29,Pressure-only intervention,True,False,0.0,3.398,0.0,34.163,100.0,62.418,100.0,0.0,0.0,0.0,36.667
+limits-to-growth,Limits to Growth,archetypes_feedback,30,Pressure-only intervention,True,False,0.0,1.217,0.0,33.374,100.0,64.168,100.0,0.0,0.0,0.0,37.776
+limits-to-growth,Limits to Growth,archetypes_feedback,0,Capacity and feedback investment,False,False,75.533,48.695,47.592,45.859,42.517,23.638,54.912,47.649,0.9442,2.0,4.7
+limits-to-growth,Limits to Growth,archetypes_feedback,1,Capacity and feedback investment,False,False,69.742,48.376,46.158,45.683,43.161,24.285,57.158,45.459,0.8718,1.888,5.855
+limits-to-growth,Limits to Growth,archetypes_feedback,2,Capacity and feedback investment,False,False,62.586,48.042,44.696,45.473,43.932,24.944,59.842,42.836,0.7823,1.744,7.01
+limits-to-growth,Limits to Growth,archetypes_feedback,3,Capacity and feedback investment,True,False,58.263,49.152,44.599,46.83,32.65,24.882,59.544,42.687,0.7283,2.065,6.532
+limits-to-growth,Limits to Growth,archetypes_feedback,4,Capacity and feedback investment,True,False,53.279,50.469,44.753,48.163,24.356,24.67,59.633,42.259,0.666,1.923,7.456
+limits-to-growth,Limits to Growth,archetypes_feedback,5,Capacity and feedback investment,True,False,47.522,51.938,45.093,49.474,18.274,24.349,60.095,41.536,0.594,1.758,8.38
+limits-to-growth,Limits to Growth,archetypes_feedback,6,Capacity and feedback investment,True,False,40.896,53.519,45.571,50.761,13.829,23.948,60.922,40.506,0.5112,1.568,9.304
+limits-to-growth,Limits to Growth,archetypes_feedback,7,Capacity and feedback investment,True,False,33.322,55.18,46.154,52.026,10.595,23.489,62.112,39.156,0.4165,1.35,10.228
+limits-to-growth,Limits to Growth,archetypes_feedback,8,Capacity and feedback investment,True,False,24.731,56.899,46.816,53.267,8.258,22.987,63.667,37.474,0.3091,1.1,11.152
+limits-to-growth,Limits to Growth,archetypes_feedback,9,Capacity and feedback investment,True,False,15.063,58.661,47.537,54.485,6.583,22.456,65.591,35.446,0.1883,0.816,12.076
+limits-to-growth,Limits to Growth,archetypes_feedback,10,Capacity and feedback investment,True,False,4.259,60.452,48.302,55.68,5.4,21.903,67.889,33.06,0.0532,0.497,13.0
+limits-to-growth,Limits to Growth,archetypes_feedback,11,Capacity and feedback investment,True,True,0.0,62.26,49.099,56.802,4.698,21.338,68.272,32.606,0.0,0.141,15.904
+limits-to-growth,Limits to Growth,archetypes_feedback,12,Capacity and feedback investment,True,False,0.0,64.083,49.924,57.951,4.115,20.762,67.374,33.437,0.0,0.0,14.848
+limits-to-growth,Limits to Growth,archetypes_feedback,13,Capacity and feedback investment,True,False,0.0,65.916,50.77,59.077,3.74,20.179,66.494,34.258,0.0,0.0,15.772
+limits-to-growth,Limits to Growth,archetypes_feedback,14,Capacity and feedback investment,True,False,0.0,67.754,51.633,60.179,3.517,19.592,65.627,35.07,0.0,0.0,16.696
+limits-to-growth,Limits to Growth,archetypes_feedback,15,Capacity and feedback investment,True,False,0.0,69.595,52.51,61.259,3.408,19.004,64.772,35.875,0.0,0.0,17.62
+limits-to-growth,Limits to Growth,archetypes_feedback,16,Capacity and feedback investment,True,False,0.0,71.436,53.399,62.315,3.382,18.415,63.925,36.673,0.0,0.0,18.544
+limits-to-growth,Limits to Growth,archetypes_feedback,17,Capacity and feedback investment,True,False,0.0,73.277,54.297,63.349,3.419,17.826,63.087,37.465,0.0,0.0,19.468
+limits-to-growth,Limits to Growth,archetypes_feedback,18,Capacity and feedback investment,True,False,0.0,75.115,55.203,64.359,3.502,17.239,62.256,38.251,0.0,0.0,20.392
+limits-to-growth,Limits to Growth,archetypes_feedback,19,Capacity and feedback investment,True,False,0.0,76.951,56.116,65.346,3.618,16.654,61.431,39.031,0.0,0.0,21.316
+limits-to-growth,Limits to Growth,archetypes_feedback,20,Capacity and feedback investment,True,False,0.0,78.783,57.035,66.31,3.76,16.072,60.613,39.807,0.0,0.0,22.24
+limits-to-growth,Limits to Growth,archetypes_feedback,21,Capacity and feedback investment,True,False,0.0,80.611,57.96,67.251,3.92,15.493,59.799,40.577,0.0,0.0,23.164
+limits-to-growth,Limits to Growth,archetypes_feedback,22,Capacity and feedback investment,True,False,0.0,82.434,58.891,68.169,4.094,14.916,58.991,41.342,0.0,0.0,24.088
+limits-to-growth,Limits to Growth,archetypes_feedback,23,Capacity and feedback investment,True,False,0.0,84.254,59.826,69.063,4.278,14.343,58.187,42.102,0.0,0.0,25.012
+limits-to-growth,Limits to Growth,archetypes_feedback,24,Capacity and feedback investment,True,False,0.0,86.068,60.766,69.935,4.47,13.774,57.389,42.857,0.0,0.0,25.936
+limits-to-growth,Limits to Growth,archetypes_feedback,25,Capacity and feedback investment,True,False,0.0,87.877,61.71,70.783,4.668,13.208,56.595,43.608,0.0,0.0,26.86
+limits-to-growth,Limits to Growth,archetypes_feedback,26,Capacity and feedback investment,True,False,0.0,89.681,62.658,71.609,4.869,12.645,55.805,44.353,0.0,0.0,27.784
+limits-to-growth,Limits to Growth,archetypes_feedback,27,Capacity and feedback investment,True,False,0.0,91.481,63.61,72.411,5.074,12.087,55.021,45.094,0.0,0.0,28.708
+limits-to-growth,Limits to Growth,archetypes_feedback,28,Capacity and feedback investment,True,False,0.0,93.274,64.566,73.19,5.28,11.532,54.24,45.83,0.0,0.0,29.632
+limits-to-growth,Limits to Growth,archetypes_feedback,29,Capacity and feedback investment,True,False,0.0,95.063,65.526,73.946,5.489,10.981,53.464,46.561,0.0,0.0,30.556
+limits-to-growth,Limits to Growth,archetypes_feedback,30,Capacity and feedback investment,True,False,0.0,96.847,66.489,74.679,5.699,10.433,52.693,47.287,0.0,0.0,31.48
+limits-to-growth,Limits to Growth,archetypes_feedback,0,Structural redesign and learning,False,False,75.533,48.695,47.592,45.859,42.517,23.638,54.912,47.649,0.9442,2.0,4.7
+limits-to-growth,Limits to Growth,archetypes_feedback,1,Structural redesign and learning,False,False,69.742,48.376,46.158,45.683,43.161,24.285,57.158,45.459,0.8718,1.888,5.855
+limits-to-growth,Limits to Growth,archetypes_feedback,2,Structural redesign and learning,True,False,69.056,50.637,46.94,47.76,24.08,23.669,54.373,47.45,0.8632,2.859,4.346
+limits-to-growth,Limits to Growth,archetypes_feedback,3,Structural redesign and learning,True,False,68.183,53.164,48.052,49.818,13.438,22.86,52.343,49.008,0.8523,2.831,5.062
+limits-to-growth,Limits to Growth,archetypes_feedback,4,Structural redesign and learning,True,False,66.911,55.839,49.356,51.859,7.521,21.946,50.825,50.235,0.8364,2.796,5.778
+limits-to-growth,Limits to Growth,archetypes_feedback,5,Structural redesign and learning,True,False,65.106,58.596,50.774,53.881,4.25,20.972,49.685,51.183,0.8138,2.743,6.495
+limits-to-growth,Limits to Growth,archetypes_feedback,6,Structural redesign and learning,True,False,62.683,61.398,52.264,55.886,2.462,19.967,48.853,51.878,0.7835,2.669,7.211
+limits-to-growth,Limits to Growth,archetypes_feedback,7,Structural redesign and learning,True,False,59.58,64.223,53.8,57.873,1.503,18.944,48.295,52.332,0.7448,2.57,7.927
+limits-to-growth,Limits to Growth,archetypes_feedback,8,Structural redesign and learning,True,False,55.749,67.061,55.37,59.842,1.009,17.912,47.994,52.547,0.6969,2.443,8.643
+limits-to-growth,Limits to Growth,archetypes_feedback,9,Structural redesign and learning,True,False,51.149,69.904,56.965,61.793,0.776,16.876,47.945,52.518,0.6394,2.286,9.359
+limits-to-growth,Limits to Growth,archetypes_feedback,10,Structural redesign and learning,True,False,45.74,72.75,58.582,63.726,0.688,15.838,48.151,52.239,0.5718,2.097,10.075
+limits-to-growth,Limits to Growth,archetypes_feedback,11,Structural redesign and learning,True,True,37.949,75.594,60.215,65.603,0.774,14.802,49.095,51.228,0.4744,1.875,12.326
+limits-to-growth,Limits to Growth,archetypes_feedback,12,Structural redesign and learning,True,False,30.75,78.438,61.866,67.5,0.773,13.766,49.846,50.408,0.3844,1.556,11.507
+limits-to-growth,Limits to Growth,archetypes_feedback,13,Structural redesign and learning,True,False,22.631,81.28,63.535,69.38,0.815,12.731,50.877,49.308,0.2829,1.261,12.223
+limits-to-growth,Limits to Growth,archetypes_feedback,14,Structural redesign and learning,True,False,13.553,84.121,65.22,71.241,0.882,11.697,52.198,47.919,0.1694,0.928,12.939
+limits-to-growth,Limits to Growth,archetypes_feedback,15,Structural redesign and learning,True,False,3.476,86.96,66.922,73.085,0.962,10.664,53.82,46.229,0.0434,0.556,13.656
+limits-to-growth,Limits to Growth,archetypes_feedback,16,Structural redesign and learning,True,False,0.0,89.797,68.639,74.91,1.05,9.633,53.462,46.519,0.0,0.142,14.372
+limits-to-growth,Limits to Growth,archetypes_feedback,17,Structural redesign and learning,True,False,0.0,92.631,70.373,76.718,1.142,8.603,52.062,47.85,0.0,0.0,15.088
+limits-to-growth,Limits to Growth,archetypes_feedback,18,Structural redesign and learning,True,False,0.0,95.463,72.122,78.508,1.237,7.576,50.663,49.18,0.0,0.0,15.804
+limits-to-growth,Limits to Growth,archetypes_feedback,19,Structural redesign and learning,True,False,0.0,98.293,73.886,80.28,1.333,6.55,49.265,50.51,0.0,0.0,16.52
+limits-to-growth,Limits to Growth,archetypes_feedback,20,Structural redesign and learning,True,False,0.0,100.0,75.667,82.034,1.43,5.525,48.147,51.593,0.0,0.0,17.236
+limits-to-growth,Limits to Growth,archetypes_feedback,21,Structural redesign and learning,True,False,0.0,100.0,77.462,83.77,1.527,4.503,47.455,52.299,0.0,0.0,17.952
+limits-to-growth,Limits to Growth,archetypes_feedback,22,Structural redesign and learning,True,False,0.0,100.0,79.274,85.489,1.624,3.482,46.763,53.006,0.0,0.0,18.668
+limits-to-growth,Limits to Growth,archetypes_feedback,23,Structural redesign and learning,True,False,0.0,100.0,81.1,87.189,1.722,2.463,46.071,53.712,0.0,0.0,19.384
+limits-to-growth,Limits to Growth,archetypes_feedback,24,Structural redesign and learning,True,False,0.0,100.0,82.942,88.872,1.819,1.446,45.378,54.418,0.0,0.0,20.1
+limits-to-growth,Limits to Growth,archetypes_feedback,25,Structural redesign and learning,True,False,0.0,100.0,84.8,90.536,1.917,0.43,44.686,55.124,0.0,0.0,20.817
+limits-to-growth,Limits to Growth,archetypes_feedback,26,Structural redesign and learning,True,False,0.0,100.0,86.673,92.183,2.014,0.0,44.039,55.807,0.0,0.0,21.533
+limits-to-growth,Limits to Growth,archetypes_feedback,27,Structural redesign and learning,True,False,0.0,100.0,88.55,93.812,2.112,0.0,43.429,56.469,0.0,0.0,22.249
+limits-to-growth,Limits to Growth,archetypes_feedback,28,Structural redesign and learning,True,False,0.0,100.0,90.425,95.423,2.21,0.0,42.823,57.128,0.0,0.0,22.965
+limits-to-growth,Limits to Growth,archetypes_feedback,29,Structural redesign and learning,True,False,0.0,100.0,92.297,97.016,2.307,0.0,42.219,57.784,0.0,0.0,23.681
+limits-to-growth,Limits to Growth,archetypes_feedback,30,Structural redesign and learning,True,False,0.0,100.0,94.166,98.591,2.405,0.0,41.619,58.435,0.0,0.0,24.397
+limits-to-growth,Limits to Growth,archetypes_feedback,0,Delayed reform under rising pressure,False,False,75.533,48.695,47.592,45.859,42.517,23.638,54.912,47.649,0.9442,2.0,4.7
+limits-to-growth,Limits to Growth,archetypes_feedback,1,Delayed reform under rising pressure,False,False,69.742,48.376,46.158,45.683,43.161,24.285,57.158,45.459,0.8718,1.888,5.855
+limits-to-growth,Limits to Growth,archetypes_feedback,2,Delayed reform under rising pressure,False,False,62.586,48.042,44.696,45.473,43.932,24.944,59.842,42.836,0.7823,1.744,7.01
+limits-to-growth,Limits to Growth,archetypes_feedback,3,Delayed reform under rising pressure,False,False,54.026,47.69,43.201,45.228,44.83,25.617,62.978,39.766,0.6753,1.565,8.165
+limits-to-growth,Limits to Growth,archetypes_feedback,4,Delayed reform under rising pressure,False,False,44.019,47.317,41.67,44.949,45.855,26.304,66.579,36.237,0.5502,1.351,9.32
+limits-to-growth,Limits to Growth,archetypes_feedback,5,Delayed reform under rising pressure,False,False,32.522,46.92,40.101,44.634,47.008,27.01,70.66,32.233,0.4065,1.1,10.475
+limits-to-growth,Limits to Growth,archetypes_feedback,6,Delayed reform under rising pressure,False,False,19.491,46.498,38.488,44.285,48.287,27.734,75.235,27.739,0.2436,0.813,11.63
+limits-to-growth,Limits to Growth,archetypes_feedback,7,Delayed reform under rising pressure,False,False,4.882,46.046,36.83,43.902,49.693,28.479,80.32,22.742,0.061,0.487,12.785
+limits-to-growth,Limits to Growth,archetypes_feedback,8,Delayed reform under rising pressure,False,False,0.0,45.563,35.122,43.484,51.227,29.248,82.525,20.632,0.0,0.122,13.94
+limits-to-growth,Limits to Growth,archetypes_feedback,9,Delayed reform under rising pressure,True,False,0.0,45.604,34.009,43.937,42.605,29.665,81.84,21.0,0.0,0.0,12.68
+limits-to-growth,Limits to Growth,archetypes_feedback,10,Delayed reform under rising pressure,True,False,0.0,45.82,33.1,44.365,35.593,29.955,81.226,21.352,0.0,0.0,13.65
+limits-to-growth,Limits to Growth,archetypes_feedback,11,Delayed reform under rising pressure,True,True,0.0,46.175,32.352,44.718,30.026,30.146,80.692,21.671,0.0,0.0,16.699
+limits-to-growth,Limits to Growth,archetypes_feedback,12,Delayed reform under rising pressure,True,False,0.0,46.646,31.739,45.098,25.395,30.253,80.186,21.994,0.0,0.0,15.59
+limits-to-growth,Limits to Growth,archetypes_feedback,13,Delayed reform under rising pressure,True,False,0.0,47.211,31.237,45.454,21.655,30.293,79.721,22.305,0.0,0.0,16.561
+limits-to-growth,Limits to Growth,archetypes_feedback,14,Delayed reform under rising pressure,True,False,0.0,47.851,30.824,45.786,18.647,30.278,79.292,22.604,0.0,0.0,17.531
+limits-to-growth,Limits to Growth,archetypes_feedback,15,Delayed reform under rising pressure,True,False,0.0,48.551,30.484,46.093,16.239,30.221,78.893,22.892,0.0,0.0,18.501
+limits-to-growth,Limits to Growth,archetypes_feedback,16,Delayed reform under rising pressure,True,False,0.0,49.299,30.203,46.377,14.322,30.128,78.521,23.17,0.0,0.0,19.471
+limits-to-growth,Limits to Growth,archetypes_feedback,17,Delayed reform under rising pressure,True,False,0.0,50.085,29.968,46.635,12.809,30.009,78.171,23.438,0.0,0.0,20.441
+limits-to-growth,Limits to Growth,archetypes_feedback,18,Delayed reform under rising pressure,True,False,0.0,50.9,29.771,46.87,11.626,29.868,77.842,23.697,0.0,0.0,21.412
+limits-to-growth,Limits to Growth,archetypes_feedback,19,Delayed reform under rising pressure,True,False,0.0,51.738,29.604,47.081,10.714,29.711,77.531,23.946,0.0,0.0,22.382
+limits-to-growth,Limits to Growth,archetypes_feedback,20,Delayed reform under rising pressure,True,False,0.0,52.594,29.46,47.267,10.025,29.541,77.235,24.188,0.0,0.0,23.352
+limits-to-growth,Limits to Growth,archetypes_feedback,21,Delayed reform under rising pressure,True,False,0.0,53.462,29.335,47.429,9.518,29.363,76.954,24.42,0.0,0.0,24.322
+limits-to-growth,Limits to Growth,archetypes_feedback,22,Delayed reform under rising pressure,True,False,0.0,54.339,29.224,47.566,9.16,29.178,76.686,24.645,0.0,0.0,25.292
+limits-to-growth,Limits to Growth,archetypes_feedback,23,Delayed reform under rising pressure,True,False,0.0,55.221,29.123,47.68,8.925,28.988,76.43,24.861,0.0,0.0,26.263
+limits-to-growth,Limits to Growth,archetypes_feedback,24,Delayed reform under rising pressure,True,False,0.0,56.108,29.029,47.769,8.79,28.797,76.185,25.069,0.0,0.0,27.233
+limits-to-growth,Limits to Growth,archetypes_feedback,25,Delayed reform under rising pressure,True,False,0.0,56.995,28.941,47.834,8.738,28.604,75.95,25.269,0.0,0.0,28.203
+limits-to-growth,Limits to Growth,archetypes_feedback,26,Delayed reform under rising pressure,True,False,0.0,57.882,28.855,47.875,8.754,28.411,75.725,25.461,0.0,0.0,29.173
+limits-to-growth,Limits to Growth,archetypes_feedback,27,Delayed reform under rising pressure,True,False,0.0,58.768,28.771,47.891,8.825,28.22,75.51,25.645,0.0,0.0,30.143
+limits-to-growth,Limits to Growth,archetypes_feedback,28,Delayed reform under rising pressure,True,False,0.0,59.65,28.687,47.883,8.941,28.031,75.304,25.822,0.0,0.0,31.114
+limits-to-growth,Limits to Growth,archetypes_feedback,29,Delayed reform under rising pressure,True,False,0.0,60.529,28.602,47.851,9.095,27.845,75.107,25.99,0.0,0.0,32.084
+limits-to-growth,Limits to Growth,archetypes_feedback,30,Delayed reform under rising pressure,True,False,0.0,61.403,28.514,47.795,9.279,27.662,74.918,26.151,0.0,0.0,33.054

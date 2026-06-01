@@ -1,3 +1,3 @@
 # Responsible Use
 
-Use these materials for education, scenario thinking, and transparent modeling. Do not use them to deny immediate relief, blame affected people, or justify harmful delay. The goal is to connect short-term relief to long-term repair and to identify who bears delayed consequences.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

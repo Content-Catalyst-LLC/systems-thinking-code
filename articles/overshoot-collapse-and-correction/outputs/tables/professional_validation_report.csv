@@ -1,5 +1,5 @@
-article_slug,check,status,detail
-overshoot-collapse-and-correction,scenario_count,pass,Observed 4; expected 4.
-overshoot-collapse-and-correction,year_count_per_scenario,pass,"{""Baseline / current structure"": 31, ""Capacity-building intervention"": 31, ""Pressure-only intervention"": 31, ""Structural redesign"": 31}"
-overshoot-collapse-and-correction,bounded_indices,pass,All modeled indices are within expected range.
-overshoot-collapse-and-correction,redesign_outcome_not_worse_than_baseline,pass,Baseline final outcome=0.0; redesign final outcome=37.141.
+check,status,detail
+required_columns,pass,All required columns present.
+scenario_count,pass,5 scenarios summarized.
+bounded_indices,pass,0 rows outside expected bounds.
+professional_outputs,pass,"Timeseries, summary, leverage diagnostics, validation, assumptions, and metadata exported."

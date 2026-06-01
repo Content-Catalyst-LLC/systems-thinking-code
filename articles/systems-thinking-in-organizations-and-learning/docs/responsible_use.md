@@ -1,3 +1,3 @@
 # Responsible Use
 
-This repository is for synthetic-data education and systems-methods demonstration only. Do not use these scripts for employee screening, individual performance evaluation, discipline, promotion, compensation, termination, surveillance, or psychological assessment. Use organizational data only with consent, privacy safeguards, appropriate governance, and attention to power and burden.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

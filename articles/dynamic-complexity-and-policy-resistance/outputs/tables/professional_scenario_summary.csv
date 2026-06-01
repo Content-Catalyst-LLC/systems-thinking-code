@@ -1,0 +1,6 @@
+article_slug,scenario,final_outcome_index,final_risk_index,final_stock_index,final_capacity_index,final_trust_index,final_memory_index,average_burden_index,minimum_stock_index,minimum_trust_index,peak_risk_index,average_outcome_index,years_high_risk,professional_diagnostic
+dynamic-complexity-and-policy-resistance,Capacity and feedback investment,47.312,52.964,0.0,97.655,66.772,75.166,10.013,0.0,48.152,68.154,40.704,0,Mixed trajectory: additional diagnosis and stakeholder evidence required.
+dynamic-complexity-and-policy-resistance,Current structure / baseline,2.274,100.0,0.0,16.128,0.0,35.553,62.694,0.0,0.0,100.0,16.994,26,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+dynamic-complexity-and-policy-resistance,Delayed reform under rising pressure,25.373,76.04,0.0,60.715,27.053,47.675,24.598,0.0,27.053,83.111,26.149,26,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+dynamic-complexity-and-policy-resistance,Pressure-only intervention,0.0,100.0,0.0,0.0,0.0,32.661,82.071,0.0,0.0,100.0,13.333,26,High-risk trajectory: intervention remains pressure-heavy or under-capacitated.
+dynamic-complexity-and-policy-resistance,Structural redesign and learning,58.835,41.353,0.0,100.0,95.808,99.554,4.426,0.0,50.309,57.477,53.345,0,Mixed trajectory: additional diagnosis and stakeholder evidence required.

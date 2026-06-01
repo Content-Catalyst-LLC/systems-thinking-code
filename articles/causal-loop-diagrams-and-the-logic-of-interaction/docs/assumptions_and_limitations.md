@@ -1,12 +1,5 @@
 # Assumptions and Limitations
 
-This scaffold uses synthetic data and simplified causal relationships. It is designed for demonstration and learning, not for operational decision-making.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
 
-Limitations:
-
-- The synthetic variables are illustrative.
-- Causal signs are simplified.
-- Delays are represented as discrete steps.
-- Stakeholder maps are examples, not empirical findings.
-- Loop detection examples are intentionally lightweight.
-- Ethical, historical, ecological, and institutional context must be added for real-world use.
+Results should be treated as scenario diagnostics, not predictions.

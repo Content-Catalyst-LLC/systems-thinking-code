@@ -1,0 +1,10 @@
+{
+  "article_slug": "causal-loop-diagrams-and-the-logic-of-interaction",
+  "article_title": "Causal Loop Diagrams and the Logic of Interaction",
+  "family": "modeling_methods",
+  "stock_label": "dynamic system stock",
+  "pressure_label": "model uncertainty and intervention pressure",
+  "burden_label": "assumption burden",
+  "outcome_label": "system performance",
+  "professional_note": "Synthetic assumptions are for reproducible demonstration. Replace with observed data and stakeholder evidence before real decisions."
+}

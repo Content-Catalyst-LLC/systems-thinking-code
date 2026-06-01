@@ -1,3 +1,5 @@
 # Assumptions and Limitations
 
-The models are intentionally simplified. They do not represent real policy systems. They demonstrate concepts such as delay, compensation, adaptation, and boundary effects. Real applications require validated data, domain expertise, legal and ethical review, and stakeholder engagement.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
+
+Results should be treated as scenario diagnostics, not predictions.

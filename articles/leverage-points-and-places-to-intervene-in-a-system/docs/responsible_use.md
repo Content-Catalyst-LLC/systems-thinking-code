@@ -1,3 +1,3 @@
 # Responsible Use
 
-Use this scaffold for education, research demonstration, and public-interest systems analysis. Do not use it for surveillance, eligibility screening, employee evaluation, individual scoring, or automated governance decisions. Real interventions require stakeholder participation, domain expertise, historical context, and ethical review.
+Use these scripts to support inquiry, not to replace judgment. Do not use synthetic outputs as observed fact or as a sole basis for decisions affecting people, services, or rights.

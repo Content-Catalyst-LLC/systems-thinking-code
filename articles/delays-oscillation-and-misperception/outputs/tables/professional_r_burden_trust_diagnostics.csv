@@ -1,0 +1,6 @@
+"scenario","average_burden","average_trust","average_outcome","average_risk","average_equity_gap","interpretation"
+"Capacity and feedback investment",10.7920967741935,53.5244838709677,40.3274838709677,60.5612903225806,18.6465806451613,"No high-burden/low-trust warning under synthetic assumptions"
+"Current structure / baseline",58.3993548387097,22.1434516129032,18.9548709677419,84.8757096774194,36.1840322580645,"High burden / low trust warning"
+"Delayed reform under rising pressure",24.3932580645161,33.4093548387097,27.1252580645161,74.8428387096774,28.4653548387097,"No high-burden/low-trust warning under synthetic assumptions"
+"Pressure-only intervention",77.292,18.0322258064516,15.1941290322581,87.9041612903226,40.6083225806452,"High burden / low trust warning"
+"Structural redesign and learning",5.53096774193548,67.8060322580645,51.5298064516129,48.8532580645161,10.9928387096774,"No high-burden/low-trust warning under synthetic assumptions"

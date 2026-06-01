@@ -1,4 +1,6 @@
-article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
-shifting-the-burden,Capacity-building intervention vs baseline,19.735,-9.735,10.771,30.17,Useful intervention: improves outcomes without increasing modeled risk.
-shifting-the-burden,Pressure-only intervention vs baseline,0.0,0.457,0.0,-5.977,Low or uncertain leverage: intervention does not clearly improve system behavior.
-shifting-the-burden,Structural redesign vs baseline,46.936,-30.677,50.831,53.543,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."
+article_slug,scenario,outcome_gain_vs_baseline,risk_reduction_vs_baseline,trust_gain_vs_baseline,memory_gain_vs_baseline,interpretation
+shifting-the-burden,Capacity and feedback investment,43.306,47.307,66.489,38.576,High leverage
+shifting-the-burden,Current structure / baseline,0.0,0.0,0.0,0.0,Low leverage
+shifting-the-burden,Delayed reform under rising pressure,22.17,25.082,28.514,11.692,High leverage
+shifting-the-burden,Pressure-only intervention,-3.981,0.0,0.0,-2.729,Low leverage
+shifting-the-burden,Structural redesign and learning,54.454,58.381,94.166,62.488,High leverage

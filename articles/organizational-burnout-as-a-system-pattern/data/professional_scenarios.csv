@@ -1,0 +1,6 @@
+name,policy_effort,capacity_investment,burden_reduction,feedback_closure,trust_repair,memory_investment,stock_regeneration_boost,pressure_reduction,equity_investment,delay_override
+Current structure / baseline,18,0.35,0.0,0.18,0.2,0.15,0.0,0.0,0.1,
+Pressure-only intervention,36,0.2,-0.04,0.14,-0.1,0.05,0.0,0.04,0.05,
+Capacity and feedback investment,30,1.45,0.26,0.56,0.8,1.1,0.008,0.2,0.65,1
+Structural redesign and learning,34,2.2,0.44,0.78,1.2,1.6,0.016,0.38,1.05,1
+Delayed reform under rising pressure,26,0.8,0.18,0.36,0.35,0.5,0.004,0.16,0.35,7

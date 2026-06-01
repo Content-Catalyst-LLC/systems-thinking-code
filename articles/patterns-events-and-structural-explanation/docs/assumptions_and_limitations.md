@@ -1,17 +1,5 @@
 # Assumptions and Limitations
 
-These examples use synthetic data and simplified structures.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
 
-They are intended for learning, methods demonstration, article support, and reproducible systems-thinking workflows. They are not empirical claims about a real institution, community, infrastructure network, or ecological system.
-
-Key limitations:
-
-- synthetic events
-- simplified causal relationships
-- assumed causal direction
-- limited parameter calibration
-- no direct stakeholder validation
-- no predictive claim
-- no claim of full system representation
-
-Structural explanation should be treated as an inquiry process that combines data, domain expertise, lived experience, institutional knowledge, and ethical judgment.
+Results should be treated as scenario diagnostics, not predictions.

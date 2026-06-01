@@ -1,3 +1,5 @@
 # Assumptions and Limitations
 
-These examples use synthetic data for demonstration. They are not forecasts. The scripts illustrate system-dynamics concepts such as overshoot, delayed limits, stock depletion, correction timing, and buffer resilience. Real-world use requires domain-specific validation, stakeholder review, uncertainty analysis, and careful attention to distributional harm.
+These workflows use synthetic data and normalized indices. They are designed for reproducible professional scaffolding, not direct empirical inference.
+
+Results should be treated as scenario diagnostics, not predictions.
