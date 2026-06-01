@@ -1,0 +1,5 @@
+period,platform_area,event_type,engagement_index,harmful_cascade_risk
+0,feed,recommendation,55,22
+1,video,watch_time,58,24
+2,marketplace,conversion,57,20
+3,moderation,appeal,52,27

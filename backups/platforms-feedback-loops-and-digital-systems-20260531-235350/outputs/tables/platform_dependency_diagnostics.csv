@@ -1,0 +1,5 @@
+scenario,average_platform_dependency,average_user_trust,final_platform_dependency,dependency_trust_gap,diagnostic
+Balanced governance,72.119,94.96,100.0,0.052,dependency and trust more balanced
+Engagement-maximizing platform,90.893,11.52,100.0,100.0,dependency exceeds trust
+Overloaded moderation,89.072,14.055,100.0,100.0,dependency exceeds trust
+Public-value platform design,43.682,97.647,47.029,-52.971,dependency and trust more balanced

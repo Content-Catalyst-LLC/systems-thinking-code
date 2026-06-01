@@ -1,0 +1,5 @@
+"scenario","engagement_index","creator_metric_pressure","harmful_cascade_risk","moderation_backlog","platform_dependency","governance_readiness","user_trust","public_value_index","platform_risk_index"
+"Balanced governance",100,63.895,30.4,10.418,100,53.44,99.948,59.752,17.958
+"Engagement-maximizing platform",100,100,100,100,100,12.2,0,9.596,75.036
+"Overloaded moderation",100,100,100,100,100,17,0,12.14,73.969
+"Public-value platform design",78.151,10.532,0,0,47.029,67,100,77.346,0

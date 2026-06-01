@@ -1,0 +1,21 @@
+title: "Platforms, Feedback Loops, and Digital Systems"
+slug: "platforms-feedback-loops-and-digital-systems"
+series: "Systems Thinking"
+repository: "Content-Catalyst-LLC/systems-thinking-code"
+article_folder: "articles/platforms-feedback-loops-and-digital-systems"
+summary: "Synthetic-data workflows for analyzing digital platforms as feedback systems shaped by engagement, amplification, moderation capacity, dependency, trust, public value, and governance."
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+outputs:
+  - outputs/tables/platform_feedback_timeseries.csv
+  - outputs/tables/platform_feedback_summary.csv
+  - outputs/figures/platform_risk_trajectories.png
+responsible_use: "Research, education, platform-governance learning, and reproducible systems analysis only."

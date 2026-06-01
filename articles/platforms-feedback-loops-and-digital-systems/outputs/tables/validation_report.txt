@@ -1,0 +1,2 @@
+Validation passed.
+Checked bounded platform indicators, scenario structure, and output table integrity.

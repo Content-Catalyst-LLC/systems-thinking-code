@@ -1,0 +1,5 @@
+scenario,average_governance_readiness,average_public_value_index,average_platform_risk_index,public_value_margin,diagnostic
+Balanced governance,53.44,63.36,7.994,108.806,public-value capacity exceeds modeled risk
+Engagement-maximizing platform,12.2,15.979,62.833,-34.655,public-value governance needs strengthening
+Overloaded moderation,17.0,20.769,57.727,-19.958,public-value governance needs strengthening
+Public-value platform design,67.0,75.8,0.083,142.717,public-value capacity exceeds modeled risk

@@ -1,0 +1,5 @@
+scenario,engagement_gain,creator_pressure_gain,average_engagement_index,average_creator_metric_pressure,interpretation
+Balanced governance,45.9,28.905,87.039,46.155,amplification pressure dominates
+Engagement-maximizing platform,32.784,61.913,96.857,86.833,amplification pressure dominates
+Overloaded moderation,37.908,63.142,94.886,80.016,amplification pressure dominates
+Public-value platform design,29.139,-23.519,66.114,20.85,managed amplification dynamics

@@ -1,0 +1,5 @@
+scenario,peak_moderation_backlog,peak_harmful_cascade_risk,average_governance_readiness,moderation_stress_ratio,diagnostic
+Balanced governance,17.373,30.4,53.44,0.325,moderation capacity comparatively stable
+Engagement-maximizing platform,100.0,100.0,12.2,8.197,moderation capacity overloaded
+Overloaded moderation,100.0,100.0,17.0,5.882,moderation capacity overloaded
+Public-value platform design,16.626,19.544,67.0,0.248,moderation capacity comparatively stable

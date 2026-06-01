@@ -1,0 +1,5 @@
+scenario,transparency_strength,appeal_quality,portability_strength,friction_strength,public_value_weight
+Engagement-maximizing platform,0.10,0.14,0.08,0.08,0.10
+Overloaded moderation,0.18,0.24,0.14,0.18,0.22
+Balanced governance,0.62,0.58,0.48,0.54,0.58
+Public-value platform design,0.78,0.74,0.70,0.70,0.82
