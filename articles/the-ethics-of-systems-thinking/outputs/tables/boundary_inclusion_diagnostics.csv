@@ -1,0 +1,6 @@
+case_id,domain,consequences_experienced,consequences_counted,boundary_inclusion_ratio,boundary_harm_gap,excluded_consequence,boundary_question,diagnostic
+b001,urban_redevelopment,9.0,4.0,0.444,5.0,displacement pressure and right to remain,who is outside the benefit calculation but inside the harm,major boundary ethics gap
+b002,ai_governance,8.0,3.0,0.375,5.0,appeal rights and surveillance effects,who can contest model-driven decisions,major boundary ethics gap
+b003,climate_adaptation,10.0,6.0,0.6,4.0,tenant heat burden and outdoor worker risk,whose exposure is missing from adaptation plans,boundary review recommended
+b004,supply_chain,9.0,5.0,0.556,4.0,worker injury ecological damage and informal labor,what is externalized beyond cost and delivery time,boundary review recommended
+b005,public_health,8.0,4.0,0.5,4.0,housing labor transport and trust conditions,what social determinants are treated as outside health,major boundary ethics gap

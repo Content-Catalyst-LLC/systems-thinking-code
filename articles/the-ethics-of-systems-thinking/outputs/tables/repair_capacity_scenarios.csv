@@ -1,0 +1,6 @@
+repair_id,repair_type,repair_quality_score,affected_voice_required,structural_change_required,diagnostic,notes
+r001,public_acknowledgment,31.5,0.5,0.2,partial repair,necessary but not sufficient
+r002,compensation_or_restoration,60.5,0.7,0.52,partial repair,direct repair of harm and loss
+r003,rule_change,74.3,0.64,0.82,partial repair,changes the conditions reproducing harm
+r004,community_governance,82.4,0.86,0.78,transformative repair,redistributes decision power
+r005,ecological_restoration,73.6,0.66,0.74,partial repair,repairs living systems and future risk

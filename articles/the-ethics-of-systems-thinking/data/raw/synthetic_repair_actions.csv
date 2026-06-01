@@ -1,0 +1,6 @@
+repair_id,repair_type,repair_depth,affected_voice_required,structural_change_required,notes
+r001,public_acknowledgment,0.30,0.50,0.20,necessary but not sufficient
+r002,compensation_or_restoration,0.62,0.70,0.52,direct repair of harm and loss
+r003,rule_change,0.74,0.64,0.82,changes the conditions reproducing harm
+r004,community_governance,0.84,0.86,0.78,redistributes decision power
+r005,ecological_restoration,0.78,0.66,0.74,repairs living systems and future risk

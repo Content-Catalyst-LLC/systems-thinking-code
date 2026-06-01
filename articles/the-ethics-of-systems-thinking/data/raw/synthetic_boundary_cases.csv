@@ -1,0 +1,6 @@
+case_id,domain,consequences_experienced,consequences_counted,excluded_consequence,boundary_question
+b001,urban_redevelopment,9,4,displacement pressure and right to remain,who is outside the benefit calculation but inside the harm
+b002,ai_governance,8,3,appeal rights and surveillance effects,who can contest model-driven decisions
+b003,climate_adaptation,10,6,tenant heat burden and outdoor worker risk,whose exposure is missing from adaptation plans
+b004,supply_chain,9,5,worker injury ecological damage and informal labor,what is externalized beyond cost and delivery time
+b005,public_health,8,4,housing labor transport and trust conditions,what social determinants are treated as outside health

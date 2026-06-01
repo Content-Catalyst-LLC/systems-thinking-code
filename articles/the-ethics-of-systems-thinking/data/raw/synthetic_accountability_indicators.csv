@@ -1,0 +1,6 @@
+indicator_id,indicator_name,baseline_score,target_score,notes
+a001,affected_voice,32,78,ability of affected people to shape system decisions
+a002,transparency,40,80,clarity of goals data assumptions and consequences
+a003,contestability,28,76,ability to challenge decisions errors and harm
+a004,remedy_capacity,24,82,capacity to repair harm after it appears
+a005,oversight_quality,36,80,quality of independent review and public accountability

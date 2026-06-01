@@ -1,0 +1,6 @@
+risk_id,risk_type,severity,likelihood,risk_score,risk_class,mitigation
+mr001,boundary_error,0.78,0.7,54.6,moderate model risk,affected boundary review and externality mapping
+mr002,data_bias,0.72,0.66,47.52,moderate model risk,data provenance review and historical-context audit
+mr003,misuse_risk,0.82,0.58,47.56,moderate model risk,scope limits governance review and contestability
+mr004,false_precision,0.64,0.62,39.68,moderate model risk,uncertainty intervals sensitivity testing and plain-language limits
+mr005,participation_gap,0.86,0.74,63.64,high model risk,affected voice and co-governance before deployment

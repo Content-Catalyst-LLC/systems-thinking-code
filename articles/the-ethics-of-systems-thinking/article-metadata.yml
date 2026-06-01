@@ -1,0 +1,30 @@
+title: "The Ethics of Systems Thinking"
+slug: "the-ethics-of-systems-thinking"
+series: "Systems Thinking"
+repository_path: "articles/the-ethics-of-systems-thinking"
+default_python_workflow: "python/run_all_ethical_systems_workflows.py"
+default_r_workflow: "r/run_all_ethical_systems_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_ethics_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - systems ethics
+  - boundary critique
+  - accountability
+  - affected voice
+  - harm exposure
+  - repair capacity
+  - ecological responsibility
+  - model humility
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational ethics certification, HR, legal, AI governance, or public policy tool."

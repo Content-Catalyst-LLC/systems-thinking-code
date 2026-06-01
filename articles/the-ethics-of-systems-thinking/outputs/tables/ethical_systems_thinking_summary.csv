@@ -1,0 +1,5 @@
+"scenario","average_cumulative_harm","average_accountability_index","average_ethical_system_score","average_model_risk","final_ethical_system_score","final_cumulative_harm","final_accountability_index","final_boundary_ethics_score","final_repair_stock","final_model_risk","diagnostic"
+"Accountable redesign",1.62816326530612,69.5202040816326,69.3847551020408,52.4,73.926,0,70.32,68.08,100,52.4,"ethically accountable systems pathway"
+"Consultative weak accountability",69.1593265306122,45.985,31.4390612244898,74.32,35.384,100,47.32,45.32,100,74.32,"high ethical risk requiring boundary and accountability redesign"
+"Narrow optimization",91.7834081632653,25.5617551020408,0.108102040816327,96.64,0,100,29.08,22.16,43.767,96.64,"high ethical risk requiring boundary and accountability redesign"
+"Repair-centered transformation",0.521714285714286,81.3894285714286,81.2894489795918,40.16,84.21,0,82.08,82.12,100,40.16,"ethically accountable systems pathway"

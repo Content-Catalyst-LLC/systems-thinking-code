@@ -1,0 +1,6 @@
+indicator_id,indicator_name,baseline_score,target_score,accountability_gap,priority_class,notes
+a001,affected_voice,32.0,78.0,46.0,high priority,ability of affected people to shape system decisions
+a002,transparency,40.0,80.0,40.0,high priority,clarity of goals data assumptions and consequences
+a003,contestability,28.0,76.0,48.0,high priority,ability to challenge decisions errors and harm
+a004,remedy_capacity,24.0,82.0,58.0,high priority,capacity to repair harm after it appears
+a005,oversight_quality,36.0,80.0,44.0,high priority,quality of independent review and public accountability

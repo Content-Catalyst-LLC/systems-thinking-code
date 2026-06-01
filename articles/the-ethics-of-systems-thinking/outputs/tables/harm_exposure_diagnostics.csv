@@ -1,0 +1,6 @@
+group_id,group_name,exposure_score,protection_score,harm_exposure_gap,cumulative_burden,diagnostic,notes
+h001,frontline_community,86.0,34.0,52.0,78.0,urgent harm-reduction priority,high exposure to pollution heat flooding or infrastructure neglect
+h002,protected_group,42.0,72.0,-30.0,30.0,monitor and redesign,lower exposure and greater institutional protection
+h003,workers_with_low_voice,78.0,38.0,40.0,64.0,urgent harm-reduction priority,high workload surveillance and low contestability
+h004,future_generations,82.0,10.0,72.0,70.0,urgent harm-reduction priority,high delayed burden with no direct current voice
+h005,more_than_human_ecosystems,88.0,18.0,70.0,76.0,urgent harm-reduction priority,ecological harm not fully counted in economic model

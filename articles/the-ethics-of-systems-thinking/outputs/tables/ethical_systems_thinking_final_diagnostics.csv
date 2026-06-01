@@ -1,0 +1,5 @@
+"scenario","boundary_ethics_score","accountability_index","harm_pressure","cumulative_harm","repair_flow","repair_stock","accountability_memory","trust_stock","ethical_leverage","model_risk","ethical_system_score"
+"Accountable redesign",68.08,70.32,1.58,0,10.034,100,100,100,72.13,52.4,73.926
+"Consultative weak accountability",45.32,47.32,12.291,100,4.32,100,100,100,39.536,74.32,35.384
+"Narrow optimization",22.16,29.08,24.418,100,1.376,43.767,100,0,14.012,96.64,0
+"Repair-centered transformation",82.12,82.08,0,0,12.754,100,100,100,85.252,40.16,84.21
