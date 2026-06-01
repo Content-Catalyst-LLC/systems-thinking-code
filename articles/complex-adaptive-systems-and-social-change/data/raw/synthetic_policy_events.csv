@@ -1,0 +1,6 @@
+event_id,period,event_type,institutional_openness,public_visibility,backlash_pressure,notes
+p001,4,public_hearing,0.42,0.48,0.28,early consultative process
+p002,10,media_attention,0.38,0.76,0.44,triggering event raises visibility
+p003,18,pilot_program,0.56,0.58,0.36,limited institutional response
+p004,30,policy_window,0.70,0.64,0.42,opportunity for broader reform
+p005,40,implementation_review,0.68,0.52,0.34,feedback and revision cycle

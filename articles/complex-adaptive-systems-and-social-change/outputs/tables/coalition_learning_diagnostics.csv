@@ -1,0 +1,6 @@
+cycle_id,period,learning_cycle_score,cumulative_learning_signal,adaptation_action
+l001,6,49.84,49.84,revise communication strategy
+l002,14,62.66,112.5,expand trusted messenger network
+l003,24,70.12,182.62,align policy design with local knowledge
+l004,36,76.44,259.06,build implementation accountability loop
+l005,46,81.7,340.76,formalize governance learning process

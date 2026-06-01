@@ -1,0 +1,197 @@
+period,scenario,adoption_index,trust_index,resistance_index,institutional_response_index,movement_capacity_index,learning_capacity_index,legitimacy_index,transformation_momentum
+0,Fragmented baseline,15.693,42.583,20.346,8.778,14.867,13.479,26.915,17.359
+1,Fragmented baseline,17.494,43.199,19.802,9.216,16.296,14.37,27.272,18.495
+2,Fragmented baseline,19.406,43.848,19.272,9.715,17.79,15.277,27.649,19.688
+3,Fragmented baseline,21.431,44.531,18.756,10.277,19.354,16.198,28.047,20.94
+4,Fragmented baseline,23.573,45.252,18.255,10.906,20.989,17.136,28.465,22.251
+5,Fragmented baseline,25.835,46.01,17.772,11.603,22.7,18.091,28.906,23.625
+6,Fragmented baseline,28.219,46.807,17.307,12.372,24.489,19.064,29.369,25.062
+7,Fragmented baseline,30.728,47.645,16.864,13.214,26.362,20.058,29.855,26.565
+8,Fragmented baseline,33.362,48.526,16.442,14.132,28.32,21.072,30.366,28.135
+9,Fragmented baseline,36.125,49.45,16.044,15.129,30.369,22.108,30.901,29.774
+10,Fragmented baseline,39.017,50.42,15.672,16.209,32.511,23.167,31.461,31.482
+11,Fragmented baseline,42.04,51.437,15.326,17.373,34.75,24.25,32.048,33.263
+12,Fragmented baseline,45.194,52.502,15.01,18.624,37.091,25.359,32.662,35.116
+13,Fragmented baseline,48.479,53.618,14.724,19.967,39.537,26.495,33.303,37.043
+14,Fragmented baseline,51.895,54.785,14.469,21.403,42.092,27.66,33.973,39.046
+15,Fragmented baseline,55.442,56.007,14.249,22.936,44.76,28.854,34.673,41.125
+16,Fragmented baseline,59.117,57.284,14.063,24.57,47.545,30.08,35.404,43.282
+17,Fragmented baseline,62.92,58.618,13.914,26.307,50.451,31.338,36.166,45.517
+18,Fragmented baseline,66.847,60.011,13.803,28.15,53.481,32.631,36.96,47.831
+19,Fragmented baseline,70.897,61.466,13.732,30.104,56.639,33.959,37.788,50.225
+20,Fragmented baseline,75.066,62.983,13.701,32.172,59.929,35.326,38.65,52.699
+21,Fragmented baseline,79.35,64.566,13.712,34.356,63.355,36.731,39.548,55.254
+22,Fragmented baseline,83.745,66.216,13.766,36.661,66.921,38.177,40.483,57.89
+23,Fragmented baseline,88.246,67.936,13.865,39.09,70.629,39.666,41.456,60.607
+24,Fragmented baseline,92.849,69.727,14.008,41.647,74.483,41.2,42.468,63.406
+25,Fragmented baseline,97.546,71.592,14.197,44.335,78.488,42.78,43.52,66.286
+26,Fragmented baseline,100.0,73.534,14.433,47.158,82.645,44.408,44.614,68.595
+27,Fragmented baseline,100.0,75.555,14.679,50.101,86.901,46.087,45.754,70.273
+28,Fragmented baseline,100.0,77.66,14.894,53.145,91.195,47.819,46.943,72.006
+29,Fragmented baseline,100.0,79.853,15.078,56.294,95.531,49.605,48.184,73.796
+30,Fragmented baseline,100.0,82.138,15.23,59.547,99.911,51.449,49.478,75.645
+31,Fragmented baseline,100.0,84.52,15.349,62.908,100.0,53.352,50.828,77.035
+32,Fragmented baseline,100.0,87.0,15.434,66.27,100.0,55.314,52.214,78.449
+33,Fragmented baseline,100.0,89.579,15.483,69.63,100.0,57.337,53.636,79.898
+34,Fragmented baseline,100.0,92.259,15.496,72.99,100.0,59.42,55.097,81.383
+35,Fragmented baseline,100.0,95.04,15.471,76.351,100.0,61.563,56.595,82.904
+36,Fragmented baseline,100.0,97.924,15.408,79.712,100.0,63.768,58.133,84.462
+37,Fragmented baseline,100.0,100.0,15.305,83.076,100.0,66.034,59.418,85.894
+38,Fragmented baseline,100.0,100.0,15.162,86.443,100.0,68.363,60.046,86.971
+39,Fragmented baseline,100.0,100.0,14.976,89.814,100.0,70.754,60.68,88.069
+40,Fragmented baseline,100.0,100.0,14.747,93.189,100.0,73.208,61.322,89.186
+41,Fragmented baseline,100.0,100.0,14.475,96.569,100.0,75.725,61.971,90.325
+42,Fragmented baseline,100.0,100.0,14.157,99.956,100.0,78.307,62.629,91.486
+43,Fragmented baseline,100.0,100.0,13.792,100.0,100.0,80.893,62.691,91.989
+44,Fragmented baseline,100.0,100.0,13.381,100.0,100.0,83.483,62.753,92.493
+45,Fragmented baseline,100.0,100.0,12.923,100.0,100.0,86.078,62.822,93.009
+46,Fragmented baseline,100.0,100.0,12.419,100.0,100.0,88.678,62.897,93.536
+47,Fragmented baseline,100.0,100.0,11.868,100.0,100.0,91.283,62.98,94.074
+48,Fragmented baseline,100.0,100.0,11.269,100.0,100.0,93.894,63.07,94.624
+0,High backlash environment,20.108,37.905,43.169,10.65,20.134,16.12,23.251,14.401
+1,High backlash environment,22.293,37.804,43.493,10.847,21.414,16.94,23.206,15.248
+2,High backlash environment,24.553,37.697,43.873,11.091,22.741,17.761,23.158,16.117
+3,High backlash environment,26.888,37.583,44.312,11.383,24.116,18.583,23.109,17.009
+4,High backlash environment,29.295,37.463,44.814,11.724,25.54,19.406,23.056,17.921
+5,High backlash environment,31.77,37.334,45.379,12.114,27.014,20.23,23.001,18.854
+6,High backlash environment,34.31,37.196,46.01,12.555,28.538,21.056,22.941,19.804
+7,High backlash environment,36.913,37.049,46.71,13.046,30.112,21.884,22.877,20.772
+8,High backlash environment,39.573,36.891,47.481,13.589,31.738,22.714,22.809,21.756
+9,High backlash environment,42.287,36.721,48.323,14.184,33.415,23.546,22.735,22.753
+10,High backlash environment,45.049,36.538,49.239,14.83,35.144,24.38,22.656,23.762
+11,High backlash environment,47.854,36.342,50.231,15.529,36.924,25.217,22.57,24.781
+12,High backlash environment,50.696,36.131,51.3,16.281,38.755,26.057,22.477,25.808
+13,High backlash environment,53.57,35.904,52.447,17.085,40.636,26.901,22.378,26.842
+14,High backlash environment,56.469,35.66,53.672,17.942,42.567,27.747,22.27,27.878
+15,High backlash environment,59.387,35.397,54.978,18.852,44.547,28.596,22.154,28.916
+16,High backlash environment,62.317,35.115,56.363,19.814,46.575,29.449,22.029,29.953
+17,High backlash environment,65.253,34.811,57.83,20.828,48.649,30.306,21.894,30.987
+18,High backlash environment,68.188,34.486,59.377,21.894,50.769,31.166,21.75,32.015
+19,High backlash environment,71.114,34.137,61.004,23.011,52.933,32.03,21.595,33.035
+20,High backlash environment,74.026,33.764,62.712,24.178,55.138,32.899,21.43,34.044
+21,High backlash environment,76.917,33.364,64.5,25.396,57.383,33.771,21.253,35.041
+22,High backlash environment,79.78,32.937,66.367,26.663,59.665,34.647,21.064,36.022
+23,High backlash environment,82.608,32.482,68.312,27.978,61.983,35.527,20.863,36.986
+24,High backlash environment,85.397,31.996,70.333,29.34,64.333,36.412,20.65,37.931
+25,High backlash environment,88.14,31.48,72.43,30.749,66.714,37.301,20.424,38.854
+26,High backlash environment,90.832,30.931,74.601,32.202,69.122,38.195,20.184,39.754
+27,High backlash environment,93.467,30.348,76.844,33.699,71.553,39.093,19.93,40.629
+28,High backlash environment,96.042,29.731,79.158,35.238,74.007,39.996,19.663,41.476
+29,High backlash environment,98.551,29.077,81.539,36.818,76.478,40.903,19.381,42.295
+30,High backlash environment,100.0,28.387,83.986,38.437,78.963,41.815,19.085,42.806
+31,High backlash environment,100.0,27.659,86.464,40.084,81.436,42.732,18.776,42.903
+32,High backlash environment,100.0,26.895,88.926,41.743,83.859,43.654,18.461,42.994
+33,High backlash environment,100.0,26.095,91.371,43.414,86.232,44.582,18.139,43.079
+34,High backlash environment,100.0,25.261,93.799,45.096,88.554,45.516,17.811,43.159
+35,High backlash environment,100.0,24.394,96.211,46.788,90.825,46.456,17.476,43.234
+36,High backlash environment,100.0,23.493,98.606,48.488,93.044,47.402,17.135,43.303
+37,High backlash environment,100.0,22.595,100.0,50.216,95.226,48.366,16.949,43.596
+38,High backlash environment,100.0,21.751,100.0,51.999,97.391,49.362,17.0,44.22
+39,High backlash environment,100.0,20.963,100.0,53.836,99.54,50.391,17.078,44.868
+40,High backlash environment,100.0,20.23,100.0,55.726,100.0,51.454,17.184,45.339
+41,High backlash environment,100.0,19.555,100.0,57.628,100.0,52.552,17.311,45.774
+42,High backlash environment,100.0,18.937,100.0,59.53,100.0,53.683,17.455,46.224
+43,High backlash environment,100.0,18.376,100.0,61.432,100.0,54.849,17.618,46.69
+44,High backlash environment,100.0,17.872,100.0,63.334,100.0,56.049,17.799,47.172
+45,High backlash environment,100.0,17.425,100.0,65.236,100.0,57.283,17.999,47.669
+46,High backlash environment,100.0,17.035,100.0,67.138,100.0,58.552,18.216,48.182
+47,High backlash environment,100.0,16.702,100.0,69.04,100.0,59.854,18.452,48.711
+48,High backlash environment,100.0,16.427,100.0,70.942,100.0,61.191,18.706,49.256
+0,Coalition learning strategy,21.483,55.967,21.657,19.495,28.236,33.846,48.97,31.948
+1,Coalition learning strategy,25.254,58.027,20.233,20.935,30.521,36.233,50.102,34.631
+2,Coalition learning strategy,29.315,60.184,18.832,22.529,32.962,38.662,51.289,37.465
+3,Coalition learning strategy,33.666,62.441,17.46,24.286,35.569,41.137,52.534,40.452
+4,Coalition learning strategy,38.306,64.803,16.119,26.213,38.351,43.659,53.837,43.594
+5,Coalition learning strategy,43.228,67.274,14.815,28.321,41.317,46.233,55.203,46.893
+6,Coalition learning strategy,48.423,69.858,13.552,30.617,44.475,48.86,56.633,50.35
+7,Coalition learning strategy,53.879,72.56,12.333,33.112,47.834,51.545,58.129,53.964
+8,Coalition learning strategy,59.58,75.384,11.162,35.813,51.403,54.29,59.695,57.733
+9,Coalition learning strategy,65.505,78.334,10.042,38.73,55.188,57.099,61.332,61.657
+10,Coalition learning strategy,71.632,81.416,8.976,41.87,59.198,59.975,63.043,65.731
+11,Coalition learning strategy,77.935,84.635,7.966,45.242,63.44,62.921,64.832,69.952
+12,Coalition learning strategy,84.385,87.995,7.014,48.855,67.92,65.943,66.7,74.316
+13,Coalition learning strategy,90.954,91.502,6.122,52.714,72.644,69.042,68.651,78.818
+14,Coalition learning strategy,97.61,95.162,5.29,56.828,77.617,72.224,70.687,83.451
+15,Coalition learning strategy,100.0,98.98,4.518,61.202,82.844,75.493,72.812,87.003
+16,Coalition learning strategy,100.0,100.0,3.73,65.767,88.162,78.851,74.079,89.448
+17,Coalition learning strategy,100.0,100.0,2.881,70.481,93.491,82.303,75.055,91.77
+18,Coalition learning strategy,100.0,100.0,1.969,75.347,98.834,85.852,76.067,94.152
+19,Coalition learning strategy,100.0,100.0,0.994,80.366,100.0,89.5,77.117,96.095
+20,Coalition learning strategy,100.0,100.0,0.0,85.434,100.0,93.25,78.178,97.927
+21,Coalition learning strategy,100.0,100.0,0.0,90.502,100.0,97.091,79.09,99.555
+22,Coalition learning strategy,100.0,100.0,0.0,95.57,100.0,100.0,80.003,100.0
+23,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+24,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+25,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+26,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+27,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+28,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+29,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+30,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+31,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+32,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+33,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+34,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+35,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+36,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+37,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+38,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+39,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+40,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+41,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+42,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+43,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+44,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+45,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+46,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+47,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+48,Coalition learning strategy,100.0,100.0,0.0,100.0,100.0,100.0,80.8,100.0
+0,Accountable transformation pathway,24.108,64.844,16.697,25.609,33.183,39.818,61.055,40.303
+1,Accountable transformation pathway,28.589,67.818,14.701,27.62,35.956,42.792,62.668,43.744
+2,Accountable transformation pathway,33.444,70.928,12.715,29.847,38.932,45.826,64.362,47.388
+3,Accountable transformation pathway,38.669,74.181,10.743,32.304,42.121,48.924,66.141,51.24
+4,Accountable transformation pathway,44.258,77.584,8.791,35.003,45.536,52.09,68.009,55.303
+5,Accountable transformation pathway,50.196,81.143,6.861,37.96,49.19,55.329,69.969,59.579
+6,Accountable transformation pathway,56.464,84.865,4.958,41.187,53.092,58.645,72.027,64.067
+7,Accountable transformation pathway,63.037,88.758,3.085,44.699,57.256,62.043,74.186,68.765
+8,Accountable transformation pathway,69.884,92.829,1.244,48.507,61.691,65.527,76.45,73.672
+9,Accountable transformation pathway,76.952,97.068,0.0,52.615,66.399,69.098,78.732,78.645
+10,Accountable transformation pathway,84.163,100.0,0.0,57.008,71.343,72.749,80.462,83.248
+11,Accountable transformation pathway,91.449,100.0,0.0,61.697,76.467,76.483,81.305,87.438
+12,Accountable transformation pathway,98.709,100.0,0.0,66.687,81.774,80.307,82.204,91.718
+13,Accountable transformation pathway,100.0,100.0,0.0,71.983,87.261,84.227,83.157,94.424
+14,Accountable transformation pathway,100.0,100.0,0.0,77.446,92.781,88.245,84.14,96.822
+15,Accountable transformation pathway,100.0,100.0,0.0,83.048,98.301,92.364,85.149,99.264
+16,Accountable transformation pathway,100.0,100.0,0.0,88.787,100.0,96.586,86.182,100.0
+17,Accountable transformation pathway,100.0,100.0,0.0,94.569,100.0,100.0,87.222,100.0
+18,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+19,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+20,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+21,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+22,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+23,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+24,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+25,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+26,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+27,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+28,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+29,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+30,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+31,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+32,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+33,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+34,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+35,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+36,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+37,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+38,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+39,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+40,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+41,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+42,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+43,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+44,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+45,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+46,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+47,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0
+48,Accountable transformation pathway,100.0,100.0,0.0,100.0,100.0,100.0,88.2,100.0

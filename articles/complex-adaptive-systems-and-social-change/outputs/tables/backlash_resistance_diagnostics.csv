@@ -1,0 +1,5 @@
+event_id,period,resistance_type,intensity,cumulative_resistance_pressure,diagnostic
+r001,8,narrative_backlash,0.42,0.42,moderate counter-adaptation signal
+r002,15,procedural_delay,0.55,0.97,high counter-adaptation signal
+r003,22,resource_blockage,0.48,1.45,moderate counter-adaptation signal
+r004,33,cooptation,0.38,1.83,moderate counter-adaptation signal

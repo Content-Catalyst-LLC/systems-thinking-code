@@ -1,0 +1,11 @@
+agent_id,group,baseline_trust,threshold,network_reach,resource_access,vulnerability,initial_adoption
+a001,community_anchor,0.72,0.28,0.78,0.56,0.38,1
+a002,local_resident,0.46,0.52,0.34,0.32,0.72,0
+a003,public_agency,0.55,0.46,0.62,0.74,0.28,0
+a004,movement_org,0.68,0.34,0.70,0.48,0.42,1
+a005,small_business,0.50,0.48,0.46,0.58,0.44,0
+a006,school_network,0.60,0.42,0.52,0.50,0.58,0
+a007,health_provider,0.64,0.38,0.58,0.62,0.50,0
+a008,media_node,0.44,0.50,0.82,0.68,0.36,0
+a009,opposition_group,0.36,0.30,0.66,0.70,0.30,0
+a010,mutual_aid_network,0.76,0.26,0.64,0.42,0.66,1

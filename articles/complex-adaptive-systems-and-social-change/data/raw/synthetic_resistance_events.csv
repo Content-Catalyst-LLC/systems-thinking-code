@@ -1,0 +1,5 @@
+event_id,period,resistance_type,intensity,target,notes
+r001,8,narrative_backlash,0.42,public_opinion,opposition frames reform as threat
+r002,15,procedural_delay,0.55,public_agency,implementation slows through process
+r003,22,resource_blockage,0.48,budget,coalition faces funding constraint
+r004,33,cooptation,0.38,institutional_language,symbolic adoption without structural change

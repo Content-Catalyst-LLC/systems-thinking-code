@@ -1,0 +1,30 @@
+title: "Complex Adaptive Systems and Social Change"
+slug: "complex-adaptive-systems-and-social-change"
+series: "Systems Thinking"
+repository_path: "articles/complex-adaptive-systems-and-social-change"
+default_python_workflow: "python/run_all_complex_adaptive_social_change_workflows.py"
+default_r_workflow: "r/run_all_complex_adaptive_social_change_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_social_change_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - complex adaptive systems
+  - social change
+  - network diffusion
+  - threshold dynamics
+  - collective action
+  - institutional learning
+  - governance
+  - justice
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational social prediction tool."
