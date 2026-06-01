@@ -1,0 +1,2 @@
+Validation passed.
+Bounded indicators, infrastructure risk scores, cyber-physical dependency, and resilience outputs completed.

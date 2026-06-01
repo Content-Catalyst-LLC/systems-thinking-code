@@ -1,0 +1,5 @@
+"scenario","final_average_risk_score","final_average_resilience_score","maximum_cyber_physical_dependency","high_risk_asset_count","low_resilience_asset_count","diagnostic"
+"Accountable resilient infrastructure",25.3494,60.4475,37.66,0,0,"comparatively resilient intelligent infrastructure pathway"
+"Predictive maintenance strategy",27.9482,48.7648,49.94,0,2,"comparatively resilient intelligent infrastructure pathway"
+"Reactive maintenance baseline",40.0552,24.0172,50.38,0,10,"high infrastructure fragility"
+"Sensor-rich but underfunded",35.7731,25.9275,66.48,0,10,"high infrastructure fragility"
