@@ -1,0 +1,4 @@
+output,folder,description
+sustainability_stock_flow_results.csv,outputs/tables,Stock trajectory by scenario
+scenario_comparison_summary.csv,outputs/tables,Scenario-level sustainability summary
+distributional_justice_summary.csv,outputs/tables,"Benefits, harms, and transition costs by group"

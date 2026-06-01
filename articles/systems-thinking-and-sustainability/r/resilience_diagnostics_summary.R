@@ -1,0 +1,8 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = FALSE)
+resilience <- read.csv(file.path(root, "data", "synthetic_resilience_indicators.csv"))
+outputs <- file.path(root, "outputs", "tables")
+dir.create(outputs, recursive = TRUE, showWarnings = FALSE)
+metric_cols <- c("diversity", "redundancy", "learning", "trust", "equity", "adaptive_capacity")
+resilience$resilience_score <- rowMeans(resilience[, metric_cols])
+resilience$warning <- ifelse(resilience$resilience_score < 0.48, "high", ifelse(resilience$resilience_score < 0.56, "moderate", "watch"))
+write.csv(resilience, file.path(outputs, "resilience_diagnostics_summary.csv"), row.names = FALSE)

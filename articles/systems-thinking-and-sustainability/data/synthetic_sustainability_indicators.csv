@@ -1,0 +1,6 @@
+indicator,domain,baseline,current,target,direction
+carbon_intensity,climate,100,82,35,decrease
+renewable_share,energy,18,33,75,increase
+soil_organic_matter,food,3.1,2.8,4.0,increase
+public_trust,governance,62,57,75,increase
+energy_burden,equity,8.5,9.2,5.0,decrease

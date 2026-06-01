@@ -1,0 +1,5 @@
+run_id,scenario,final_stock,overshoot_years,equity_score
+1,baseline,71.5,9,0.38
+2,efficiency_only,78.4,6,0.43
+3,regenerative_transition,112.7,0,0.66
+4,delayed_action,74.9,7,0.41

@@ -1,0 +1,10 @@
+title: "Systems Thinking and Sustainability"
+slug: "systems-thinking-and-sustainability"
+series: "Systems Thinking"
+article_type: "deep-dive"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/systems-thinking-and-sustainability/"
+wordpress_url: "https://sustainablecatalyst.com/systems-thinking-and-sustainability/"
+primary_workflows:
+  - "Python Workflow: Sustainability Feedback, Stock-Flow, and Scenario Modeling"
+  - "R Workflow: Indicator Visualization, Sensitivity Tables, and Sustainability Diagnostics"
+responsible_use: "Synthetic-data educational scaffold for sustainability systems analysis, not an operational decision tool."
