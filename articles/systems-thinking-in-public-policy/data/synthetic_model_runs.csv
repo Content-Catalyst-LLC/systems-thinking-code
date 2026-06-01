@@ -1,0 +1,5 @@
+run_id,scenario,final_outcome,final_trust,final_capacity,diagnostic
+1,Baseline administration,61.4,47.2,45.8,fragile
+2,Enforcement-heavy design,64.1,35.6,43.4,legitimacy risk
+3,Burden-reduction design,74.8,62.5,58.1,improving
+4,Capacity-building redesign,86.9,78.4,79.3,strong public-value trajectory

@@ -1,0 +1,4 @@
+output,folder,description
+public_policy_scenario_results.csv,outputs/tables,Behavior-over-time policy scenario results
+public_policy_scenario_summary.csv,outputs/tables,Scenario-level public policy summary
+burden_feedback_policy_diagnostics.csv,outputs/tables,"Burden, feedback, distribution, outcome, and trust diagnostics"

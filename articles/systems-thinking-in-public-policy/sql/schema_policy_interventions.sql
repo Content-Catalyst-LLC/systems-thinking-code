@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS policy_interventions (intervention_id TEXT PRIMARY KEY, intervention TEXT, domain TEXT, policy_effort REAL, burden_level REAL, capacity_investment REAL, feedback_closure REAL);

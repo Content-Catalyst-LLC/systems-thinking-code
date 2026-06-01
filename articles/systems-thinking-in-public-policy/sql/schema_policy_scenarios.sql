@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS policy_scenarios (scenario TEXT PRIMARY KEY, initial_outcome REAL, initial_trust REAL, initial_capacity REAL, policy_effort REAL, burden_level REAL, capacity_investment REAL, feedback_closure REAL, enforcement_intensity REAL, distribution_gap REAL);

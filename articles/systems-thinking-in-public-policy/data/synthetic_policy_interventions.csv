@@ -1,0 +1,5 @@
+intervention_id,intervention,domain,policy_effort,burden_level,capacity_investment,feedback_closure
+P001,Baseline administration,public benefits,35,48,0.5,0.2
+P002,Enforcement-heavy design,public benefits,40,58,0.4,0.15
+P003,Burden-reduction design,public benefits,35,24,1.0,0.45
+P004,Capacity-building redesign,public benefits,38,22,2.2,0.7

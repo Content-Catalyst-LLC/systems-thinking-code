@@ -1,0 +1,10 @@
+title: "Systems Thinking in Public Policy"
+slug: "systems-thinking-in-public-policy"
+series: "Systems Thinking"
+article_type: "deep-dive"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/systems-thinking-in-public-policy/"
+wordpress_url: "https://sustainablecatalyst.com/systems-thinking-in-public-policy/"
+primary_workflows:
+  - "Python Workflow: Policy Feedback, Administrative Burden, and Scenario Modeling"
+  - "R Workflow: Public Policy Indicators, Distributional Diagnostics, and Feedback Visualization"
+responsible_use: "Synthetic-data educational scaffold for systems-oriented public policy analysis, not an operational policy decision tool."
