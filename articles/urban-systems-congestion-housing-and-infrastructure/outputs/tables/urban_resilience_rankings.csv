@@ -1,0 +1,5 @@
+rank,scenario,final_urban_resilience_index,final_access_index,final_affordability_index,final_infrastructure_condition,mean_composite_resilience_score
+1,Integrated resilient urbanism,44.328,98.445,13.309,43.472,51.809
+2,Transit housing coordination,32.295,89.179,8.224,17.02,42.878
+3,Road expansion baseline,23.161,79.571,5.909,1.877,38.0
+4,Deferred maintenance,20.729,77.502,3.234,0.0,33.196

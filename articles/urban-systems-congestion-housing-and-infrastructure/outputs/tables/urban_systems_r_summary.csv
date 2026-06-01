@@ -1,0 +1,5 @@
+"scenario","average_congestion_index","average_affordability_index","average_urban_resilience_index","minimum_infrastructure_condition","maximum_displacement_pressure","diagnostic"
+"Deferred maintenance",56.0687419354839,4.95916129032258,28.5259032258065,0,100,"high urban fragility"
+"Integrated resilient urbanism",47.1632903225806,15.2375161290323,46.426064516129,43.472,76.101,"moderate stress requiring redesign"
+"Road expansion baseline",55.1328709677419,7.45974193548387,33.1505161290323,1.877,100,"high urban fragility"
+"Transit housing coordination",49.7935161290323,9.01677419354839,38.0908709677419,17.02,100,"high urban fragility"

@@ -1,0 +1,5 @@
+scenario,final_housing_cost_index,final_transport_cost_index,final_utility_cost_index,final_affordability_index,average_total_burden_index,diagnostic
+Deferred maintenance,100.0,37.047,24.0,3.234,61.041,affordability stress
+Integrated resilient urbanism,100.0,28.032,19.398,13.309,56.763,affordability stress
+Road expansion baseline,100.0,35.91,22.611,5.909,60.54,affordability stress
+Transit housing coordination,100.0,29.94,21.483,8.224,58.983,affordability stress

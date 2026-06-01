@@ -1,0 +1,11 @@
+title: "Urban Systems: Congestion, Housing, and Infrastructure"
+slug: "urban-systems-congestion-housing-and-infrastructure"
+series: "Systems Thinking"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code"
+article_repository_path: "articles/urban-systems-congestion-housing-and-infrastructure"
+default_python: "python/run_all_urban_workflows.py"
+default_r: "r/run_all_urban_workflows.R"
+advanced_python: "python/run_advanced_pandas_workflow.py"
+outputs:
+  tables: "outputs/tables"
+  figures: "outputs/figures"

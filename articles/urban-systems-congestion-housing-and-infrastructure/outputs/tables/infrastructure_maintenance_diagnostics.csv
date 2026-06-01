@@ -1,0 +1,5 @@
+scenario,initial_infrastructure_condition,final_infrastructure_condition,minimum_infrastructure_condition,condition_change,average_climate_risk_index,diagnostic
+Deferred maintenance,55.487,0.0,0.0,-55.487,49.231,maintenance backlog risk
+Integrated resilient urbanism,64.065,43.472,43.472,-20.593,32.863,condition comparatively stable
+Road expansion baseline,59.684,1.877,1.877,-57.807,42.928,maintenance backlog risk
+Transit housing coordination,59.827,17.02,17.02,-42.807,39.808,maintenance backlog risk

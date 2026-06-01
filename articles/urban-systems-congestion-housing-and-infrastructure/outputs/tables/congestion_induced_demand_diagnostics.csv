@@ -1,0 +1,5 @@
+scenario,initial_congestion_index,final_congestion_index,mean_congestion_index,vehicle_demand_growth,road_capacity_growth,induced_pressure_ratio,diagnostic
+Deferred maintenance,51.125,59.663,56.069,15.461,4.5,3.436,capacity absorbed by demand
+Integrated resilient urbanism,48.501,44.203,47.163,-1.63,4.5,-0.362,demand partly managed
+Road expansion baseline,50.618,57.621,55.133,46.781,36.0,1.299,capacity absorbed by demand
+Transit housing coordination,50.07,47.564,49.794,0.787,4.5,0.175,demand partly managed

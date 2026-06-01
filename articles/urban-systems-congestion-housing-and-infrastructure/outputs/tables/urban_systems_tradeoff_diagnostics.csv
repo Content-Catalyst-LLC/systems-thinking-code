@@ -1,0 +1,5 @@
+"scenario","final_congestion_index","final_affordability_index","final_infrastructure_condition","final_displacement_pressure","final_access_index","final_urban_resilience_index"
+"Road expansion baseline",57.621,5.909,1.877,100,79.571,23.161
+"Deferred maintenance",59.663,3.234,0,100,77.502,20.729
+"Transit housing coordination",47.564,8.224,17.02,100,89.179,32.295
+"Integrated resilient urbanism",44.203,13.309,43.472,76.101,98.445,44.328

@@ -1,0 +1,10 @@
+Urban systems generated outputs
+================================
+
+outputs/tables/congestion_induced_demand_diagnostics.csv: 4 data rows
+outputs/tables/displacement_access_diagnostics.csv: 4 data rows
+outputs/tables/housing_transport_affordability_diagnostics.csv: 4 data rows
+outputs/tables/infrastructure_maintenance_diagnostics.csv: 4 data rows
+outputs/tables/urban_resilience_rankings.csv: 4 data rows
+outputs/tables/urban_systems_summary.csv: 4 data rows
+outputs/tables/urban_systems_timeseries.csv: 124 data rows
