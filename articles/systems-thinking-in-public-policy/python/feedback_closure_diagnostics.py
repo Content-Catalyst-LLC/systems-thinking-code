@@ -1,17 +1,28 @@
-"""Feedback-loop closure diagnostics for policy learning."""
-from pathlib import Path
-import csv
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "outputs" / "tables"
-OUT.mkdir(parents=True, exist_ok=True)
-rows = []
-with (ROOT / "data" / "synthetic_feedback_signals.csv").open(newline="", encoding="utf-8") as handle:
-    for row in csv.DictReader(handle):
-        received = float(row["received"])
-        acted = float(row["acted_upon"])
-        embedded = float(row["embedded"])
-        rows.append({"signal_id": row["signal_id"], "source": row["source"], "signal_type": row["signal_type"], "closure_rate": round(acted / received, 3), "embedding_rate": round(embedded / received, 3)})
-with (OUT / "feedback_closure_diagnostics.csv").open("w", newline="", encoding="utf-8") as handle:
-    writer = csv.DictWriter(handle, fieldnames=["signal_id", "source", "signal_type", "closure_rate", "embedding_rate"])
-    writer.writeheader(); writer.writerows(rows)
-print(f"Wrote {OUT / 'feedback_closure_diagnostics.csv'}")
+"""Feedback-loop closure diagnostics for public-policy learning."""
+from __future__ import annotations
+from _policy_utils import DATA, OUT_TABLES, ensure_outputs, read_csv_dict, to_float, write_csv_dict
+
+
+def main() -> None:
+    ensure_outputs()
+    rows = read_csv_dict(DATA / "synthetic_feedback_signals.csv", ["signal_id", "source", "signal_type", "received", "acted_upon", "embedded"])
+    out = []
+    for row in rows:
+        received = max(to_float(row, "received"), 1.0)
+        acted = to_float(row, "acted_upon")
+        embedded = to_float(row, "embedded")
+        closure_rate = acted / received
+        embedding_rate = embedded / received
+        out.append({
+            "signal_id": row["signal_id"],
+            "source": row["source"],
+            "signal_type": row["signal_type"],
+            "closure_rate": round(closure_rate, 3),
+            "embedding_rate": round(embedding_rate, 3),
+            "learning_flag": "weak" if embedding_rate < 0.2 else "partial" if embedding_rate < 0.4 else "stronger",
+        })
+    write_csv_dict(OUT_TABLES / "feedback_closure_diagnostics.csv", out)
+    print(f"Wrote {OUT_TABLES / 'feedback_closure_diagnostics.csv'}")
+
+if __name__ == "__main__":
+    main()

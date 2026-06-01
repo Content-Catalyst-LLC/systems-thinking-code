@@ -1,0 +1,6 @@
+group,burden_index,highest_cost_component,access_risk_flag
+low_income_households,28.8,compliance_cost,lower
+disabled_applicants,33.8,compliance_cost,lower
+limited_english_proficiency,32.4,compliance_cost,lower
+rural_households,28.0,compliance_cost,lower
+middle_income_households,14.6,compliance_cost,lower

@@ -7,4 +7,5 @@ wordpress_url: "https://sustainablecatalyst.com/systems-thinking-in-public-polic
 primary_workflows:
   - "Python Workflow: Policy Feedback, Administrative Burden, and Scenario Modeling"
   - "R Workflow: Public Policy Indicators, Distributional Diagnostics, and Feedback Visualization"
-responsible_use: "Synthetic-data educational scaffold for systems-oriented public policy analysis, not an operational policy decision tool."
+professional_standard: "Runnable, professional-facing synthetic diagnostics with exported outputs, assumptions, validation checks, and reusable domain logic."
+responsible_use: "Synthetic-data scaffold for systems-oriented public policy analysis, not an operational public-policy decision tool."

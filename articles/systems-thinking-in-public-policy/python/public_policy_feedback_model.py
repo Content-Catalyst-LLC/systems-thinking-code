@@ -1,13 +1,13 @@
-"""Python Workflow: Policy Feedback, Administrative Burden, and Scenario Modeling."""
-from __future__ import annotations
-from dataclasses import dataclass
-from pathlib import Path
-import csv
+"""Professional synthetic policy scenario model.
 
-ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "data"
-OUT = ROOT / "outputs" / "tables"
-OUT.mkdir(parents=True, exist_ok=True)
+Models public-policy outcomes as a dynamic interaction among policy effort,
+administrative burden, implementation capacity, public trust, enforcement,
+feedback closure, and distributional gaps.
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass
+from _policy_utils import DATA, OUT_TABLES, clamp, ensure_outputs, read_csv_dict, to_float, write_csv_dict
 
 @dataclass
 class PolicyScenario:
@@ -23,34 +23,43 @@ class PolicyScenario:
     distribution_gap: float
 
 
-def clamp(value: float, low: float = 0.0, high: float = 100.0) -> float:
-    return max(low, min(high, value))
-
-
 def load_scenarios() -> list[PolicyScenario]:
-    scenarios: list[PolicyScenario] = []
-    with (DATA / "synthetic_policy_scenarios.csv").open(newline="", encoding="utf-8") as handle:
-        for row in csv.DictReader(handle):
-            scenarios.append(PolicyScenario(
-                name=row["scenario"],
-                initial_outcome=float(row["initial_outcome"]),
-                initial_trust=float(row["initial_trust"]),
-                initial_capacity=float(row["initial_capacity"]),
-                policy_effort=float(row["policy_effort"]),
-                burden_level=float(row["burden_level"]),
-                capacity_investment=float(row["capacity_investment"]),
-                feedback_closure=float(row["feedback_closure"]),
-                enforcement_intensity=float(row["enforcement_intensity"]),
-                distribution_gap=float(row["distribution_gap"]),
-            ))
-    return scenarios
+    rows = read_csv_dict(
+        DATA / "synthetic_policy_scenarios.csv",
+        ["scenario", "initial_outcome", "initial_trust", "initial_capacity", "policy_effort", "burden_level", "capacity_investment", "feedback_closure", "enforcement_intensity", "distribution_gap"],
+    )
+    return [
+        PolicyScenario(
+            name=row["scenario"],
+            initial_outcome=to_float(row, "initial_outcome"),
+            initial_trust=to_float(row, "initial_trust"),
+            initial_capacity=to_float(row, "initial_capacity"),
+            policy_effort=to_float(row, "policy_effort"),
+            burden_level=to_float(row, "burden_level"),
+            capacity_investment=to_float(row, "capacity_investment"),
+            feedback_closure=to_float(row, "feedback_closure"),
+            enforcement_intensity=to_float(row, "enforcement_intensity"),
+            distribution_gap=to_float(row, "distribution_gap"),
+        )
+        for row in rows
+    ]
 
 
-def run_policy_scenario(scenario: PolicyScenario, years: int = 20) -> list[dict[str, float | int | str]]:
+def diagnostic_label(outcome: float, trust: float, distribution_gap: float) -> str:
+    if outcome >= 80 and trust >= 70 and distribution_gap <= 20:
+        return "strong public-value trajectory"
+    if outcome >= 65 and trust >= 55:
+        return "improving but monitor burden and equity"
+    if outcome >= 50 and trust < 55:
+        return "technical improvement with legitimacy risk"
+    return "weak or fragile trajectory"
+
+
+def run_policy_scenario(scenario: PolicyScenario, years: int = 20) -> list[dict]:
     outcome = scenario.initial_outcome
     trust = scenario.initial_trust
     capacity = scenario.initial_capacity
-    rows: list[dict[str, float | int | str]] = []
+    rows: list[dict] = []
 
     for year in range(years + 1):
         access_penalty = scenario.burden_level * 0.22
@@ -95,41 +104,34 @@ def run_policy_scenario(scenario: PolicyScenario, years: int = 20) -> list[dict[
 
 
 def main() -> None:
-    rows: list[dict[str, float | int | str]] = []
+    ensure_outputs()
+    scenario_results: list[dict] = []
     for scenario in load_scenarios():
-        rows.extend(run_policy_scenario(scenario))
+        scenario_results.extend(run_policy_scenario(scenario))
 
-    result_fields = [
-        "year", "scenario", "policy_outcome", "public_trust", "implementation_capacity",
-        "administrative_burden", "feedback_closure", "distribution_gap", "enforcement_intensity"
-    ]
-    with (OUT / "public_policy_scenario_results.csv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=result_fields)
-        writer.writeheader()
-        writer.writerows(rows)
+    write_csv_dict(OUT_TABLES / "public_policy_scenario_results.csv", scenario_results)
 
-    summary_rows = []
-    for scenario in sorted({str(row["scenario"]) for row in rows}):
-        scenario_rows = [row for row in rows if row["scenario"] == scenario]
-        last = scenario_rows[-1]
+    summary_rows: list[dict] = []
+    for scenario_name in sorted({row["scenario"] for row in scenario_results}):
+        rows = [row for row in scenario_results if row["scenario"] == scenario_name]
+        last = rows[-1]
+        avg_burden = sum(float(row["administrative_burden"]) for row in rows) / len(rows)
+        avg_closure = sum(float(row["feedback_closure"]) for row in rows) / len(rows)
+        avg_gap = sum(float(row["distribution_gap"]) for row in rows) / len(rows)
         summary_rows.append({
-            "scenario": scenario,
+            "scenario": scenario_name,
             "final_outcome": last["policy_outcome"],
             "final_trust": last["public_trust"],
             "final_capacity": last["implementation_capacity"],
-            "average_burden": round(sum(float(r["administrative_burden"]) for r in scenario_rows) / len(scenario_rows), 2),
-            "average_feedback_closure": round(sum(float(r["feedback_closure"]) for r in scenario_rows) / len(scenario_rows), 2),
-            "average_distribution_gap": round(sum(float(r["distribution_gap"]) for r in scenario_rows) / len(scenario_rows), 2),
+            "average_burden": round(avg_burden, 2),
+            "average_feedback_closure": round(avg_closure, 2),
+            "average_distribution_gap": round(avg_gap, 2),
+            "diagnostic": diagnostic_label(float(last["policy_outcome"]), float(last["public_trust"]), avg_gap),
         })
 
-    with (OUT / "public_policy_scenario_summary.csv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(summary_rows[0].keys()))
-        writer.writeheader()
-        writer.writerows(summary_rows)
-
-    print(f"Wrote {OUT / 'public_policy_scenario_results.csv'}")
-    print(f"Wrote {OUT / 'public_policy_scenario_summary.csv'}")
-
+    write_csv_dict(OUT_TABLES / "public_policy_scenario_summary.csv", summary_rows)
+    print(f"Wrote {OUT_TABLES / 'public_policy_scenario_results.csv'}")
+    print(f"Wrote {OUT_TABLES / 'public_policy_scenario_summary.csv'}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,6 @@
+signal_id,source,signal_type,closure_rate,embedding_rate,learning_flag
+F001,frontline_staff,backlog,0.381,0.19,weak
+F002,community_meetings,access_burden,0.361,0.139,weak
+F003,appeals,eligibility_error,0.393,0.214,partial
+F004,audit,process_failure,0.667,0.389,partial
+F005,advocacy_organizations,language_access,0.318,0.182,weak

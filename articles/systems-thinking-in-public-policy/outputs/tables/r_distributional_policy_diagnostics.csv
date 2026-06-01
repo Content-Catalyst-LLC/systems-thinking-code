@@ -1,0 +1,6 @@
+"group","benefits","burdens","risks","access_score","net_policy_impact","equity_attention_flag"
+"disabled_applicants",44,70,36,38,-62,"urgent"
+"limited_english_proficiency",41,66,33,35,-58,"urgent"
+"low_income_households",48,62,31,42,-45,"urgent"
+"rural_households",46,58,29,44,-41,"urgent"
+"middle_income_households",55,28,18,71,9,"favorable"

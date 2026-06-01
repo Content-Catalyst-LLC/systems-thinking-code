@@ -1,19 +1,36 @@
-"""Synthetic policy delay simulation showing consequences of delayed capacity investment."""
-from pathlib import Path
-import csv
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "outputs" / "tables"
-OUT.mkdir(parents=True, exist_ok=True)
-rows = []
-for delay in [0, 2, 5, 8]:
+"""Policy delay simulation for backlog and capacity planning."""
+from __future__ import annotations
+from _policy_utils import OUT_TABLES, ensure_outputs, write_csv_dict
+
+
+def simulate_delay(delay_years: int, years: int = 15) -> list[dict]:
     backlog = 100.0
     capacity = 45.0
-    for year in range(0, 16):
-        if year >= delay:
+    rows = []
+    for year in range(years + 1):
+        if year >= delay_years:
             capacity += 2.0
-        backlog = max(0, backlog + 8.0 - capacity * 0.15)
-        rows.append({"delay_years": delay, "year": year, "capacity": round(capacity, 2), "backlog": round(backlog, 2)})
-with (OUT / "policy_delay_simulation.csv").open("w", newline="", encoding="utf-8") as handle:
-    writer = csv.DictWriter(handle, fieldnames=["delay_years", "year", "capacity", "backlog"])
-    writer.writeheader(); writer.writerows(rows)
-print(f"Wrote {OUT / 'policy_delay_simulation.csv'}")
+        incoming_demand = 8.0
+        processed = capacity * 0.15
+        backlog = max(0.0, backlog + incoming_demand - processed)
+        rows.append({
+            "delay_years": delay_years,
+            "year": year,
+            "capacity": round(capacity, 2),
+            "incoming_demand": incoming_demand,
+            "processed": round(processed, 2),
+            "backlog": round(backlog, 2),
+        })
+    return rows
+
+
+def main() -> None:
+    ensure_outputs()
+    rows = []
+    for delay in [0, 2, 5, 8]:
+        rows.extend(simulate_delay(delay))
+    write_csv_dict(OUT_TABLES / "policy_delay_simulation.csv", rows)
+    print(f"Wrote {OUT_TABLES / 'policy_delay_simulation.csv'}")
+
+if __name__ == "__main__":
+    main()

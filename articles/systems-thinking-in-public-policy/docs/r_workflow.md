@@ -1,24 +1,25 @@
 # R Workflow: Public Policy Indicators, Distributional Diagnostics, and Feedback Visualization
 
-Use R for policy scenario summaries, burden tables, public-trust trajectories, distributional diagnostics, implementation-capacity summaries, and publication-ready CSV outputs.
+Run from the article folder after the Python workflow:
 
-Runnable starter snippet:
-
-```r
-policy_results <- read.csv("outputs/tables/public_policy_scenario_results.csv")
-policy_summary <- aggregate(
-  cbind(policy_outcome, public_trust, implementation_capacity) ~ scenario,
-  data = policy_results,
-  FUN = function(x) tail(x, 1)
-)
-print(policy_summary)
+```bash
+Rscript r/run_all_public_policy_workflows.R
 ```
 
-Primary scripts:
+The R workflow creates professional policy diagnostics and base-R visualizations:
 
-- `public_policy_indicator_visualization.R`
-- `burden_feedback_policy_diagnostics.R`
-- `public_trust_trajectory_plots.R`
-- `distributional_policy_tables.R`
-- `implementation_capacity_summary.R`
-- `export_public_policy_tables.R`
+- policy outcome trajectories;
+- public trust trajectories;
+- administrative burden comparisons;
+- distributional net-impact tables;
+- implementation-capacity summaries;
+- feedback-closure diagnostics.
+
+Primary outputs:
+
+- `outputs/tables/r_policy_scenario_diagnostics.csv`
+- `outputs/tables/r_distributional_policy_diagnostics.csv`
+- `outputs/figures/policy_outcome_trajectories.png`
+- `outputs/figures/public_trust_trajectories.png`
+- `outputs/figures/administrative_burden_by_group.png`
+- `outputs/figures/net_policy_impact_by_group.png`

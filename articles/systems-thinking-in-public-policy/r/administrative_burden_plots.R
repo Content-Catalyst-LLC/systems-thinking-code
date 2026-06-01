@@ -1,0 +1,11 @@
+source(file.path(dirname(sys.frame(1)$ofile), "_workflow_utils.R"))
+root <- article_root(); ensure_dirs(root)
+burden_path <- file.path(root, "outputs", "tables", "administrative_burden_index.csv")
+if (!file.exists(burden_path)) stop("Run python/run_all_public_policy_workflows.py before this R script.")
+burden <- read.csv(burden_path)
+burden <- burden[order(burden$burden_index, decreasing = TRUE), ]
+fig <- file.path(root, "outputs", "figures", "administrative_burden_by_group.png")
+png(fig, width = 1000, height = 650)
+barplot(burden$burden_index, names.arg = burden$group, las = 2, main = "Administrative Burden Index by Group", ylab = "Burden index")
+dev.off()
+cat("Wrote", fig, "\n")

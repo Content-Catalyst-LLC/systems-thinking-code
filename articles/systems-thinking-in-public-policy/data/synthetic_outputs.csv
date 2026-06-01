@@ -1,4 +1,6 @@
 output,folder,description
 public_policy_scenario_results.csv,outputs/tables,Behavior-over-time policy scenario results
 public_policy_scenario_summary.csv,outputs/tables,Scenario-level public policy summary
-burden_feedback_policy_diagnostics.csv,outputs/tables,"Burden, feedback, distribution, outcome, and trust diagnostics"
+administrative_burden_index.csv,outputs/tables,Group-level administrative burden diagnostics
+public_trust_stock_flow.csv,outputs/tables,Public trust stock-flow trajectory
+distributional_policy_impact.csv,outputs/tables,"Group-level benefit, burden, risk, access, and net-impact diagnostics"

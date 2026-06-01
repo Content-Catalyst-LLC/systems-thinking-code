@@ -1,8 +1,10 @@
 # Outputs
 
-This folder is used by Python and R workflows to write reproducible tables and figures.
+Generated tables and figures from professional public-policy workflows.
 
-Recommended run order:
+Recommended run order from the article folder:
 
-1. `python3 python/export_public_policy_outputs.py`
-2. `Rscript r/export_public_policy_tables.R`
+```bash
+python3 python/run_all_public_policy_workflows.py
+Rscript r/run_all_public_policy_workflows.R
+```
