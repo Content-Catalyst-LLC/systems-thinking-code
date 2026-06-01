@@ -1,0 +1,14 @@
+title: "Climate Systems and Feedback Dynamics"
+slug: "climate-systems-and-feedback-dynamics"
+series: "Systems Thinking"
+repository_url: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/climate-systems-and-feedback-dynamics"
+workflow_standard: "professional dependency-light default workflows with optional advanced pandas layer"
+primary_methods:
+  - carbon stock-flow modeling
+  - simplified temperature response modeling
+  - climate feedback scenario analysis
+  - policy delay diagnostics
+  - vulnerability and adaptation risk indexing
+  - base R trajectory visualization
+  - optional pandas/matplotlib advanced exports
+responsible_use: "Synthetic scenario analysis for education, planning, and methods demonstration; not a substitute for official climate projections or localized professional risk assessment."

@@ -1,0 +1,5 @@
+"scenario","co2_ppm","temperature_anomaly_c","risk_index","cumulative_emissions_gtco2","diagnostic"
+"Baseline high emissions",747.757,5.548,30.25,4002.233,"high warming and adaptation risk"
+"Delayed transition",591.776,4.496,25.163,2199.097,"high warming and adaptation risk"
+"Justice-centered transition",468.954,3.074,5.762,702.175,"high warming and adaptation risk"
+"Rapid mitigation",479.958,3.216,12.949,839.68,"high warming and adaptation risk"

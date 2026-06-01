@@ -1,0 +1,5 @@
+scenario,description
+Baseline high emissions,High-emissions reference trajectory with no policy activation in model horizon
+Delayed transition,Mitigation begins after a long delay and retains higher cumulative emissions
+Rapid mitigation,Earlier emissions decline with stronger sink and adaptation assumptions
+Justice-centered transition,Early mitigation and higher adaptation capacity reduce residual risk

@@ -1,0 +1,5 @@
+scenario,cumulative_emissions_gtco2,avoided_emissions_vs_baseline_gtco2,final_temperature_anomaly_c,temperature_difference_vs_baseline_c,diagnostic
+Baseline high emissions,4002.233,0.0,5.548,0.0,baseline comparison
+Delayed transition,2199.097,1803.136,4.496,-1.052,strong delay penalty remains
+Justice-centered transition,702.175,3300.058,3.074,-2.474,strong delay penalty remains
+Rapid mitigation,839.68,3162.553,3.216,-2.332,strong delay penalty remains

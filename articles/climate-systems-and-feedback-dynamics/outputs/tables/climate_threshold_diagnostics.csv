@@ -1,0 +1,5 @@
+"scenario","first_year_above_2c","final_temperature_anomaly_c","maximum_risk_index"
+"Baseline high emissions",9,5.548,30.25
+"Delayed transition",9,4.496,25.163
+"Rapid mitigation",10,3.216,12.949
+"Justice-centered transition",11,3.074,5.762
