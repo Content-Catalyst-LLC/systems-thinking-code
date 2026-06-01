@@ -1,0 +1,5 @@
+scenario,initial_feedback_bias_index,final_feedback_bias_index,feedback_bias_change,average_ai_system_risk,loop_diagnostic
+Accountable human-centered governance,9.168,0.0,-9.168,0.0,contained or corrected feedback
+Biased feedback loop,25.025,61.918,36.893,25.713,self-reinforcing harm
+Monitored deployment,13.654,1.213,-12.441,2.405,contained or corrected feedback
+Unmanaged automation,18.952,53.239,34.287,28.943,self-reinforcing harm

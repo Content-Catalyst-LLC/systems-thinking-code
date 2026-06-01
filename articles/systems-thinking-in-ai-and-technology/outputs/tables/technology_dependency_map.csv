@@ -1,0 +1,11 @@
+dependent_system,provider_system,dependency_weight,dependency_category,critical_dependency
+model_service,cloud_provider,0.72,digital infrastructure,yes
+model_service,training_data_pipeline,0.81,data pipeline,yes
+model_service,human_review_team,0.46,labor and governance,no
+public_benefits_workflow,model_service,0.64,decision support,no
+public_benefits_workflow,appeals_process,0.56,contestability,no
+content_platform,recommendation_engine,0.83,attention system,yes
+recommendation_engine,user_behavior_data,0.78,feedback loop,yes
+smart_infrastructure,sensor_network,0.68,field data,no
+smart_infrastructure,cybersecurity_team,0.58,security,no
+governance_board,incident_reports,0.61,accountability,no

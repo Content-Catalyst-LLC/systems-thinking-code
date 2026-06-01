@@ -1,0 +1,5 @@
+scenario,average_automation_burden,maximum_human_review_backlog,minimum_contestability_index,workflow_diagnostic
+Accountable human-centered governance,0.0,0.0,79.8,oversight capacity comparatively stronger
+Biased feedback loop,38.185,38.236,11.256,symbolic oversight risk
+Monitored deployment,15.167,10.742,49.383,oversight capacity comparatively stronger
+Unmanaged automation,45.334,45.168,4.919,symbolic oversight risk

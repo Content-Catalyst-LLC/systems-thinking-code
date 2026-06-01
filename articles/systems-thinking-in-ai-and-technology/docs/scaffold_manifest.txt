@@ -1,0 +1,7 @@
+Generated: 2026-06-01T04:34:36Z
+Article: Systems Thinking in AI and Technology
+Slug: systems-thinking-in-ai-and-technology
+Default Python: standard library only
+Default R: base R only
+Optional advanced Python: pandas, matplotlib, openpyxl
+Multilanguage folders: julia, sql, go, rust, c, cpp, fortran

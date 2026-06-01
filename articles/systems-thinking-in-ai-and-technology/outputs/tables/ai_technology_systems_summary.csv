@@ -1,0 +1,5 @@
+"scenario","average_ai_system_risk","maximum_false_positive_gap","maximum_human_review_backlog","minimum_public_trust","diagnostic"
+"Accountable human-centered governance",0,6.609,0,100,"comparatively accountable AI pathway"
+"Biased feedback loop",25.7125675675676,27.871,38.236,57.334,"high-risk AI system"
+"Monitored deployment",2.40472972972973,8.979,10.742,86.134,"comparatively accountable AI pathway"
+"Unmanaged automation",28.9429189189189,24.134,45.168,52.155,"moderate risk requiring stronger governance"

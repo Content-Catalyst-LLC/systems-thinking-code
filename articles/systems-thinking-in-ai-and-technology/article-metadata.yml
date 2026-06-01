@@ -1,0 +1,14 @@
+title: "Systems Thinking in AI and Technology"
+slug: "systems-thinking-in-ai-and-technology"
+repository: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/systems-thinking-in-ai-and-technology/"
+series: "Systems Thinking"
+status: "article companion scaffold"
+default_runtime:
+  python: "standard library only"
+  r: "base R only"
+optional_advanced_runtime:
+  python_packages:
+    - pandas
+    - matplotlib
+    - openpyxl
+responsible_use: "Synthetic-data systems analysis scaffold, not an automated decision tool."

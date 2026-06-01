@@ -1,0 +1,5 @@
+scenario,average_group_a_error,average_group_b_error,average_error_gap,average_drift_index,fairness_drift_diagnostic
+Accountable human-centered governance,16.656,20.577,3.921,14.755,monitor with periodic audit
+Biased feedback loop,21.768,43.183,21.415,32.045,requires immediate review
+Monitored deployment,18.648,25.45,6.802,20.269,monitor with periodic audit
+Unmanaged automation,25.261,43.394,18.133,40.337,requires immediate review
