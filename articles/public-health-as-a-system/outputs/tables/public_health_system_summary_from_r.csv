@@ -1,0 +1,5 @@
+"scenario","peak_infected","peak_care_stress","average_public_trust","average_health_risk_index","diagnostic"
+"Baseline reactive response",16351.754,2.29,34.2971886792453,52.8540943396226,"system overload risk"
+"Delayed intervention",4306.203,0.579,56.1207547169811,23.2934150943396,"comparatively resilient public health pathway"
+"Integrated equity and capacity strategy",222.093,0.018,84.688679245283,0.65888679245283,"comparatively resilient public health pathway"
+"Trust-centered prevention",290.617,0.033,74.2037735849057,6.19537735849057,"comparatively resilient public health pathway"

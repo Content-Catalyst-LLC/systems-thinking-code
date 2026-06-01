@@ -1,0 +1,5 @@
+scenario,population,initial_infected,transmission_rate,recovery_rate,severe_case_rate,care_capacity,prevention_strength,trust_initial,trust_gain,trust_loss_from_overload,vulnerability_index,intervention_start_week
+Baseline reactive response,100000,180,0.42,0.18,0.055,520,0.08,52,0.10,4.2,48,999
+Delayed intervention,100000,180,0.42,0.18,0.055,520,0.30,52,0.28,4.0,50,14
+Trust-centered prevention,100000,180,0.40,0.19,0.050,560,0.42,62,0.55,2.5,40,5
+Integrated equity and capacity strategy,100000,180,0.39,0.20,0.046,680,0.48,68,0.70,1.8,28,3

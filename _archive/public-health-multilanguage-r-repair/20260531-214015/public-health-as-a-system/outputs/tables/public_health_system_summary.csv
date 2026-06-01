@@ -1,0 +1,5 @@
+scenario,peak_infected,peak_care_stress,overload_weeks,average_public_trust,average_health_risk_index,final_public_trust,final_prevention_value_index,diagnostic
+Baseline reactive response,16351.754,2.29,27,34.297,52.854,0.0,0.0,system overload risk
+Delayed intervention,4306.203,0.579,0,56.121,23.293,62.92,34.818,comparatively resilient public health pathway
+Integrated equity and capacity strategy,222.093,0.018,0,84.689,0.659,100.0,68.768,comparatively resilient public health pathway
+Trust-centered prevention,290.617,0.033,0,74.204,6.195,88.4,61.589,comparatively resilient public health pathway

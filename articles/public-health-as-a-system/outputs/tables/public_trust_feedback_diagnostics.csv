@@ -1,0 +1,5 @@
+scenario,minimum_public_trust,average_public_trust,final_public_trust,average_prevention_value_index,trust_diagnostic
+Baseline reactive response,0.0,34.297,0.0,14.203,trust fragility
+Delayed intervention,52.0,56.121,62.92,36.683,trust comparatively stable
+Integrated equity and capacity strategy,68.0,84.689,100.0,63.874,trust comparatively stable
+Trust-centered prevention,62.0,74.204,88.4,56.468,trust comparatively stable

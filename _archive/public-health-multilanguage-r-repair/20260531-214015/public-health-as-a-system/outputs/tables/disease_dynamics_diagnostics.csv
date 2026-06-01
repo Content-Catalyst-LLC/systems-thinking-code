@@ -1,0 +1,5 @@
+scenario,peak_week,peak_infected,peak_severe_cases,final_recovered
+Baseline reactive response,39,16351.754,1187.137,71359.718
+Delayed intervention,50,4306.203,315.788,22115.275
+Trust-centered prevention,4,290.617,18.406,2353.778
+Integrated equity and capacity strategy,2,222.093,12.123,1001.306

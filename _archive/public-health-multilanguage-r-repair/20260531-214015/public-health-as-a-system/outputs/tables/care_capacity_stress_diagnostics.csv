@@ -1,0 +1,5 @@
+scenario,peak_care_stress,overload_weeks,minimum_care_capacity,capacity_diagnostic
+Baseline reactive response,2.29,27,501.448,overload risk
+Delayed intervention,0.579,0,520.5,capacity maintained
+Integrated equity and capacity strategy,0.018,0,680.5,capacity maintained
+Trust-centered prevention,0.033,0,560.5,capacity maintained

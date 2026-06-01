@@ -1,0 +1,5 @@
+"scenario","overload_weeks","peak_care_stress","minimum_public_trust","final_prevention_value_index"
+"Baseline reactive response",27,2.29,0,0
+"Delayed intervention",0,0.579,52,34.818
+"Trust-centered prevention",0,0.033,62,61.589
+"Integrated equity and capacity strategy",0,0.018,68,68.768
