@@ -1,0 +1,8 @@
+# Optional advanced Python dependencies for professional systems-analysis workflows.
+# Standard repository smoke tests should remain dependency-light.
+# Use scripts/setup_advanced_python_env.sh to install these into .venv.
+
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+openpyxl>=3.1.0

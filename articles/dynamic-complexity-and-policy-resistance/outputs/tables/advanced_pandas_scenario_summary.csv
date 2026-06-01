@@ -1,0 +1,5 @@
+article_slug,domain_profile,scenario,final_stock,final_pressure,minimum_threshold_margin,average_burden,peak_vulnerability,final_resilience_ratio,years_near_threshold,years_shifted,professional_diagnostic
+dynamic-complexity-and-policy-resistance,policy_governance,baseline_pressure,0.0,90.05,-90.05,47.599999999999994,93.644,0.0,3,25,regime-shift risk
+dynamic-complexity-and-policy-resistance,policy_governance,delayed_response,7.508,88.627,-81.119,45.70477419354839,89.001,0.0847,3,24,regime-shift risk
+dynamic-complexity-and-policy-resistance,policy_governance,professional_redesign,86.117,84.247,1.87,36.00567741935484,59.939,1.0222,14,0,threshold warning
+dynamic-complexity-and-policy-resistance,policy_governance,transformative_change,100.0,80.676,15.155,27.48335483870968,57.747,1.2395,0,0,resilience maintained

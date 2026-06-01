@@ -1,0 +1,14 @@
+title: "Resilience, Thresholds, and Regime Shifts"
+slug: "resilience-thresholds-and-regime-shifts"
+series: "Systems Thinking"
+repository_url: "https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/resilience-thresholds-and-regime-shifts/"
+workflow_standard: "professional-runnable-systems-analysis"
+primary_models:
+  - resilience stock-flow trajectory
+  - threshold margin analysis
+  - regime-shift classification
+  - early warning indicators
+  - hysteresis and recovery difficulty
+  - adaptive capacity scenarios
+  - distributional vulnerability diagnostics
+notes: "Synthetic datasets are for reproducible systems-analysis demonstrations, not operational prediction."

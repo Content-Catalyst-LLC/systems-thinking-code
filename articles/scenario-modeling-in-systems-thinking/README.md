@@ -31,3 +31,15 @@ All datasets are synthetic and intended for methods demonstration, teaching, and
 ## Article URL
 
 GitHub article folder: https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/scenario-modeling-in-systems-thinking/
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/scenario-modeling-in-systems-thinking/python/run_advanced_pandas_workflow.py
+```

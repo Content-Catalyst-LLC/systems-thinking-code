@@ -27,3 +27,15 @@ The workflows are designed to be adapted into real policy work: burden analysis,
 ## Responsible use
 
 Synthetic data is included for reproducibility. Do not use this scaffold as an operational policy, legal, benefits, public-health, housing, climate, regulatory, or enforcement decision system without real data validation, community review, institutional authorization, domain expertise, privacy safeguards, and transparent assumptions.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/systems-thinking-in-public-policy/python/run_advanced_pandas_workflow.py
+```

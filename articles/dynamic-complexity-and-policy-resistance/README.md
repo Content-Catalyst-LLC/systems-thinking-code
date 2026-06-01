@@ -29,3 +29,15 @@ Dynamic complexity explains why policy interventions often produce delayed, indi
 ## Responsible use
 
 These examples use synthetic data and simplified models. They are for learning, exploratory analysis, and reproducible methods demonstration. They should not be used to make real policy, employment, benefit, enforcement, health, or allocation decisions without domain expertise, stakeholder review, legal review where appropriate, and careful validation against real-world evidence.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/dynamic-complexity-and-policy-resistance/python/run_advanced_pandas_workflow.py
+```

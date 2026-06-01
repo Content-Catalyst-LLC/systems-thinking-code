@@ -25,3 +25,15 @@ notebooks/ notebook placeholders
 ## Purpose
 
 The goal is to make boundary critique reproducible and explicit. The examples are synthetic and educational. They are intended to show how conclusions can change when system boundaries, stakeholder inclusion, externalized costs, and time horizons change.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/system-boundaries-and-problem-framing/python/run_advanced_pandas_workflow.py
+```

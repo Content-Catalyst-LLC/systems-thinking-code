@@ -32,3 +32,15 @@ The scaffold is designed for systems-thinking education, applied policy analysis
 ## Responsible use
 
 These examples are for synthetic-data modeling, systems education, institutional learning, and reproducible analysis. They should not be used as deterministic decision tools or as substitutes for stakeholder participation, domain expertise, historical analysis, ethics review, or affected-community knowledge.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/causal-loop-diagrams-and-the-logic-of-interaction/python/run_advanced_pandas_workflow.py
+```

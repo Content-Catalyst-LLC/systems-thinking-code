@@ -1,0 +1,5 @@
+article_slug,domain_profile,scenario,final_stock,final_pressure,minimum_threshold_margin,average_burden,peak_vulnerability,final_resilience_ratio,years_near_threshold,years_shifted,professional_diagnostic
+systems-thinking-and-sustainability,sustainability,baseline_pressure,0.0,98.45,-98.45,46.0,94.071,0.0,2,21,regime-shift risk
+systems-thinking-and-sustainability,sustainability,delayed_response,19.394,96.66,-77.265,44.10477419354839,86.034,0.2006,2,20,regime-shift risk
+systems-thinking-and-sustainability,sustainability,professional_redesign,98.764,91.149,7.615,34.40567741935484,55.784,1.0835,2,0,threshold warning
+systems-thinking-and-sustainability,sustainability,transformative_change,100.0,86.656,13.344,25.88335483870968,52.097,1.154,0,0,resilience maintained

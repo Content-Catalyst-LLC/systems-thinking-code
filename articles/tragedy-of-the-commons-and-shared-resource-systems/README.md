@@ -22,3 +22,15 @@ All datasets are synthetic and are intended for learning, public-interest analys
 - `sql/` contains database schemas for commons system modeling.
 - `docs/` contains framework notes, diagnostic questions, assumptions, and responsible-use guidance.
 - `outputs/` is used for generated figures and tables.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/tragedy-of-the-commons-and-shared-resource-systems/python/run_advanced_pandas_workflow.py
+```

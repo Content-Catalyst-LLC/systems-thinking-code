@@ -34,3 +34,15 @@ notebooks/ notebook placeholders
 ## Purpose
 
 The goal is to show how systems thinking moves from visible events to recurring patterns and then to the deeper structures that generate those patterns. The code and data are intentionally synthetic so readers can study recurrence, causality, feedback, accumulation, delay, and structural explanation without relying on sensitive data.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/patterns-events-and-structural-explanation/python/run_advanced_pandas_workflow.py
+```

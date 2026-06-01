@@ -25,3 +25,15 @@ The repository is designed for systems-thinking education, sustainability analys
 ## Article thesis
 
 Overshoot occurs when growth, demand, extraction, workload, or pressure exceeds the system's regenerative or corrective capacity. Collapse becomes more likely when delayed feedback hides the limit and supporting stocks are depleted. Correction requires reducing pressure, restoring stocks, rebuilding buffers, and changing the feedback structures and goals that produced overshoot.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/overshoot-collapse-and-correction/python/run_advanced_pandas_workflow.py
+```

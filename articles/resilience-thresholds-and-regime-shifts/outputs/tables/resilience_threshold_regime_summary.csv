@@ -1,0 +1,5 @@
+scenario,final_resilience,final_pressure,minimum_threshold_margin,maximum_recovery_time,average_resilience,final_vulnerability_index,years_near_threshold,years_shifted,diagnostic
+Baseline pressure,0.0,121.4,-121.4,121.4,21.19,60.6,2,29,high regime-shift risk
+Delayed response,0.0,47.69,-91.0,91.0,18.94,54.2,2,30,high regime-shift risk
+Buffer-building adaptation,59.06,21.52,4.88,0.915,58.13,27.0,4,0,threshold warning
+Transformative adaptation,100.0,7.11,20.0,0.701,85.27,6.6,0,0,resilience maintained

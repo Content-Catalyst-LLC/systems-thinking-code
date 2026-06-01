@@ -35,3 +35,15 @@ notebooks/ notebook placeholders
 ## Purpose
 
 The goal is to make feedback-loop reasoning concrete while keeping assumptions visible. These examples are intentionally synthetic so readers can study feedback structure without relying on sensitive or proprietary data.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/feedback-loops-and-system-behavior/python/run_advanced_pandas_workflow.py
+```

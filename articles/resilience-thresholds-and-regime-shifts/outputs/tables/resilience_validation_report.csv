@@ -1,0 +1,5 @@
+check,status,detail
+results_have_rows,pass,144 result rows generated
+all_scenarios_summarized,pass,4 scenarios summarized
+regime_labels_valid,pass,0 invalid regime labels
+nonnegative_core_values,pass,0 rows with negative resilience/pressure

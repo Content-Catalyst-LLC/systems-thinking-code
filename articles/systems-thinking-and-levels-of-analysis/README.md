@@ -25,3 +25,15 @@ notebooks/ notebook placeholders
 ## Purpose
 
 The repository shows how systems thinking can represent problems across levels of analysis: individual, interactional, organizational, institutional, network, socio-ecological, and cross-scale. It is designed for synthetic-data research, methods demonstration, institutional learning, and reproducible workflows.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/systems-thinking-and-levels-of-analysis/python/run_advanced_pandas_workflow.py
+```

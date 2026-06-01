@@ -27,3 +27,15 @@ This scaffold is designed for synthetic-data research, teaching, reproducible me
 ## Suggested use
 
 Run the Python and R examples first to generate behavior-over-time plots and summary tables. Then review the SQL schemas and systems notes to understand how events, indicators, structures, scenarios, and interventions can be represented in a reproducible research workflow.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/behavior-over-time-and-structural-explanation/python/run_advanced_pandas_workflow.py
+```

@@ -1,0 +1,5 @@
+scenario,minimum_threshold_margin,recovery_time_slope,recent_resilience_variance,recent_resilience_autocorrelation,first_near_threshold_year,first_shifted_year,early_warning_class
+Baseline pressure,-121.4,3.4543,0.0,0.0,5,7,threshold crossed
+Delayed response,-91.0,1.348,0.0,0.0,4,6,threshold crossed
+Buffer-building adaptation,4.88,-0.0037,1.452,1.0,6,,strong early warning
+Transformative adaptation,20.0,-0.0118,0.0,0.981,,,strong early warning

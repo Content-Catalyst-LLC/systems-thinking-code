@@ -1,0 +1,5 @@
+article_slug,domain_profile,scenario,final_stock,final_pressure,minimum_threshold_margin,average_burden,peak_vulnerability,final_resilience_ratio,years_near_threshold,years_shifted,professional_diagnostic
+delays-oscillation-and-misperception,general_systems,baseline_pressure,0.0,92.7,-92.7,46.0,93.036,0.0,3,22,regime-shift risk
+delays-oscillation-and-misperception,general_systems,delayed_response,14.091,91.139,-77.048,44.10477419354839,86.525,0.1546,2,22,regime-shift risk
+delays-oscillation-and-misperception,general_systems,professional_redesign,92.986,86.335,6.651,34.40567741935484,56.837,1.077,3,0,threshold warning
+delays-oscillation-and-misperception,general_systems,transformative_change,100.0,82.418,17.582,25.88335483870968,54.618,1.2133,0,0,resilience maintained

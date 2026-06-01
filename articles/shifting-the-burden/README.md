@@ -32,3 +32,15 @@ This repository is for systems-thinking education, reproducible modeling, and ar
 ## Article repository link
 
 https://github.com/Content-Catalyst-LLC/systems-thinking-code/tree/main/articles/shifting-the-burden/
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/shifting-the-burden/python/run_advanced_pandas_workflow.py
+```

@@ -19,3 +19,15 @@ This folder contains reproducible examples for stock-flow simulation, accumulati
 ## Responsible use
 
 These examples use synthetic data for educational systems-thinking workflows. They are intended for conceptual modeling, reproducible demonstrations, and learning-oriented analysis, not for automated decisions about people, communities, employment, benefits, discipline, surveillance, or access to essential services.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/stocks-flows-and-the-architecture-of-change/python/run_advanced_pandas_workflow.py
+```

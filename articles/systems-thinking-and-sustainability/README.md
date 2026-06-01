@@ -12,3 +12,15 @@ This repository models sustainability as a dynamic system of ecological limits, 
 ## Responsible use
 
 Synthetic-data educational scaffold only. Do not use as an operational environmental, infrastructure, legal, investment, or public-policy decision system without domain expertise, transparent assumptions, participatory review, and real data validation.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/systems-thinking-and-sustainability/python/run_advanced_pandas_workflow.py
+```

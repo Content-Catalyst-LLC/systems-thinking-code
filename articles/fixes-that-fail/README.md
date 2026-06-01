@@ -19,3 +19,15 @@ The examples model how quick fixes can reduce visible symptoms while producing d
 ## Responsible use
 
 These examples are not forecasting tools. They demonstrate the systems logic of short-term relief, delayed harm, capacity depletion, and structural repair. Use them to support critical inquiry, scenario comparison, and ethical systems analysis—not to justify predetermined policy decisions or to avoid urgent relief when people are currently being harmed.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/fixes-that-fail/python/run_advanced_pandas_workflow.py
+```

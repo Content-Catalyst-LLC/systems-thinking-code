@@ -1,0 +1,5 @@
+article_slug,domain_profile,scenario,final_stock,final_pressure,minimum_threshold_margin,average_burden,peak_vulnerability,final_resilience_ratio,years_near_threshold,years_shifted,professional_diagnostic
+systems-thinking-in-organizations-and-learning,organizational_learning,baseline_pressure,0.0,99.25,-99.25,49.2,96.385,0.0,3,24,regime-shift risk
+systems-thinking-in-organizations-and-learning,organizational_learning,delayed_response,2.097,97.644,-95.546,47.30477419354839,93.224,0.0215,3,24,regime-shift risk
+systems-thinking-in-organizations-and-learning,organizational_learning,professional_redesign,81.086,92.698,-11.612,37.60567741935484,63.183,0.8747,11,8,regime-shift risk
+systems-thinking-in-organizations-and-learning,organizational_learning,transformative_change,100.0,88.666,11.334,29.083354838709678,56.478,1.1278,0,0,resilience maintained

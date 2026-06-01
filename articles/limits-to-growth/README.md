@@ -19,3 +19,15 @@ The examples model how reinforcing growth loops encounter constraints such as ca
 ## Responsible use
 
 These examples are not forecasting tools. They are transparent systems-thinking demonstrations for exploring how growth loops, constraints, delays, depletion, and capacity investments interact. Use them to support critical inquiry, scenario comparison, and ethical systems analysis—not to justify predetermined policy decisions.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/limits-to-growth/python/run_advanced_pandas_workflow.py
+```

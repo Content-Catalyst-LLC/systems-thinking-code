@@ -1,0 +1,5 @@
+article_slug,domain_profile,scenario,final_stock,final_pressure,minimum_threshold_margin,average_burden,peak_vulnerability,final_resilience_ratio,years_near_threshold,years_shifted,professional_diagnostic
+overshoot-collapse-and-correction,resilience_threshold,baseline_pressure,0.0,103.75,-103.75,44.400000000000006,93.94,0.0,2,21,regime-shift risk
+overshoot-collapse-and-correction,resilience_threshold,delayed_response,13.026,101.685,-88.659,42.504774193548386,87.636,0.1281,2,21,regime-shift risk
+overshoot-collapse-and-correction,resilience_threshold,professional_redesign,92.967,95.326,-2.359,32.805677419354836,57.075,0.9752,5,2,regime-shift risk
+overshoot-collapse-and-correction,resilience_threshold,transformative_change,100.0,90.142,9.858,24.283354838709677,52.503,1.1094,1,0,threshold warning

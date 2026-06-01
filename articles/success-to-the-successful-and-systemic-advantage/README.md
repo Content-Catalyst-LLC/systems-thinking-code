@@ -23,3 +23,15 @@ All datasets are synthetic and intended for learning, systems modeling, public-i
 - `sql/` contains database schemas for systemic advantage analysis.
 - `docs/` contains framework notes, diagnostic questions, assumptions, and responsible-use guidance.
 - `outputs/` is used for generated figures and tables.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/success-to-the-successful-and-systemic-advantage/python/run_advanced_pandas_workflow.py
+```

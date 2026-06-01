@@ -39,3 +39,15 @@ All datasets are synthetic. They are designed to demonstrate methods and should 
 ## Responsible Use
 
 These materials are for learning, research prototyping, institutional reflection, and reproducible methods demonstration. They should not be used for eligibility decisions, surveillance, automated classification of individuals, risk scoring, employment decisions, policing, or punitive governance.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/stock-flow-thinking-in-social-systems/python/run_advanced_pandas_workflow.py
+```

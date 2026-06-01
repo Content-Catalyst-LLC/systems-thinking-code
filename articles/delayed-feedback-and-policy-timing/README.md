@@ -25,3 +25,15 @@ The repository is designed for systems-thinking education, policy analysis, inst
 ## Article thesis
 
 Policy timing is a systems problem. Delayed feedback can cause institutions to abandon beneficial interventions too early, act too late to prevent harm, overcorrect based on lagging signals, or declare success before long-term costs become visible. Serious systems governance requires leading indicators, stock tracking, implementation monitoring, distributional analysis, and adaptive correction.
+
+<!-- ADVANCED_PANDAS_WORKFLOW -->
+## Optional Advanced pandas Workflow
+
+This article folder includes an optional advanced pandas/matplotlib workflow in `python/run_advanced_pandas_workflow.py`. The default workflows remain dependency-light. To enable advanced outputs, run the repository-level setup script:
+
+```bash
+cd ~/Downloads/systems-thinking-code
+./scripts/setup_advanced_python_env.sh
+. .venv/bin/activate
+python articles/delayed-feedback-and-policy-timing/python/run_advanced_pandas_workflow.py
+```
