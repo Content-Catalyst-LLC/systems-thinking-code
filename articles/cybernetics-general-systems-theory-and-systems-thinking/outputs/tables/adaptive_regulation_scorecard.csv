@@ -1,0 +1,5 @@
+scenario,adaptive_regulation_score,average_regulation_quality,average_learning_capacity,average_accountability_index,average_variety_gap,diagnostic
+Accountable learning system,77.29,100.0,91.782,75.938,0.0,strong adaptive regulation
+Adaptive regulation,72.543,100.0,89.356,61.063,0.0,strong adaptive regulation
+Delayed feedback,62.845,100.0,79.194,36.701,3.13,strong adaptive regulation
+Rigid control,40.373,94.728,44.061,12.668,42.545,adaptive regulation needs redesign

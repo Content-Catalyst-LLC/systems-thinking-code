@@ -1,0 +1,6 @@
+exchange_id,system_domain,input_flow,output_flow,externality_risk,boundary_question,diagnostic
+os001,urban_system,energy_water_materials,waste_heat_emissions,high,what impacts are exported beyond the city boundary,boundary critique required
+os002,ai_platform,user_data_revenue_content,attention_shifts_behavioral_effects,high,who bears consequences of platform feedback,boundary critique required
+os003,hospital_system,patients_staff_supplies,care_outcomes_waste_trust,medium,what social determinants sit outside the hospital boundary,boundary review recommended
+os004,watershed,nutrients_rainfall_land_use,water_quality_flood_risk,high,what upstream flows affect downstream communities,boundary critique required
+os005,organization,labor_knowledge_capital,products_services_harm_benefit,medium,what stakeholder effects are treated as external,boundary review recommended

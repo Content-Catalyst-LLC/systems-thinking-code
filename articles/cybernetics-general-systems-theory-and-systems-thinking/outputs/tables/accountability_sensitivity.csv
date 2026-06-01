@@ -1,0 +1,6 @@
+action_id,action_type,response_speed,control_strength,accountability_requirement,control_risk_score,risk_if_misused,diagnostic
+ca001,automated_threshold_adjustment,fast,0.74,high,94.0,opaque behavioral control,strong accountability required before deployment
+ca002,human_review_escalation,medium,0.52,high,72.0,slow response if under-resourced,strong accountability required before deployment
+ca003,public_disclosure,medium,0.44,high,64.0,visibility without remedy,standard review with transparency
+ca004,local_adaptive_authority,fast,0.6,medium,68.0,fragmentation without coordination,standard review with transparency
+ca005,centralized_command,fast,0.8,high,100.0,rigid control and loss of local knowledge,strong accountability required before deployment

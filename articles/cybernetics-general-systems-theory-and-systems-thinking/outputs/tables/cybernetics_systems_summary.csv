@@ -1,0 +1,5 @@
+"scenario","average_variety_gap","average_regulation_quality","average_accountability_index","average_absolute_error","final_system_state","final_response_variety","final_learning_capacity","final_trust_index","final_regulation_quality","final_accountability_index","diagnostic"
+"Accountable learning system",0,100,75.9384285714286,6.09791836734694,68.746,100,100,100,100,77.5,"accountable adaptive regulation"
+"Adaptive regulation",0,100,61.0632857142857,6.80391836734694,68.135,100,100,100,100,64.3,"accountable adaptive regulation"
+"Delayed feedback",3.13038775510204,100,36.7009795918367,14.2995306122449,61.338,100,100,69.544,100,41.086,"partial regulation with remaining systems risk"
+"Rigid control",42.545306122449,94.7284285714286,12.668387755102,13.8648571428571,55.259,20.583,36.545,0,86.932,9.078,"response variety insufficient for disturbance variety"

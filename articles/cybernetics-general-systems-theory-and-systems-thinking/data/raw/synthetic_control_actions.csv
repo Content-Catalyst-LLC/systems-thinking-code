@@ -1,0 +1,6 @@
+action_id,action_type,response_speed,control_strength,accountability_requirement,risk_if_misused
+ca001,automated_threshold_adjustment,fast,0.74,high,opaque behavioral control
+ca002,human_review_escalation,medium,0.52,high,slow response if under-resourced
+ca003,public_disclosure,medium,0.44,high,visibility without remedy
+ca004,local_adaptive_authority,fast,0.60,medium,fragmentation without coordination
+ca005,centralized_command,fast,0.80,high,rigid control and loss of local knowledge

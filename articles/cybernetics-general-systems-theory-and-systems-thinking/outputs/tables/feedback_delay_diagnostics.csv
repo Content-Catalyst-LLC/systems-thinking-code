@@ -1,0 +1,6 @@
+signal_id,signal_name,delay_periods,noise_level,feedback_reliability_score,affected_decision,diagnostic
+fs001,state_monitoring,3,0.18,62.5,control_action,feedback usable with review
+fs002,public_feedback,6,0.3,36.5,accountability_response,feedback likely too delayed or noisy
+fs003,environmental_feedback,8,0.26,27.5,open_system_exchange,feedback likely too delayed or noisy
+fs004,platform_behavior_signal,2,0.34,55.5,adaptive_regulation,feedback usable with review
+fs005,frontline_operator_signal,1,0.16,75.0,response_variety_adjustment,feedback usable with review

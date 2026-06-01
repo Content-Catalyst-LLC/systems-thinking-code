@@ -1,0 +1,30 @@
+title: "Cybernetics, General Systems Theory, and Systems Thinking"
+slug: "cybernetics-general-systems-theory-and-systems-thinking"
+series: "Systems Thinking"
+repository_path: "articles/cybernetics-general-systems-theory-and-systems-thinking"
+default_python_workflow: "python/run_all_cybernetics_systems_workflows.py"
+default_r_workflow: "r/run_all_cybernetics_systems_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_cybernetics_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - cybernetics
+  - general systems theory
+  - systems thinking
+  - feedback control
+  - requisite variety
+  - open systems
+  - adaptation
+  - accountability
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational control or governance model."

@@ -1,0 +1,5 @@
+"scenario","system_state","observed_state","reference_goal","error_signal","control_action","disturbance_pressure","response_variety","variety_gap","learning_capacity","trust_index","regulation_quality","accountability_index"
+"Accountable learning system",68.746,68.993,70,1.007,6.663,8.58,100,0,100,100,100,77.5
+"Adaptive regulation",68.135,67.728,70,2.272,6.371,8.76,100,0,100,100,100,64.3
+"Delayed feedback",61.338,43.739,70,26.261,19.642,9,100,0,100,69.544,100,41.086
+"Rigid control",55.259,56.749,70,13.251,4.751,9.36,20.583,50.812,36.545,0,86.932,9.078

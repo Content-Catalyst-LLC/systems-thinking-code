@@ -1,0 +1,1 @@
+adaptive_regulation_score=59.84

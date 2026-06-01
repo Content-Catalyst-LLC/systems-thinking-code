@@ -1,0 +1,5 @@
+scenario,initial_state,reference_goal,disturbance_variety,response_variety,feedback_quality,feedback_delay,control_strength,adaptation_rate,openness,accountability_quality,trust_level
+Rigid control,46,70,0.72,0.34,0.34,8,0.46,0.18,0.48,0.22,0.42
+Delayed feedback,46,70,0.66,0.46,0.42,10,0.62,0.26,0.54,0.34,0.46
+Adaptive regulation,46,70,0.62,0.62,0.66,4,0.48,0.62,0.58,0.58,0.58
+Accountable learning system,46,70,0.58,0.70,0.78,3,0.42,0.78,0.64,0.82,0.66

@@ -1,0 +1,6 @@
+domain,disturbance_variety,response_variety,variety_gap,gap_class,diagnostic
+public_health,0.82,0.68,0.14,moderate variety gap,response capacity needs stronger community and clinical variety
+ai_platform_governance,0.88,0.52,0.36,high variety gap,response variety insufficient for harm variety
+infrastructure_operations,0.7,0.74,-0.04,contained variety gap,response variety comparatively adequate
+climate_adaptation,0.92,0.6,0.32,high variety gap,response variety gap requires distributed adaptation capacity
+organizational_learning,0.66,0.58,0.08,contained variety gap,moderate response variety gap
