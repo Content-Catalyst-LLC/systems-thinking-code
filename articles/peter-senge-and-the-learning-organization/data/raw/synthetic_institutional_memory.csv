@@ -1,0 +1,6 @@
+memory_id,memory_asset,baseline_quality,target_quality,loss_risk,notes
+m001,after_action_reviews,42,78,medium,quality of structured reflection after projects
+m002,knowledge_base,50,82,medium,usability and updating of internal knowledge
+m003,mentorship_pathways,38,74,high,transmission of tacit knowledge
+m004,decision_logs,34,80,high,traceability of why choices were made
+m005,community_feedback_archive,30,76,high,preservation of external lived experience and commitments

@@ -1,0 +1,6 @@
+event_id,period,event_type,team_learning_score,cumulative_decision_revision_signal,notes
+f001,3,frontline_signal,43.12,0.3,staff identify recurring bottleneck
+f002,8,after_action_review,57.48,0.78,team reflects on implementation failure
+f003,14,community_feedback,59.52,1.3,external users describe service harm
+f004,24,cross_functional_dialogue,69.92,1.94,silos examine shared system pattern
+f005,36,policy_revision,76.36,2.68,decision rules are changed after learning cycle

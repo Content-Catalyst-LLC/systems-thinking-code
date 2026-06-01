@@ -1,0 +1,5 @@
+scenario,feedback_quality,psychological_safety,mental_model_inquiry,shared_vision_strength,team_learning_quality,systems_thinking_practice,leadership_support,performance_pressure,blame_tendency,turnover_pressure
+Compliance culture,0.34,0.30,0.24,0.36,0.28,0.22,0.34,0.68,0.58,0.42
+Defensive performance culture,0.48,0.24,0.30,0.42,0.34,0.32,0.42,0.86,0.76,0.54
+Adaptive improvement culture,0.66,0.60,0.58,0.62,0.64,0.58,0.66,0.50,0.34,0.30
+Learning organization pathway,0.78,0.78,0.76,0.80,0.82,0.84,0.82,0.42,0.20,0.22

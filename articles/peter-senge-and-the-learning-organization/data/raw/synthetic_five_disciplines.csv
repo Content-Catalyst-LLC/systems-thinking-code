@@ -1,0 +1,6 @@
+discipline_id,discipline_name,baseline_score,target_score,diagnostic_question
+d001,personal_mastery,44,76,are people developing capacity toward meaningful purpose
+d002,mental_models,38,78,can assumptions be surfaced tested and revised
+d003,shared_vision,42,80,is purpose genuinely shared and structurally supported
+d004,team_learning,36,82,can teams think across boundaries and learn from disagreement
+d005,systems_thinking,34,84,can the organization see feedback structure and recurring patterns

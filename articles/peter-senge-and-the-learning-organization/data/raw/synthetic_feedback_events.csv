@@ -1,0 +1,6 @@
+event_id,period,event_type,feedback_quality,psychological_safety,decision_revision,notes
+f001,3,frontline_signal,0.52,0.44,0.30,staff identify recurring bottleneck
+f002,8,after_action_review,0.64,0.58,0.48,team reflects on implementation failure
+f003,14,community_feedback,0.70,0.54,0.52,external users describe service harm
+f004,24,cross_functional_dialogue,0.76,0.68,0.64,silos examine shared system pattern
+f005,36,policy_revision,0.82,0.72,0.74,decision rules are changed after learning cycle

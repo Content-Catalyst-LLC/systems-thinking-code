@@ -1,0 +1,30 @@
+title: "Peter Senge and the Learning Organization"
+slug: "peter-senge-and-the-learning-organization"
+series: "Systems Thinking"
+repository_path: "articles/peter-senge-and-the-learning-organization"
+default_python_workflow: "python/run_all_senge_learning_organization_workflows.py"
+default_r_workflow: "r/run_all_senge_learning_organization_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_senge_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - Peter Senge
+  - learning organization
+  - systems thinking
+  - mental models
+  - shared vision
+  - team learning
+  - defensive routines
+  - institutional memory
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational HR or organizational assessment tool."

@@ -1,0 +1,6 @@
+routine_id,routine_type,intensity,learning_risk,suppression_score,possible_countermeasure
+dr001,blame_shift,0.64,high,64.0,leader models shared accountability and root-cause inquiry
+dr002,bad_news_filtering,0.58,high,58.0,protected escalation channels and psychological safety practices
+dr003,metric_theater,0.52,medium,52.0,link metrics to lived evidence and decision revision
+dr004,silo_defense,0.6,high,60.0,cross-boundary problem ownership and shared system maps
+dr005,shallow_agreement,0.46,medium,46.0,dialogue protocols that surface assumptions and dissent

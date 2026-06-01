@@ -1,0 +1,6 @@
+discipline_id,discipline_name,baseline_score,target_score,development_gap,priority_class,diagnostic_question
+d001,personal_mastery,44.0,76.0,32.0,moderate priority,are people developing capacity toward meaningful purpose
+d002,mental_models,38.0,78.0,40.0,high priority,can assumptions be surfaced tested and revised
+d003,shared_vision,42.0,80.0,38.0,high priority,is purpose genuinely shared and structurally supported
+d004,team_learning,36.0,82.0,46.0,high priority,can teams think across boundaries and learn from disagreement
+d005,systems_thinking,34.0,84.0,50.0,high priority,can the organization see feedback structure and recurring patterns
