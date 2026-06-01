@@ -1,0 +1,5 @@
+"scenario","average_burden","average_trust","average_outcome","average_risk","average_equity_gap","burden_trust_warning"
+"Baseline / current structure",77.7945483870968,18.6963870967742,15.309,58.2883870967742,26.2379032258065,"Burden is high and trust is weak; redesign access, feedback, and implementation capacity."
+"Capacity-building intervention",70.4756774193548,26.5774516129032,25.0274516129032,52.6177419354839,21.1682903225806,"Burden is high and trust is weak; redesign access, feedback, and implementation capacity."
+"Pressure-only intervention",78.639064516129,17.163064516129,15.2715806451613,58.9323548387097,26.8136129032258,"Burden is high and trust is weak; redesign access, feedback, and implementation capacity."
+"Structural redesign",60.1826774193548,38.1422903225806,33.7435806451613,46.3367096774194,17.16,"Burden is high and trust is weak; redesign access, feedback, and implementation capacity."

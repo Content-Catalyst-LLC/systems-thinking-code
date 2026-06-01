@@ -1,0 +1,4 @@
+article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
+overshoot-collapse-and-correction,Capacity-building intervention vs baseline,13.542,-4.319,0.213,26.839,Useful intervention: improves outcomes without increasing modeled risk.
+overshoot-collapse-and-correction,Pressure-only intervention vs baseline,0.0,0.352,0.0,-5.431,Low or uncertain leverage: intervention does not clearly improve system behavior.
+overshoot-collapse-and-correction,Structural redesign vs baseline,37.141,-21.823,34.984,47.98,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."

@@ -1,0 +1,2 @@
+matplotlib was not available, so figures were not generated.
+No module named 'matplotlib'

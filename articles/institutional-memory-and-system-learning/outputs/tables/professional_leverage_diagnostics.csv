@@ -1,0 +1,4 @@
+article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
+institutional-memory-and-system-learning,Capacity-building intervention vs baseline,16.424,-7.436,3.775,29.791,Useful intervention: improves outcomes without increasing modeled risk.
+institutional-memory-and-system-learning,Pressure-only intervention vs baseline,0.0,0.416,0.0,-5.944,Low or uncertain leverage: intervention does not clearly improve system behavior.
+institutional-memory-and-system-learning,Structural redesign vs baseline,43.553,-28.228,43.821,53.162,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."

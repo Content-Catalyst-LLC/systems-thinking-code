@@ -1,0 +1,5 @@
+article_slug,check,status,detail
+causal-loop-diagrams-and-the-logic-of-interaction,scenario_count,pass,Observed 4; expected 4.
+causal-loop-diagrams-and-the-logic-of-interaction,year_count_per_scenario,pass,"{""Baseline / current structure"": 31, ""Capacity-building intervention"": 31, ""Pressure-only intervention"": 31, ""Structural redesign"": 31}"
+causal-loop-diagrams-and-the-logic-of-interaction,bounded_indices,pass,All modeled indices are within expected range.
+causal-loop-diagrams-and-the-logic-of-interaction,redesign_outcome_not_worse_than_baseline,pass,Baseline final outcome=0.0; redesign final outcome=51.992.

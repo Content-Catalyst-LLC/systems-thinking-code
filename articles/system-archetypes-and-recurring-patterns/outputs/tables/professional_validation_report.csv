@@ -1,0 +1,5 @@
+article_slug,check,status,detail
+system-archetypes-and-recurring-patterns,scenario_count,pass,Observed 4; expected 4.
+system-archetypes-and-recurring-patterns,year_count_per_scenario,pass,"{""Baseline / current structure"": 31, ""Capacity-building intervention"": 31, ""Pressure-only intervention"": 31, ""Structural redesign"": 31}"
+system-archetypes-and-recurring-patterns,bounded_indices,pass,All modeled indices are within expected range.
+system-archetypes-and-recurring-patterns,redesign_outcome_not_worse_than_baseline,pass,Baseline final outcome=0.0; redesign final outcome=46.936.

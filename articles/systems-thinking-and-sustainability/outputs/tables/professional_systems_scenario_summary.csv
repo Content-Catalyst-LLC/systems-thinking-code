@@ -1,0 +1,5 @@
+"article_slug","scenario","final_outcome_index","final_risk_index","final_capacity_index","final_trust_index","final_memory_index","final_stock_index","average_burden_index","average_feedback_closure","years_risk_above_70","years_stock_below_50","professional_diagnostic"
+"systems-thinking-and-sustainability","Baseline / current structure",0,76.925,5.943,0,26.484,0,77.7920322580645,0.19258064516129,9,28,"High-risk trajectory requiring structural redesign"
+"systems-thinking-and-sustainability","Capacity-building intervention",19.291,69.265,48.524,11.459,55.075,0,68.7486774193548,0.410645161290323,0,28,"Weak or uncertain trajectory"
+"systems-thinking-and-sustainability","Pressure-only intervention",0,77.398,0.978,0,20.77,0,78.7839032258065,0.159032258064516,10,28,"High-risk trajectory requiring structural redesign"
+"systems-thinking-and-sustainability","Structural redesign",44.888,49.626,76.918,48.859,77.326,0,57.3229032258064,0.595161290322581,0,28,"Weak or uncertain trajectory"

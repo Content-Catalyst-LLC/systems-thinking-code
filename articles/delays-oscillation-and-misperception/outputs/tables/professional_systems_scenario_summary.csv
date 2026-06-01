@@ -1,0 +1,5 @@
+"article_slug","scenario","final_outcome_index","final_risk_index","final_capacity_index","final_trust_index","final_memory_index","final_stock_index","average_burden_index","average_feedback_closure","years_risk_above_70","years_stock_below_50","professional_diagnostic"
+"delays-oscillation-and-misperception","Baseline / current structure",0,76.42,0.266,0,24.642,0,77.7945483870968,0.187096774193548,10,28,"High-risk trajectory requiring structural redesign"
+"delays-oscillation-and-misperception","Capacity-building intervention",13.542,72.101,39.742,0.213,51.481,0,70.4756774193548,0.396774193548387,2,28,"High-risk trajectory requiring structural redesign"
+"delays-oscillation-and-misperception","Pressure-only intervention",0,76.772,0,0,19.211,0,78.639064516129,0.154838709677419,10,28,"High-risk trajectory requiring structural redesign"
+"delays-oscillation-and-misperception","Structural redesign",37.141,54.597,66.421,34.984,72.622,0,60.1826774193548,0.574193548387097,0,28,"Weak or uncertain trajectory"

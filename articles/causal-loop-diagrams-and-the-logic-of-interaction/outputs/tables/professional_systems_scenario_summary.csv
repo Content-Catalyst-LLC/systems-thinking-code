@@ -1,0 +1,5 @@
+"article_slug","scenario","final_outcome_index","final_risk_index","final_capacity_index","final_trust_index","final_memory_index","final_stock_index","average_burden_index","average_feedback_closure","years_risk_above_70","years_stock_below_50","professional_diagnostic"
+"causal-loop-diagrams-and-the-logic-of-interaction","Baseline / current structure",0,75.656,7.365,0,28.667,0,75.8213548387097,0.198064516129032,8,28,"High-risk trajectory requiring structural redesign"
+"causal-loop-diagrams-and-the-logic-of-interaction","Capacity-building intervention",24.791,62.354,53.613,18.691,59.281,0,63.6672903225806,0.424516129032258,0,28,"Weak or uncertain trajectory"
+"causal-loop-diagrams-and-the-logic-of-interaction","Pressure-only intervention",0,76.153,1.962,0,22.629,0,77.1174838709677,0.163225806451613,9,28,"High-risk trajectory requiring structural redesign"
+"causal-loop-diagrams-and-the-logic-of-interaction","Structural redesign",51.992,41.41,83.754,58.751,82.654,0,51.1378064516129,0.616129032258064,0,28,"Weak or uncertain trajectory"

@@ -1,0 +1,4 @@
+article_slug,comparison,outcome_delta,risk_delta,trust_delta,memory_delta,professional_interpretation
+system-boundaries-and-problem-framing,Capacity-building intervention vs baseline,19.735,-9.735,10.771,30.17,Useful intervention: improves outcomes without increasing modeled risk.
+system-boundaries-and-problem-framing,Pressure-only intervention vs baseline,0.0,0.457,0.0,-5.977,Low or uncertain leverage: intervention does not clearly improve system behavior.
+system-boundaries-and-problem-framing,Structural redesign vs baseline,46.936,-30.677,50.831,53.543,"High-leverage redesign: improves outcomes, lowers risk, and strengthens trust."

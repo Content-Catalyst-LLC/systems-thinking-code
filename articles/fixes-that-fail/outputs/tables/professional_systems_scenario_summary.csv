@@ -1,0 +1,5 @@
+"article_slug","scenario","final_outcome_index","final_risk_index","final_capacity_index","final_trust_index","final_memory_index","final_stock_index","average_burden_index","average_feedback_closure","years_risk_above_70","years_stock_below_50","professional_diagnostic"
+"fixes-that-fail","Baseline / current structure",0,76.539,3.707,0,24.003,0,77.4275161290323,0.198064516129032,9,28,"High-risk trajectory requiring structural redesign"
+"fixes-that-fail","Capacity-building intervention",19.735,66.804,49.055,10.771,54.173,0,66.7094838709677,0.424516129032258,0,28,"Weak or uncertain trajectory"
+"fixes-that-fail","Pressure-only intervention",0,76.996,0,0,18.026,0,78.5717741935484,0.163225806451613,10,28,"High-risk trajectory requiring structural redesign"
+"fixes-that-fail","Structural redesign",46.936,45.862,79.196,50.831,77.546,0,54.1797419354839,0.616129032258064,0,28,"Weak or uncertain trajectory"

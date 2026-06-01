@@ -1,0 +1,5 @@
+"article_slug","scenario","final_outcome_index","final_risk_index","final_capacity_index","final_trust_index","final_memory_index","final_stock_index","average_burden_index","average_feedback_closure","years_risk_above_70","years_stock_below_50","professional_diagnostic"
+"dynamic-complexity-and-policy-resistance","Baseline / current structure",0,77.558,2.043,0,24.553,0,79.2636129032258,0.198064516129032,10,28,"High-risk trajectory requiring structural redesign"
+"dynamic-complexity-and-policy-resistance","Capacity-building intervention",16.424,70.122,46.621,3.775,54.344,0,70.1544193548387,0.424516129032258,1,28,"High-risk trajectory requiring structural redesign"
+"dynamic-complexity-and-policy-resistance","Pressure-only intervention",0,77.974,0,0,18.609,0,80.2597096774194,0.163225806451613,11,28,"High-risk trajectory requiring structural redesign"
+"dynamic-complexity-and-policy-resistance","Structural redesign",43.553,49.33,76.756,43.821,77.715,0,57.6400322580645,0.616129032258064,0,28,"Weak or uncertain trajectory"
