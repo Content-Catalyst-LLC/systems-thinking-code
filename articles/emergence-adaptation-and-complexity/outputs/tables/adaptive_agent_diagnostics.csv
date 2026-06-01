@@ -1,0 +1,5 @@
+scenario,early_mean_complexity,late_mean_complexity,late_mean_diversity,late_mean_synchronization
+Adaptive diversity,0.573,0.4574,0.131,0.869
+Guided resilient adaptation,0.5845,0.455,0.126,0.874
+Strong local conformity,0.6122,0.3858,0.043,0.957
+Weak interaction baseline,0.6439,0.4526,0.1263,0.8737

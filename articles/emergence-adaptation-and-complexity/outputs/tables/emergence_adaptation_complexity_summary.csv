@@ -1,0 +1,5 @@
+"scenario","average_complexity_index","peak_complexity_index","average_diversity_index","average_synchronization_index","diagnostic"
+"Adaptive diversity",0.482847540983607,0.7174,0.172895081967213,0.827104918032787,"adaptive complex pattern"
+"Guided resilient adaptation",0.472054098360656,0.7595,0.160645901639344,0.839354098360656,"adaptive complex pattern"
+"Strong local conformity",0.438877049180328,0.759,0.11576393442623,0.88423606557377,"over-synchronized fragile pattern"
+"Weak interaction baseline",0.488255737704918,0.7538,0.186303278688525,0.813696721311475,"adaptive complex pattern"

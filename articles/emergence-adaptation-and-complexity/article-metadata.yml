@@ -1,0 +1,13 @@
+title: "Emergence, Adaptation, and Complexity"
+slug: "emergence-adaptation-and-complexity"
+series: "Systems Thinking"
+repository_folder: "articles/emergence-adaptation-and-complexity"
+default_python_workflows: "standard-library only"
+default_r_workflows: "base R only"
+advanced_optional_dependencies:
+  - pandas
+  - matplotlib
+  - openpyxl
+outputs:
+  tables: "outputs/tables"
+  figures: "outputs/figures"

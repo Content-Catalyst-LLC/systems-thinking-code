@@ -1,0 +1,5 @@
+"scenario","final_complexity_index","final_clustering_index","final_diversity_index","final_synchronization_index","final_system_mean"
+"Weak interaction baseline",0.452,0.9512,0.1254,0.8746,0.5356
+"Strong local conformity",0.3897,0.986,0.0469,0.9531,0.5396
+"Adaptive diversity",0.4634,0.9464,0.1391,0.8609,0.5438
+"Guided resilient adaptation",0.4451,0.9603,0.1147,0.8853,0.5623

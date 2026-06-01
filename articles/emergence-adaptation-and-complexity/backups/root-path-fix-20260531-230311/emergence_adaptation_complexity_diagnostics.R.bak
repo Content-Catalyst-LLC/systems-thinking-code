@@ -1,0 +1,94 @@
+# Base R complexity systems workflow.
+# Purpose: summarize emergence/adaptation scenarios and visualize complexity indicators.
+
+root_dir <- normalizePath(file.path(getwd()), mustWork = TRUE)
+tables_dir <- file.path(root_dir, "outputs", "tables")
+figures_dir <- file.path(root_dir, "outputs", "figures")
+
+if (!dir.exists(figures_dir)) {
+  dir.create(figures_dir, recursive = TRUE)
+}
+
+timeseries_path <- file.path(tables_dir, "emergence_adaptation_complexity_timeseries.csv")
+summary_path <- file.path(tables_dir, "emergence_adaptation_complexity_summary.csv")
+
+if (!file.exists(timeseries_path)) {
+  stop("Missing emergence_adaptation_complexity_timeseries.csv. Run the Python workflow first.")
+}
+
+complexity <- read.csv(timeseries_path, stringsAsFactors = FALSE)
+
+avg_complexity <- aggregate(complexity_index ~ scenario, data = complexity, FUN = mean)
+peak_complexity <- aggregate(complexity_index ~ scenario, data = complexity, FUN = max)
+avg_diversity <- aggregate(diversity_index ~ scenario, data = complexity, FUN = mean)
+avg_synchronization <- aggregate(synchronization_index ~ scenario, data = complexity, FUN = mean)
+
+names(avg_complexity)[2] <- "average_complexity_index"
+names(peak_complexity)[2] <- "peak_complexity_index"
+names(avg_diversity)[2] <- "average_diversity_index"
+names(avg_synchronization)[2] <- "average_synchronization_index"
+
+diagnostics <- Reduce(
+  function(x, y) merge(x, y, by = "scenario"),
+  list(avg_complexity, peak_complexity, avg_diversity, avg_synchronization)
+)
+
+diagnostics$diagnostic <- ifelse(
+  diagnostics$average_synchronization_index >= 0.85,
+  "over-synchronized fragile pattern",
+  ifelse(
+    diagnostics$average_diversity_index >= 0.85,
+    "high volatility and weak coherence",
+    "adaptive complex pattern"
+  )
+)
+
+write.csv(diagnostics, summary_path, row.names = FALSE)
+print(diagnostics)
+
+plot_metric <- function(metric, y_label, title, output_name) {
+  png(file.path(figures_dir, output_name), width = 1200, height = 700)
+  scenarios <- unique(complexity$scenario)
+  plot(
+    NA,
+    xlim = range(complexity$period),
+    ylim = range(complexity[[metric]], na.rm = TRUE),
+    xlab = "Period",
+    ylab = y_label,
+    main = title
+  )
+  for (scenario_name in scenarios) {
+    subset_data <- complexity[complexity$scenario == scenario_name, ]
+    lines(subset_data$period, subset_data[[metric]], lwd = 2)
+  }
+  legend("topright", legend = scenarios, lwd = 2, cex = 0.8, bty = "n")
+  grid()
+  dev.off()
+}
+
+plot_metric("complexity_index", "Complexity index", "Complexity Trajectories by Scenario", "complexity_index_trajectories.png")
+plot_metric("clustering_index", "Clustering index", "Emergent Clustering by Scenario", "clustering_index_trajectories.png")
+plot_metric("diversity_index", "Diversity index", "Diversity Trajectories by Scenario", "diversity_index_trajectories.png")
+plot_metric("synchronization_index", "Synchronization index", "Synchronization Trajectories by Scenario", "synchronization_index_trajectories.png")
+plot_metric("system_mean", "System mean state", "System Mean State by Scenario", "system_mean_trajectories.png")
+
+pattern_table <- data.frame()
+for (scenario_name in unique(complexity$scenario)) {
+  subset_data <- complexity[complexity$scenario == scenario_name, ]
+  final_row <- subset_data[nrow(subset_data), ]
+
+  pattern_table <- rbind(
+    pattern_table,
+    data.frame(
+      scenario = scenario_name,
+      final_complexity_index = final_row$complexity_index,
+      final_clustering_index = final_row$clustering_index,
+      final_diversity_index = final_row$diversity_index,
+      final_synchronization_index = final_row$synchronization_index,
+      final_system_mean = final_row$system_mean
+    )
+  )
+}
+
+write.csv(pattern_table, file.path(tables_dir, "emergence_pattern_diagnostics.csv"), row.names = FALSE)
+print(pattern_table)

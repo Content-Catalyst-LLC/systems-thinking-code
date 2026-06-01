@@ -1,0 +1,8 @@
+field,description
+period,Simulation period
+scenario,Scenario label
+system_mean,Mean agent state
+clustering_index,Local similarity / clustering proxy
+diversity_index,Variation across agent states
+synchronization_index,Convergence / sameness proxy
+complexity_index,Composite indicator balancing clustering, diversity, and synchronization

@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+"""Run all dependency-light Python workflows for the complexity article."""
+
+from __future__ import annotations
+
+import os
+import subprocess
+import sys
+
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+SCRIPTS = [
+    "emergence_adaptation_complexity_model.py",
+    "validation_checks.py",
+    "adaptive_agent_scenarios.py",
+    "shock_response_model.py",
+]
+
+
+def main() -> None:
+    for script in SCRIPTS:
+        script_path = os.path.join(ROOT, "python", script)
+        print(f"\n=== Running {script} ===")
+        subprocess.run([sys.executable, script_path], cwd=ROOT, check=True)
+    print("\nAll dependency-light Python complexity workflows completed.")
+
+
+if __name__ == "__main__":
+    main()

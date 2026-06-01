@@ -1,0 +1,8 @@
+# Safe base R runner. Run from the article root.
+root_dir <- normalizePath(getwd(), mustWork = TRUE)
+expected <- file.path(root_dir, "r", "emergence_adaptation_complexity_diagnostics.R")
+if (!file.exists(expected)) {
+  stop("Run this script from the article root: articles/emergence-adaptation-and-complexity")
+}
+source(expected, chdir = TRUE)
+cat("\nAll base R complexity workflows completed.\n")

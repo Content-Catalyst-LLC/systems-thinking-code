@@ -1,0 +1,5 @@
+scenario,complexity_before_shock_window,complexity_after_shock_window,final_complexity_index,final_system_mean
+Adaptive diversity,0.4632,0.4665,0.4634,0.5438
+Guided resilient adaptation,0.4497,0.4471,0.4451,0.5623
+Strong local conformity,0.3954,0.396,0.3897,0.5396
+Weak interaction baseline,0.4579,0.4583,0.452,0.5356
