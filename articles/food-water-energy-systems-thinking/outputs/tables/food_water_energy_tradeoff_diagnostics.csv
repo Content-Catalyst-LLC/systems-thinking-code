@@ -1,0 +1,5 @@
+"scenario","final_groundwater_stock","final_food_production_index","final_water_security_index","final_energy_security_index","final_nexus_stress_index","final_resilience_index"
+"Baseline depletion",0,37.967,0,65.035,61.883,21.171
+"Drought stress",0,29.939,0,64.302,66.278,16.674
+"Efficiency only",261.076,53.773,26.108,83.488,45.218,48.057
+"Regenerative resilience",743.2,84.844,74.32,100,16.611,95.053

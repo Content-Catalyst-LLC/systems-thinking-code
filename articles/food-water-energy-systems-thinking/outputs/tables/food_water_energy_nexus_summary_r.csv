@@ -1,0 +1,5 @@
+"scenario","groundwater_stock","food_production_index","water_security_index","energy_security_index","soil_health","average_nexus_stress_index","average_resilience_index","diagnostic"
+"Baseline depletion",0,37.967,0,65.035,24.536,43.2736129032258,50.0132258064516,"moderate stress requiring redesign"
+"Drought stress",0,29.939,0,64.302,11.516,54.4108064516129,35.3957741935484,"moderate stress requiring redesign"
+"Efficiency only",261.076,53.773,26.108,83.488,48.536,32.4890967741935,67.4507419354839,"comparatively resilient pathway"
+"Regenerative resilience",743.2,84.844,74.32,100,100,14.9038064516129,96.6929032258064,"comparatively resilient pathway"
