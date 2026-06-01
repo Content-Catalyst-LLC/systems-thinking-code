@@ -1,0 +1,5 @@
+scenario,initial_resource_stock,initial_trust_stock,consumption_pressure,regeneration_capacity,feedback_delay,information_quality,rule_change_strength,goal_alignment,paradigm_shift_capacity,self_organization_capacity,equity_alignment
+Growth with weak feedback,82,52,0.88,0.34,10,0.28,0.22,0.20,0.14,0.24,0.24
+Delayed correction,82,52,0.78,0.42,8,0.46,0.34,0.32,0.22,0.34,0.36
+Technical efficiency,82,56,0.62,0.50,5,0.64,0.44,0.40,0.26,0.42,0.44
+Structural leverage,82,60,0.52,0.62,3,0.78,0.74,0.80,0.76,0.72,0.78

@@ -1,0 +1,1 @@
+resilience_score=71.8

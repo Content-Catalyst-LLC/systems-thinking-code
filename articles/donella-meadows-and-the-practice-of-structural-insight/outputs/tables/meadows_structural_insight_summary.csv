@@ -1,0 +1,5 @@
+"scenario","average_resource_stock","minimum_resource_stock","average_overshoot_index","average_structural_insight_score","final_resource_stock","final_trust_stock","final_resilience_capacity","final_leverage_quality","final_structural_insight_score","diagnostic"
+"Delayed correction",97.357393442623,82.286,1.85440983606557,61.9720655737705,100,100,100,32.84,70.766,"structural leverage pathway"
+"Growth with weak feedback",82.8629180327869,64.833,8.54118032786885,51.3317213114754,100,100,100,21.04,64.996,"partial improvement with remaining structural risk"
+"Structural leverage",99.7575901639344,89.006,0.497967213114754,85.6574918032787,100,100,100,76.2,89.708,"structural leverage pathway"
+"Technical efficiency",99.254868852459,84.776,0.880459016393442,68.0863770491803,100,100,100,42.08,74.707,"structural leverage pathway"

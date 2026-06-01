@@ -1,0 +1,6 @@
+delay_id,delay_type,delay_periods,affected_stock_or_flow,risk_if_ignored
+d001,ecological_feedback_delay,10,resource_stock,overshoot becomes visible too late
+d002,public_trust_delay,12,trust_stock,communication improves before trust recovers
+d003,institutional_learning_delay,8,institutional_learning_stock,repeated mistakes continue before governance adapts
+d004,policy_implementation_delay,6,corrective_response,intervention arrives after system condition changes
+d005,regeneration_delay,14,regeneration_flow,restoration benefits lag behind extraction pressure

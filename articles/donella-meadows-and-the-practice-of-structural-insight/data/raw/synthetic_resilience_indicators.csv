@@ -1,0 +1,6 @@
+indicator_id,indicator_name,domain,baseline_score,target_score,notes
+ri001,resource_buffer_depth,ecological,42,72,depth of regenerative stock and buffer capacity
+ri002,feedback_visibility,governance,38,80,quality and accessibility of system signals
+ri003,rule_alignment,institutional,35,75,whether rules reward long-term stewardship
+ri004,community_self_organization,social,46,78,capacity of affected communities to organize and adapt
+ri005,equity_repair_capacity,justice,32,76,ability to repair unequal burdens and historical harm

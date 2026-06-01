@@ -1,0 +1,5 @@
+scenario,final_structural_insight_score,average_structural_insight_score,final_resource_stock,final_trust_stock,final_resilience_capacity,score_class
+Delayed correction,70.766,61.972,100.0,100.0,100.0,strong structural insight
+Growth with weak feedback,64.996,51.332,100.0,100.0,100.0,partial structural insight
+Structural leverage,89.708,85.657,100.0,100.0,100.0,strong structural insight
+Technical efficiency,74.707,68.086,100.0,100.0,100.0,strong structural insight

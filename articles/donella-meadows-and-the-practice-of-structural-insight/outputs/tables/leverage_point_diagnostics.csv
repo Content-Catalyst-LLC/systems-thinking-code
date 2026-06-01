@@ -1,0 +1,8 @@
+leverage_id,leverage_name,leverage_level,relative_depth,example_intervention,diagnostic_question,structural_depth_class
+l001,parameters,low,2,adjust budget targets penalties rates or standards,does the change alter symptoms or structure,low leverage
+l002,buffers,low_to_medium,3,increase reserves redundancy or ecological buffers,does the stock provide real resilience,low leverage
+l003,information_flows,medium,5,make hidden consequences visible to actors with power,who sees what and can they act,medium leverage
+l004,rules,high,7,change incentives rights accountability ownership and access,what behavior is rewarded or blocked,medium leverage
+l005,self_organization,high,8,enable communities and institutions to create new structures,who has capacity to adapt and organize,deep leverage
+l006,goals,very_high,10,shift system purpose from extraction to wellbeing,what is the system actually trying to do,deep leverage
+l007,paradigms,deepest,12,change the worldview from which the system arises,what assumptions make the system seem normal,deep leverage

@@ -1,0 +1,6 @@
+indicator_id,indicator_name,domain,baseline_score,target_score,resilience_gap,priority_class,notes
+ri001,resource_buffer_depth,ecological,42.0,72.0,30.0,moderate priority,depth of regenerative stock and buffer capacity
+ri002,feedback_visibility,governance,38.0,80.0,42.0,high priority,quality and accessibility of system signals
+ri003,rule_alignment,institutional,35.0,75.0,40.0,high priority,whether rules reward long-term stewardship
+ri004,community_self_organization,social,46.0,78.0,32.0,moderate priority,capacity of affected communities to organize and adapt
+ri005,equity_repair_capacity,justice,32.0,76.0,44.0,high priority,ability to repair unequal burdens and historical harm

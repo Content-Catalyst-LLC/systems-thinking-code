@@ -1,0 +1,6 @@
+loop_id,loop_name,loop_type,description,leverage_focus
+R1,growth_overshoot_loop,reinforcing,consumption growth increases pressure on resource stocks while delayed limits remain hidden,goals and paradigms
+B1,regeneration_balance_loop,balancing,scarcity signals trigger conservation repair and regeneration,response delay and information quality
+R2,trust_learning_loop,reinforcing,transparent feedback and repair build trust which improves cooperation and learning,information flows and institutions
+R3,extraction_privilege_loop,reinforcing,benefits concentrate while ecological and social costs are displaced to weaker communities,rules equity and accountability
+B2,resilience_buffer_loop,balancing,buffers redundancy and regeneration absorb disturbance before collapse,stocks buffers and regenerative capacity

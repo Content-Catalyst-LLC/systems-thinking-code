@@ -1,0 +1,30 @@
+title: "Donella Meadows and the Practice of Structural Insight"
+slug: "donella-meadows-and-the-practice-of-structural-insight"
+series: "Systems Thinking"
+repository_path: "articles/donella-meadows-and-the-practice-of-structural-insight"
+default_python_workflow: "python/run_all_meadows_structural_insight_workflows.py"
+default_r_workflow: "r/run_all_meadows_structural_insight_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_meadows_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - Donella Meadows
+  - structural insight
+  - leverage points
+  - overshoot
+  - limits to growth
+  - resilience
+  - sustainability
+  - systems ethics
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational sustainability model."

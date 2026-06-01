@@ -1,0 +1,5 @@
+scenario,average_resource_perception_gap,peak_overshoot_index,minimum_resource_stock,diagnostic
+Delayed correction,2.656,6.3,82.286,overshoot risk comparatively contained
+Growth with weak feedback,9.167,15.694,64.833,overshoot risk comparatively contained
+Structural leverage,1.18,6.3,89.006,overshoot risk comparatively contained
+Technical efficiency,1.77,6.3,84.776,overshoot risk comparatively contained

@@ -1,0 +1,5 @@
+"scenario","resource_stock","perceived_resource_stock","consumption_flow","regeneration_flow","overshoot_index","leverage_quality","trust_stock","institutional_learning_stock","resilience_capacity","structural_insight_score"
+"Delayed correction",100,100,4.665,8.392,0,32.84,100,100,100,70.766
+"Growth with weak feedback",100,100,6.027,7.64,0,21.04,100,97.464,100,64.996
+"Structural leverage",100,100,0.304,10.586,0,76.2,100,100,100,89.708
+"Technical efficiency",100,100,2.948,9.072,0,42.08,100,100,100,74.707

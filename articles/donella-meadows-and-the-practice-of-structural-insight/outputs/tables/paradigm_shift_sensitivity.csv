@@ -1,0 +1,5 @@
+scenario,average_leverage_quality,average_structural_insight_score,average_overshoot_index,diagnostic
+Delayed correction,32.84,61.972,1.854,leverage remains too shallow
+Growth with weak feedback,21.04,51.332,8.541,leverage remains too shallow
+Structural leverage,76.2,85.657,0.498,deep leverage signal
+Technical efficiency,42.08,68.086,0.88,leverage remains too shallow
