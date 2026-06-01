@@ -1,0 +1,30 @@
+title: "Intelligent Infrastructure as a System"
+slug: "intelligent-infrastructure-as-a-system"
+series: "Systems Thinking"
+repository_path: "articles/intelligent-infrastructure-as-a-system"
+default_python_workflow: "python/run_all_intelligent_infrastructure_workflows.py"
+default_r_workflow: "r/run_all_intelligent_infrastructure_workflows.R"
+advanced_python_workflow: "python/advanced_pandas_infrastructure_dashboard.py"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - go
+  - rust
+  - c
+  - cpp
+  - fortran
+themes:
+  - intelligent infrastructure
+  - cyber-physical systems
+  - predictive maintenance
+  - digital twins
+  - infrastructure resilience
+  - climate adaptation
+  - cybersecurity
+  - equity and public accountability
+notes:
+  - "Default workflows are dependency-light."
+  - "Advanced workflow uses pandas, matplotlib, and openpyxl when installed."
+  - "Synthetic data only; not an operational risk model."

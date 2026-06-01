@@ -1,33 +1,5 @@
-scenario,category,average_cyber_physical_dependency,average_risk_score,dependency_warning
-Accountable resilient infrastructure,digital,37.66,23.832,contained
-Accountable resilient infrastructure,environmental,15.66,18.754,contained
-Accountable resilient infrastructure,power,28.66,25.512,contained
-Accountable resilient infrastructure,public_facility,21.66,25.654,contained
-Accountable resilient infrastructure,stormwater,17.66,31.585,contained
-Accountable resilient infrastructure,transport,17.327,23.609,contained
-Accountable resilient infrastructure,wastewater,18.66,27.862,contained
-Accountable resilient infrastructure,water,12.66,29.468,contained
-Predictive maintenance strategy,digital,49.94,23.935,moderate
-Predictive maintenance strategy,environmental,27.94,19.051,contained
-Predictive maintenance strategy,power,40.94,29.096,moderate
-Predictive maintenance strategy,public_facility,33.94,29.202,contained
-Predictive maintenance strategy,stormwater,29.94,35.313,contained
-Predictive maintenance strategy,transport,29.607,26.265,contained
-Predictive maintenance strategy,wastewater,30.94,31.394,contained
-Predictive maintenance strategy,water,24.94,32.695,contained
-Reactive maintenance baseline,digital,50.38,35.131,moderate
-Reactive maintenance baseline,environmental,28.38,30.442,contained
-Reactive maintenance baseline,power,41.38,41.349,moderate
-Reactive maintenance baseline,public_facility,34.38,41.529,contained
-Reactive maintenance baseline,stormwater,30.38,47.922,contained
-Reactive maintenance baseline,transport,30.047,38.495,contained
-Reactive maintenance baseline,wastewater,31.38,43.801,contained
-Reactive maintenance baseline,water,25.38,44.894,contained
-Sensor-rich but underfunded,digital,66.48,31.203,high
-Sensor-rich but underfunded,environmental,44.48,26.081,moderate
-Sensor-rich but underfunded,power,57.48,37.247,moderate
-Sensor-rich but underfunded,public_facility,50.48,37.38,moderate
-Sensor-rich but underfunded,stormwater,46.48,43.686,moderate
-Sensor-rich but underfunded,transport,46.147,34.077,moderate
-Sensor-rich but underfunded,wastewater,47.48,39.475,moderate
-Sensor-rich but underfunded,water,41.48,40.427,moderate
+scenario,average_cyber_physical_dependency,high_dependency_asset_count,highest_dependency_asset,diagnostic
+Accountable resilient infrastructure,20.46,0,public_broadband_hub,cyber-physical dependency comparatively contained
+Predictive maintenance strategy,32.74,0,public_broadband_hub,cyber-physical dependency comparatively contained
+Reactive maintenance baseline,33.18,0,public_broadband_hub,cyber-physical dependency comparatively contained
+Sensor-rich but underfunded,49.28,2,public_broadband_hub,digital fragility requires review

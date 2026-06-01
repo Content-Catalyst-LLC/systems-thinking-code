@@ -1,0 +1,5 @@
+scenario,average_maintenance_action_score,average_risk_score,average_asset_condition,diagnostic
+Accountable resilient infrastructure,48.82,25.457,67.364,maintenance capacity aligned with risk
+Predictive maintenance strategy,41.962,27.438,63.469,maintenance capacity aligned with risk
+Reactive maintenance baseline,25.187,37.083,52.179,maintenance capacity lags risk
+Sensor-rich but underfunded,27.316,33.395,55.062,maintenance capacity lags risk

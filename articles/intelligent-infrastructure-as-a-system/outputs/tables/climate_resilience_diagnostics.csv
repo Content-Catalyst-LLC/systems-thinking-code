@@ -1,5 +1,5 @@
-scenario,average_resilience_all_assets,average_resilience_high_equity_priority_assets,average_risk_high_equity_priority_assets,high_equity_priority_asset_count
-Accountable resilient infrastructure,60.447,58.935,27.349,5
-Predictive maintenance strategy,48.765,47.152,30.084,5
-Reactive maintenance baseline,24.017,22.333,42.164,5
-Sensor-rich but underfunded,25.927,24.244,37.901,5
+scenario,average_resilience_score,vulnerable_high_priority_asset_count,average_risk_for_high_equity_assets,diagnostic
+Accountable resilient infrastructure,60.447,5,27.349,equity-priority assets comparatively stable
+Predictive maintenance strategy,48.765,5,30.084,equity-priority assets comparatively stable
+Reactive maintenance baseline,24.017,5,42.164,equity-priority climate resilience review needed
+Sensor-rich but underfunded,25.927,5,37.901,equity-priority assets comparatively stable

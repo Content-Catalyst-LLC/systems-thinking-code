@@ -1,0 +1,6 @@
+event_id,asset_id,event_type,year,cost_estimate,crew_hours,service_disruption_hours,notes
+m001,bridge_north,inspection,2026,15000,80,4,scheduled structural inspection
+m002,water_main_east,preventive_repair,2026,65000,220,18,valve and pipe section repair
+m003,substation_7,equipment_upgrade,2026,90000,260,6,transformer monitoring upgrade
+m004,stormwater_pump_south,pump_overhaul,2026,72000,240,12,stormwater pump preventive maintenance
+m005,hospital_access_corridor,pavement_repair,2026,45000,160,8,access corridor repair

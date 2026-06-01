@@ -1,0 +1,11 @@
+asset_id,category,condition,age,service_criticality,redundancy,equity_priority,climate_exposure,cyber_dependency
+bridge_north,transport,64,42,78,35,62,44,28
+water_main_east,water,58,55,86,25,82,52,34
+substation_7,power,70,38,92,42,70,48,66
+transit_signal_core,transport,72,24,74,48,58,36,72
+stormwater_pump_south,stormwater,54,47,88,30,76,78,44
+cooling_center_grid_node,public_facility,68,31,80,38,88,70,52
+air_quality_sensor_cluster,environmental,82,12,58,55,74,62,40
+wastewater_lift_station,wastewater,60,49,84,32,68,55,46
+public_broadband_hub,digital,76,18,72,40,80,32,84
+hospital_access_corridor,transport,62,36,90,28,86,46,30

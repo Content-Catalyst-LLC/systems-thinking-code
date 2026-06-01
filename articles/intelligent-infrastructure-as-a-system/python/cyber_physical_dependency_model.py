@@ -1,43 +1,43 @@
 #!/usr/bin/env python3
-"""Summarize cyber-physical dependency patterns from intelligent infrastructure outputs."""
-
 from __future__ import annotations
-from pathlib import Path
-from statistics import mean
-import csv
 
-ROOT = Path(__file__).resolve().parents[1]
-TABLES = ROOT / "outputs" / "tables"
+from pathlib import Path
+import csv
+from statistics import mean
+
+ARTICLE_ROOT = Path(__file__).resolve().parents[1]
+TABLES = ARTICLE_ROOT / "outputs" / "tables"
+CORE = TABLES / "intelligent_infrastructure_timeseries.csv"
+OUT = TABLES / "cyber_physical_dependency_diagnostics.csv"
 
 
 def main() -> None:
-    path = TABLES / "intelligent_infrastructure_timeseries.csv"
-    if not path.exists():
-        raise FileNotFoundError("Missing intelligent_infrastructure_timeseries.csv. Run the main Python workflow first.")
-    with path.open("r", newline="", encoding="utf-8") as handle:
-        rows = list(csv.DictReader(handle))
-    final_year = max(int(row["year"]) for row in rows)
-    final_rows = [row for row in rows if int(row["year"]) == final_year]
-    groups = sorted({(row["scenario"], row["category"]) for row in final_rows})
-    out = []
-    for scenario, category in groups:
-        subset = [row for row in final_rows if row["scenario"] == scenario and row["category"] == category]
-        avg_dependency = mean(float(row["cyber_physical_dependency"]) for row in subset)
-        avg_risk = mean(float(row["risk_score"]) for row in subset)
-        out.append(
-            {
-                "scenario": scenario,
-                "category": category,
-                "average_cyber_physical_dependency": round(avg_dependency, 3),
-                "average_risk_score": round(avg_risk, 3),
-                "dependency_warning": "high" if avg_dependency >= 60 else "moderate" if avg_dependency >= 40 else "contained",
-            }
-        )
-    with (TABLES / "cyber_physical_dependency_diagnostics.csv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(out[0].keys()))
+    if not CORE.exists():
+        print(f"Skipping cyber-physical diagnostics; missing {CORE}")
+        return
+
+    rows = list(csv.DictReader(CORE.open("r", encoding="utf-8")))
+    final_year = max(int(r["year"]) for r in rows)
+    final = [r for r in rows if int(r["year"]) == final_year]
+
+    output = []
+    for scenario in sorted(set(r["scenario"] for r in final)):
+        subset = [r for r in final if r["scenario"] == scenario]
+        high_dependency = [r for r in subset if float(r["cyber_physical_dependency"]) >= 60]
+        output.append({
+            "scenario": scenario,
+            "average_cyber_physical_dependency": round(mean(float(r["cyber_physical_dependency"]) for r in subset), 3),
+            "high_dependency_asset_count": len(high_dependency),
+            "highest_dependency_asset": max(subset, key=lambda r: float(r["cyber_physical_dependency"]))["asset_id"],
+            "diagnostic": "digital fragility requires review" if len(high_dependency) >= 2 else "cyber-physical dependency comparatively contained"
+        })
+
+    with OUT.open("w", newline="", encoding="utf-8") as handle:
+        writer = csv.DictWriter(handle, fieldnames=list(output[0].keys()))
         writer.writeheader()
-        writer.writerows(out)
-    print(f"Wrote {TABLES / 'cyber_physical_dependency_diagnostics.csv'}")
+        writer.writerows(output)
+
+    print(f"Wrote {OUT}")
 
 
 if __name__ == "__main__":
