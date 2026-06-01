@@ -1,0 +1,6 @@
+indicator,unit,system
+groundwater_stock,index,water
+food_production_index,index,food
+energy_security_index,index,energy
+nexus_stress_index,index,integrated
+resilience_index,index,integrated

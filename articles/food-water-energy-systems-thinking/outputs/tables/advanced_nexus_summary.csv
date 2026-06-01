@@ -1,0 +1,5 @@
+scenario,final_groundwater_stock,final_food_production_index,final_water_security_index,final_energy_security_index,average_nexus_stress_index,average_resilience_index,minimum_groundwater_stock,diagnostic
+Baseline depletion,0.0,37.967,0.0,65.035,43.2736129032258,50.013225806451615,0.0,moderate stress requiring redesign
+Drought stress,0.0,29.939,0.0,64.302,54.4108064516129,35.395774193548384,0.0,moderate stress requiring redesign
+Efficiency only,261.076,53.773,26.108,83.488,32.48909677419355,67.45074193548388,261.076,comparatively resilient pathway
+Regenerative resilience,743.2,84.844,74.32,100.0,14.903806451612905,96.69290322580645,743.2,comparatively resilient pathway

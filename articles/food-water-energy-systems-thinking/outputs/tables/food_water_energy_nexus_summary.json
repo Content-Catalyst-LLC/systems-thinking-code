@@ -1,0 +1,50 @@
+[
+  {
+    "scenario": "Baseline depletion",
+    "final_groundwater_stock": 0.0,
+    "minimum_groundwater_stock": 0.0,
+    "final_food_production_index": 37.967,
+    "final_water_security_index": 0.0,
+    "final_energy_security_index": 65.035,
+    "average_nexus_stress_index": 43.274,
+    "average_resilience_index": 50.013,
+    "years_high_stress": 5,
+    "diagnostic": "moderate stress requiring redesign"
+  },
+  {
+    "scenario": "Drought stress",
+    "final_groundwater_stock": 0.0,
+    "minimum_groundwater_stock": 0.0,
+    "final_food_production_index": 29.939,
+    "final_water_security_index": 0.0,
+    "final_energy_security_index": 64.302,
+    "average_nexus_stress_index": 54.411,
+    "average_resilience_index": 35.396,
+    "years_high_stress": 16,
+    "diagnostic": "high nexus fragility"
+  },
+  {
+    "scenario": "Efficiency only",
+    "final_groundwater_stock": 261.076,
+    "minimum_groundwater_stock": 261.076,
+    "final_food_production_index": 53.773,
+    "final_water_security_index": 26.108,
+    "final_energy_security_index": 83.488,
+    "average_nexus_stress_index": 32.489,
+    "average_resilience_index": 67.451,
+    "years_high_stress": 0,
+    "diagnostic": "comparatively resilient pathway"
+  },
+  {
+    "scenario": "Regenerative resilience",
+    "final_groundwater_stock": 743.2,
+    "minimum_groundwater_stock": 743.2,
+    "final_food_production_index": 84.844,
+    "final_water_security_index": 74.32,
+    "final_energy_security_index": 100.0,
+    "average_nexus_stress_index": 14.904,
+    "average_resilience_index": 96.693,
+    "years_high_stress": 0,
+    "diagnostic": "comparatively resilient pathway"
+  }
+]

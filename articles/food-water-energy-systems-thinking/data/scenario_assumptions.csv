@@ -1,0 +1,5 @@
+scenario,initial_groundwater,annual_recharge,irrigation_withdrawal,water_efficiency_gain,initial_soil_health,soil_regeneration,energy_price_index,renewable_energy_share,climate_stress,vulnerability_index,policy_start_year
+Baseline depletion,1000,28,55,0.00,62,0.5,1.10,0.15,0.18,52,999
+Drought stress,1000,20,62,0.05,58,0.4,1.30,0.18,0.32,62,8
+Efficiency only,1000,28,55,0.24,62,0.8,1.05,0.32,0.18,48,5
+Regenerative resilience,1000,34,50,0.30,66,2.4,0.95,0.68,0.16,34,3
